@@ -1,0 +1,436 @@
+#EXTM3U
+#EXTINF:1,Россия 24
+#EXTGRP:Информационные
+http://foreign-default.persik.by:82/live/Ch76/index.m3u8
+#EXTINF:1,Россия 1
+#EXTGRP:Эфирные
+http://foreign-default.persik.by:82/live/Ch41/index.m3u8
+#EXTINF:1,Первый канал
+#EXTGRP:Эфирные
+http://foreign-default.persik.by:82/live/Ch31/index.m3u8
+#EXTINF:1,Пятница
+#EXTGRP:Эфирные
+http://foreign-default.persik.by:82/live/Ch95/index.m3u8
+#EXTINF:1,РЕН ТВ
+#EXTGRP:Эфирные
+http://foreign-default.persik.by:82/live/Ch63/index.m3u8
+#EXTINF:1,365 дней ТВ
+#EXTGRP:Эфирные
+http://foreign-default.persik.by:82/live/Ch228/index.m3u8
+#EXTINF:1,8 канал
+#EXTGRP:Эфирные
+http://foreign-default.persik.by:82/live/Ch201/index.m3u8
+#EXTINF:1,ТНТ4
+#EXTGRP:Эфирные
+http://foreign-default.persik.by:82/live/Ch67/index.m3u8
+#EXTINF:1,РТР-Планета Европа
+#EXTGRP:Эфирные
+http://foreign-default.persik.by:82/live/Ch352/index.m3u8
+#EXTINF:1,ОНТ HD
+#EXTGRP:Эфирные
+http://foreign-default.persik.by:82/livehq/Ch324hd/index.m3u8
+#EXTINF:1,Viasat Explore
+#EXTGRP:Познавательные
+http://foreign-default.persik.by:82/live/Ch263/index.m3u8
+#EXTINF:1,Viasat Nature
+#EXTGRP:Познавательные
+http://foreign-default.persik.by:82/live/Ch265/index.m3u8
+#EXTINF:1,Сундучок Историй HD
+#EXTGRP:Познавательные
+http://edge-01-pub.persik.by:82/live/Ch014pub/index.m3u8
+#EXTINF:1,Роскосмос HD
+#EXTGRP:Познавательные
+http://edge-01-pub.persik.by:82/live/Ch013pub/index.m3u8
+#EXTINF:1,Путешествия
+#EXTGRP:Познавательные
+http://edge-01-pub.persik.by:82/live/Ch157pub/index.m3u8
+#EXTINF:1,Про рысей
+#EXTGRP:Познавательные
+http://edge-01-pub.persik.by:82/live/Ch182pub/index.m3u8
+#EXTINF:1,Природа
+#EXTGRP:Познавательные
+http://edge-01-pub.persik.by:82/live/Ch187pub/index.m3u8
+#EXTINF:1,Nat Geo Wild
+#EXTGRP:Познавательные
+http://foreign-default.persik.by:82/live/Ch334/index.m3u8
+#EXTINF:1,Short History
+#EXTGRP:Познавательные
+http://edge-01-pub.persik.by:82/live/Ch286pub/index.m3u8
+#EXTINF:1,YuraPaPu - Жизнь в Финляндии
+#EXTGRP:Познавательные
+http://edge-01-pub.persik.by:82/live/Ch312pub/index.m3u8
+#EXTINF:1,Животные HD
+#EXTGRP:Познавательные
+http://edge-01-pub.persik.by:82/live/Ch226pub/index.m3u8
+#EXTINF:1,ЗНАЮ ВСЁ
+#EXTGRP:Познавательные
+http://edge-01-pub.persik.by:82/live/Ch291pub/index.m3u8
+#EXTINF:1,История. Интересно!
+#EXTGRP:Познавательные
+http://edge-01-pub.persik.by:82/live/Ch287pub/index.m3u8
+#EXTINF:1,Кино Мира
+#EXTGRP:Познавательные
+http://edge-01-pub.persik.by:82/live/Ch298pub/index.m3u8
+#EXTINF:1,КиноБлог HD
+#EXTGRP:Познавательные
+http://edge-01-pub.persik.by:82/live/Ch194pub/index.m3u8
+#EXTINF:1,Кинокомедии. Рекомендуем
+#EXTGRP:Познавательные
+http://edge-01-pub.persik.by:82/live/Ch041pub/index.m3u8
+#EXTINF:1,Кинопремьера HD
+#EXTGRP:Познавательные
+http://foreign-default.persik.by:82/live/Ch221hd/index.m3u8
+#EXTINF:1,Кинособытия
+#EXTGRP:Познавательные
+http://edge-01-pub.persik.by:82/live/Ch040pub/index.m3u8
+#EXTINF:1,Китай Удивляй
+#EXTGRP:Познавательные
+http://edge-01-pub.persik.by:82/live/Ch243pub/index.m3u8
+#EXTINF:1,2х2 (+2)
+#EXTGRP:Развлекательные
+http://foreign-default.persik.by:82/livehq/Ch211/index.m3u8
+#EXTINF:1,вы не знали?
+#EXTGRP:Развлекательные
+http://edge-01-pub.persik.by:82/live/Ch180pub/index.m3u8
+#EXTINF:1,Гейминг HD
+#EXTGRP:Развлекательные
+http://edge-01-pub.persik.by:82/live/Ch205pub/index.m3u8
+#EXTINF:1,Хочу знать все!
+#EXTGRP:Развлекательные
+http://edge-01-pub.persik.by:82/live/Ch073pub/index.m3u8
+#EXTINF:1,Хочу Знать
+#EXTGRP:Развлекательные
+http://edge-01-pub.persik.by:82/live/Ch284pub/index.m3u8
+#EXTINF:1,Уникум
+#EXTGRP:Развлекательные
+http://foreign-default.persik.by:82/live/Ch49/index.m3u8
+#EXTINF:1,Союз
+#EXTGRP:Развлекательные
+http://foreign-default.persik.by:82/live/Ch9/index.m3u8
+#EXTINF:1,Строим для себя
+#EXTGRP:Развлекательные
+http://edge-01-pub.persik.by:82/live/Ch176pub/index.m3u8
+#EXTINF:1,Филармония HD
+#EXTGRP:Развлекательные
+http://edge-01-pub.persik.by:82/live/Ch011pub/index.m3u8
+#EXTINF:1,Профессор ГУГЛОВ
+#EXTGRP:Развлекательные
+http://edge-01-pub.persik.by:82/live/Ch244pub/index.m3u8
+#EXTINF:1,COMEDY BOX
+#EXTGRP:Развлекательные
+http://edge-01-pub.persik.by:82/live/Ch245pub/index.m3u8
+#EXTINF:1,Kosmo
+#EXTGRP:Развлекательные
+http://edge-01-pub.persik.by:82/live/Ch070pub/index.m3u8
+#EXTINF:1,O!
+#EXTGRP:Развлекательные
+http://foreign-default.persik.by:82/livehq/Ch359/index.m3u8
+#EXTINF:1,ЖАРА
+#EXTGRP:Развлекательные
+http://foreign-default.persik.by:82/live/Ch43/index.m3u8
+#EXTINF:1,Кто есть кто
+#EXTGRP:Развлекательные
+http://foreign-default.persik.by:82/live/Ch56/index.m3u8
+#EXTINF:1,Культура
+#EXTGRP:Развлекательные
+http://foreign-default.persik.by:82/live/Ch21/index.m3u8
+#EXTINF:1,Allmedia
+#EXTGRP:Кино и сериалы
+http://edge-01-pub.persik.by:82/live/Ch251pub/index.m3u8
+#EXTINF:1,Советские комедии HD
+#EXTGRP:Кино и сериалы
+http://edge-01-pub.persik.by:82/live/Ch035pub/index.m3u8
+#EXTINF:1,ТВ3
+#EXTGRP:Кино и сериалы
+http://foreign-default.persik.by:82/live/Ch101/index.m3u8
+#EXTINF:1,Новогодние фильмы HD
+#EXTGRP:Кино и сериалы
+http://edge-01-pub.persik.by:82/live/Ch255pub/index.m3u8
+#EXTINF:1,Fox Life Россия
+#EXTGRP:Кино и сериалы
+http://foreign-default.persik.by:82/live/Ch340/index.m3u8
+#EXTINF:1,Fox Life Россия
+#EXTGRP:Кино и сериалы
+http://foreign-default.persik.by:82/live/Ch340/index.m3u8
+#EXTINF:1,Sony Turbo
+#EXTGRP:Кино и сериалы
+http://foreign-default.persik.by:82/live/Ch337/index.m3u8
+#EXTINF:1,Дом кино премиум HD
+#EXTGRP:Кино и сериалы
+http://foreign-default.persik.by:82/livehq/Ch243hd/index.m3u8
+#EXTINF:1,Золотая колекция
+#EXTGRP:Кино и сериалы
+http://foreign-default.persik.by:82/livehq/Ch342/index.m3u8
+#EXTINF:1,Сериалы HD
+#EXTGRP:Кино и сериалы
+http://edge-01-pub.persik.by:82/live/Ch003pub/index.m3u8
+#EXTINF:1,1000 Секретов Силы
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch334pub/index.m3u8
+#EXTINF:1,Братья Рыбаки
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch140pub/index.m3u8
+#EXTINF:1,Вокруг рыбалки
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch164pub/index.m3u8
+#EXTINF:1,Техно HD
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch199pub/index.m3u8
+#EXTINF:1,Рыболов HD
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch196pub/index.m3u8
+#EXTINF:1,Рыбалка с Сибиряком
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch023pub/index.m3u8
+#EXTINF:1,Рыбалка с Олегом
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch172pub/index.m3u8
+#EXTINF:1,Рыбалка на реке
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch321pub/index.m3u8
+#EXTINF:1,Рыбалка HD
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch195pub/index.m3u8
+#EXTINF:1,Рыба кит HD
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch006pub/index.m3u8
+#EXTINF:1,ПриветТачка
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch078pub/index.m3u8
+#EXTINF:1,ПАПА РОБ ШОУ
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch220pub/index.m3u8
+#EXTINF:1,ПАПА ДОМА
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch146pub/index.m3u8
+#EXTINF:1,Оружейный барон
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch313pub/index.m3u8
+#EXTINF:1,Около рыбалки. Андропов
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch317pub/index.m3u8
+#EXTINF:1,Мастер HD
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch197pub/index.m3u8
+#EXTINF:1,BE BIGGER | Мужской канал
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch179pub/index.m3u8
+#EXTINF:1,Fishing TV - рыболовный канал
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch134pub/index.m3u8
+#EXTINF:1,Serega Master
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch032pub/index.m3u8
+#EXTINF:1,Serega Otvertka
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch071pub/index.m3u8
+#EXTINF:1,Авиамания
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch069pub/index.m3u8
+#EXTINF:1,Алекс гараж
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch293pub/index.m3u8
+#EXTINF:1,Золотые ручки
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch288pub/index.m3u8
+#EXTINF:1,Клуб рыбаков
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch099pub/index.m3u8
+#EXTINF:1,Иван Зенкевич PRO автомобили
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch241pub/index.m3u8
+#EXTINF:1,Волшебная еда
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch358pub/index.m3u8
+#EXTINF:1,Выпечка и кулинария
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch005pub/index.m3u8
+#EXTINF:1,Я худею с Екатериной Кононовой
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch087pub/index.m3u8
+#EXTINF:1,Я худею с Екатериной Кононовой
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch087pub/index.m3u8
+#EXTINF:1,Щи да Каша
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch356pub/index.m3u8
+#EXTINF:1,Шпильки | Женский журнал
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch281pub/index.m3u8
+#EXTINF:1,ХЛЕБ СОЛЬ
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch085pub/index.m3u8
+#EXTINF:1,Рецепты Bon Appetit
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch079pub/index.m3u8
+#EXTINF:1,Простой рецепт
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch306pub/index.m3u8
+#EXTINF:1,ПОЛЕЗНЫЕ СОВЕТЫ MIX
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch026pub/index.m3u8
+#EXTINF:1,Покашеварим
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch089pub/index.m3u8
+#EXTINF:1,Наша кухня (new)
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch265pub/index.m3u8
+#EXTINF:1,Любящие мамы
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch162pub/index.m3u8
+#EXTINF:1,Tanya Rybakova
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch092pub/index.m3u8
+#EXTINF:1,ВКУСНЫЕ РЕЦЕПТЫ с Еленой Хусаиновой
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch361pub/index.m3u8
+#EXTINF:1,Другая кухня
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch076pub/index.m3u8
+#EXTINF:1,Ешь и Худей
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch300pub/index.m3u8
+#EXTINF:1,Кулинар HD
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch202pub/index.m3u8
+#EXTINF:1,Кулинарный микс
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch025pub/index.m3u8
+#EXTINF:1,Сад-огород! LIFE
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch318pub/index.m3u8
+#EXTINF:1,Семейная кухня
+#EXTGRP:Женские
+http://edge-01-pub.persik.by:82/live/Ch238pub/index.m3u8
+#EXTINF:1,Bridge TV
+#EXTGRP:Музыкальные
+http://foreign-default.persik.by:82/live/Ch2/index.m3u8
+#EXTINF:1,Bridge TV РУССКИЙ ХИТ
+#EXTGRP:Музыкальные
+http://foreign-default.persik.by:82/live/Ch37/index.m3u8
+#EXTINF:1,Europa Plus TV
+#EXTGRP:Музыкальные
+http://foreign-default.persik.by:82/live/Ch1/index.m3u8
+#EXTINF:1,Ru.TV
+#EXTGRP:Музыкальные
+http://foreign-default.persik.by:82/live/Ch213/index.m3u8
+#EXTINF:1,Sluhay.by COVER
+#EXTGRP:Музыкальные
+http://edge-01-pub.persik.by:82/live/Ch117pub/index.m3u8
+#EXTINF:1,Sluhay RADIO
+#EXTGRP:Музыкальные
+http://edge-01-pub.persik.by:82/live/Ch048pub/index.m3u8
+#EXTINF:1,Sluhay.by
+#EXTGRP:Музыкальные
+http://edge-01-pub.persik.by:82/live/Ch045pub/index.m3u8
+#EXTINF:1,Sluhay.by EDM
+#EXTGRP:Музыкальные
+http://edge-01-pub.persik.by:82/live/Ch091pub/index.m3u8
+#EXTINF:1,Sluhay.by LIVE
+#EXTGRP:Музыкальные
+http://edge-01-pub.persik.by:82/live/Ch173pub/index.m3u8
+#EXTINF:1,Sluhay.by MOVA
+#EXTGRP:Музыкальные
+http://edge-01-pub.persik.by:82/live/Ch034pub/index.m3u8
+#EXTINF:1,Sluhay.by POP
+#EXTGRP:Музыкальные
+http://edge-01-pub.persik.by:82/live/Ch066pub/index.m3u8
+#EXTINF:1,Sluhay.by RAP
+#EXTGRP:Музыкальные
+http://edge-01-pub.persik.by:82/live/Ch107pub/index.m3u8
+#EXTINF:1,Sluhay.by ROCK
+#EXTGRP:Музыкальные
+http://edge-01-pub.persik.by:82/live/Ch114pub/index.m3u8
+#EXTINF:1,TECHNOZON
+#EXTGRP:Музыкальные
+http://edge-01-pub.persik.by:82/live/Ch224pub/index.m3u8
+#EXTINF:1,Techno-Kitchen
+#EXTGRP:Музыкальные
+http://edge-01-pub.persik.by:82/live/Ch335pub/index.m3u8
+#EXTINF:1,THT Music
+#EXTGRP:Музыкальные
+http://foreign-default.persik.by:82/live/Ch244/index.m3u8
+#EXTINF:1,TopRelaxMusic
+#EXTGRP:Музыкальные
+http://edge-01-pub.persik.by:82/live/Ch001pub/index.m3u8
+#EXTINF:1,Бро&Сис - Детские Песни
+#EXTGRP:Детские
+http://edge-01-pub.persik.by:82/live/Ch347pub/index.m3u8
+#EXTINF:1,Бро&Сис - Детские Песни
+#EXTGRP:Детские
+http://edge-01-pub.persik.by:82/live/Ch347pub/index.m3u8
+#EXTINF:1,Би-Би-Знайки HD
+#EXTGRP:Детские
+http://edge-01-pub.persik.by:82/live/Ch067pub/index.m3u8
+#EXTINF:1,Вагончик игрушек
+#EXTGRP:Детские
+http://edge-01-pub.persik.by:82/live/Ch229pub/index.m3u8
+#EXTINF:1,Бубновский
+#EXTGRP:Детские
+http://edge-01-pub.persik.by:82/live/Ch283pub/index.m3u8
+#EXTINF:1,Супердети
+#EXTGRP:Детские
+http://edge-01-pub.persik.by:82/live/Ch155pub/index.m3u8
+#EXTINF:1,Песни Для Детей HD
+#EXTGRP:Детские
+http://edge-01-pub.persik.by:82/live/Ch181pub/index.m3u8
+#EXTINF:1,Носики Курносики
+#EXTGRP:Детские
+http://edge-01-pub.persik.by:82/live/Ch292pub/index.m3u8
+#EXTINF:1,МультиЁж
+#EXTGRP:Детские
+http://edge-01-pub.persik.by:82/live/Ch039pub/index.m3u8
+#EXTINF:1,Мимилашка
+#EXTGRP:Детские
+http://edge-01-pub.persik.by:82/live/Ch278pub/index.m3u8
+#EXTINF:1,Новогодние мультфильмы
+#EXTGRP:Детские
+http://edge-01-pub.persik.by:82/live/Ch323pub/index.m3u8
+#EXTINF:1,Funny Games TV
+#EXTGRP:Детские
+http://edge-01-pub.persik.by:82/live/Ch272pub/index.m3u8
+#EXTINF:1,Gulli Girl
+#EXTGRP:Детские
+http://foreign-default.persik.by:82/live/Ch257/index.m3u8
+#EXTINF:1,Smile Toys Review
+#EXTGRP:Детские
+http://edge-01-pub.persik.by:82/live/Ch145pub/index.m3u8
+#EXTINF:1,Детки HD
+#EXTGRP:Детские
+http://edge-01-pub.persik.by:82/live/Ch221pub/index.m3u8
+#EXTINF:1,Детские мультфильмы HD
+#EXTGRP:Детские
+http://edge-01-pub.persik.by:82/live/Ch007pub/index.m3u8
+#EXTINF:1,Канал Disney
+#EXTGRP:Детские
+http://foreign-default.persik.by:82/live/Ch330/index.m3u8
+#EXTINF:1,Карусель
+#EXTGRP:Детские
+http://foreign-default.persik.by:82/live/Ch341/index.m3u8
+#EXTINF:1,Беларусь 1 HD
+#EXTGRP:Белорусь
+http://foreign-default.persik.by:82/livehq/Ch320hd/index.m3u8
+#EXTINF:1,Беларусь 24 HD
+#EXTGRP:Белорусь
+http://foreign-default.persik.by:82/livehq/Ch200hd/index.m3u8
+#EXTINF:1,Беларусь 3 HD
+#EXTGRP:Белорусь
+http://foreign-default.persik.by:82/livehq/Ch322/index.m3u8
+#EXTINF:1,Гостиницы Беларуси
+#EXTGRP:Белорусь
+http://edge-01-pub.persik.by:82/live/Ch177pub/index.m3u8
+#EXTINF:1,СТВ HD
+#EXTGRP:Белорусь
+http://foreign-default.persik.by:82/livehq/Ch325hd/index.m3u8
+#EXTINF:1,РТР Беларусь HD
+#EXTGRP:Белорусь
+http://foreign-default.persik.by:82/livehq/Ch77hd/index.m3u8
+#EXTINF:1,НТВ Беларусь HD
+#EXTGRP:Белорусь
+http://foreign-default.persik.by:82/livehq/Ch78hd/index.m3u8
+#EXTINF:1,НТВ Беларусь HD
+#EXTGRP:Белорусь
+http://foreign-default.persik.by:82/livehq/Ch78hd/index.m3u8
+#EXTINF:1,ВТВ HD
+#EXTGRP:Белорусь
+http://foreign-default.persik.by:82/livehq/Ch16hd/index.m3u8

@@ -1,0 +1,187 @@
+#EXTM3U
+#EXTINF:1,Россия 24
+#EXTGRP:Информационные
+http://91.234.255.242:8000/play/a015/index.m3u8
+#EXTINF:1,360°
+#EXTGRP:Информационные
+http://91.234.255.242:8000/play/a00b/index.m3u8
+#EXTINF:1,РБК
+#EXTGRP:Информационные
+http://91.234.255.242:8000/play/a00c/index.m3u8
+#EXTINF:1,Первый канал
+#EXTGRP:Эфирные
+http://91.234.255.242:8000/play/a03d/index.m3u8
+#EXTINF:1,Россия 1
+#EXTGRP:Эфирные
+http://91.234.255.242:8000/play/a010/index.m3u8
+#EXTINF:1,Пятый канал
+#EXTGRP:Эфирные
+http://91.234.255.242:8000/play/a03g/index.m3u8
+#EXTINF:1,НТВ
+#EXTGRP:Эфирные
+http://91.234.255.242:8000/play/a03f/index.m3u8
+#EXTINF:1,РЕН ТВ
+#EXTGRP:Эфирные
+http://91.234.255.242:8000/play/a032/index.m3u8
+#EXTINF:1,ОТР
+#EXTGRP:Эфирные
+http://91.234.255.242:8000/play/a004/index.m3u8
+#EXTINF:1,ТВЦ
+#EXTGRP:Эфирные
+http://91.234.255.242:8000/play/a01y/index.m3u8
+#EXTINF:1,ТВ Центр
+#EXTGRP:Эфирные
+http://91.234.255.242:8000/play/a03j/index.m3u8
+#EXTINF:1,Домашний
+#EXTGRP:Эфирные
+http://91.234.255.242:8000/play/a00r/index.m3u8
+#EXTINF:1,Домашний
+#EXTGRP:Эфирные
+http://91.234.255.242:8000/play/a035/index.m3u8
+#EXTINF:1,Пятница
+#EXTGRP:Эфирные
+http://91.234.255.242:8000/play/a018/index.m3u8
+#EXTINF:1,Че
+#EXTGRP:Эфирные
+http://91.234.255.242:8000/play/a00v/index.m3u8
+#EXTINF:1,2X2
+#EXTGRP:Эфирные
+http://91.234.255.242:8000/play/a025/index.m3u8
+#EXTINF:1,ТНТ
+#EXTGRP:Эфирные
+http://91.234.255.242:8000/play/a03a/index.m3u8
+#EXTINF:1,СТС
+#EXTGRP:Эфирные
+http://91.234.255.242:8000/play/a034/index.m3u8
+#EXTINF:1,Домашние животные
+#EXTGRP:Познавательные
+http://91.234.255.242:8000/play/a02o/index.m3u8
+#EXTINF:1,Мир
+#EXTGRP:Познавательные
+http://91.234.255.242:8000/play/a019/index.m3u8
+#EXTINF:1,БОБЁР
+#EXTGRP:Познавательные
+http://91.234.255.242:8000/play/a01h/index.m3u8
+#EXTINF:1,Россия К
+#EXTGRP:Развлекательные
+http://91.234.255.242:8000/play/a014/index.m3u8
+#EXTINF:1,СПАС
+#EXTGRP:Развлекательные
+http://91.234.255.242:8000/play/a016/index.m3u8
+#EXTINF:1,Ю
+#EXTGRP:Развлекательные
+http://91.234.255.242:8000/play/a00f/index.m3u8
+#EXTINF:1,Время: далекое и близкое
+#EXTGRP:Развлекательные
+http://91.234.255.242:8000/play/a01i/index.m3u8
+#EXTINF:1,World Fashion
+#EXTGRP:Развлекательные
+http://91.234.255.242:8000/play/a00h/index.m3u8
+#EXTINF:1,ЖИВИ!
+#EXTGRP:Развлекательные
+http://91.234.255.242:8000/play/a02u/index.m3u8
+#EXTINF:1,Москва Доверие
+#EXTGRP:Развлекательные
+http://91.234.255.242:8000/play/a02t/index.m3u8
+#EXTINF:1,СТС Love
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a00u/index.m3u8
+#EXTINF:1,ТВ3
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a036/index.m3u8
+#EXTINF:1,ТВ3
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a017/index.m3u8
+#EXTINF:1,Звезда
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a00m/index.m3u8
+#EXTINF:1,Иллюзион+
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a01g/index.m3u8
+#EXTINF:1,TV 1000
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a02l/index.m3u8
+#EXTINF:1,TV 1000 Action
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a02m/index.m3u8
+#EXTINF:1,TV 1000 Русское кино
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a02n/index.m3u8
+#EXTINF:1,Дом Кино
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a01j/index.m3u8
+#EXTINF:1,ЕвроКино
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a021/index.m3u8
+#EXTINF:1,Звезда
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a038/index.m3u8
+#EXTINF:1,Кино ТВ
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a00w/index.m3u8
+#EXTINF:1,Кино ТВ
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a00w/index.m3u8
+#EXTINF:1,Комедия
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a00x/index.m3u8
+#EXTINF:1,Любимое Кино
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a00s/index.m3u8
+#EXTINF:1,Русский бестселлер
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a02w/index.m3u8
+#EXTINF:1,Русский Иллюзион
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a01f/index.m3u8
+#EXTINF:1,Русский роман
+#EXTGRP:Кино и сериалы
+http://91.234.255.242:8000/play/a02y/index.m3u8
+#EXTINF:1,Охота и рыбалка
+#EXTGRP:Мужские
+http://91.234.255.242:8000/play/a01z/index.m3u8
+#EXTINF:1,Доктор
+#EXTGRP:Женские
+http://91.234.255.242:8000/play/a005/index.m3u8
+#EXTINF:1,Усадьба-ТВ
+#EXTGRP:Женские
+http://91.234.255.242:8000/play/a02p/index.m3u8
+#EXTINF:1,BRIDGE TV Русский Хит
+#EXTGRP:Музыкальные
+http://91.234.255.242:8000/play/a024/index.m3u8
+#EXTINF:1,МУЗ
+#EXTGRP:Музыкальные
+http://91.234.255.242:8000/play/a008/index.m3u8
+#EXTINF:1,Музыка Первого
+#EXTGRP:Музыкальные
+http://91.234.255.242:8000/play/a01l/index.m3u8
+#EXTINF:1,ТНТ MUSIC
+#EXTGRP:Музыкальные
+http://91.234.255.242:8000/play/a00i/index.m3u8
+#EXTINF:1,Карусель
+#EXTGRP:Детские
+http://91.234.255.242:8000/play/a01k/index.m3u8
+#EXTINF:1,В гостях у сказки
+#EXTGRP:Детские
+http://91.234.255.242:8000/play/a02z/index.m3u8
+#EXTINF:1,Канал Disney
+#EXTGRP:Детские
+http://91.234.255.242:8000/play/a007/index.m3u8
+#EXTINF:1,КАРУСЕЛЬ
+#EXTGRP:Детские
+http://91.234.255.242:8000/play/a03i/index.m3u8
+#EXTINF:1,Мульт
+#EXTGRP:Детские
+http://91.234.255.242:8000/play/a02s/index.m3u8
+#EXTINF:1,МАТЧ!
+#EXTGRP:Спортивные
+http://91.234.255.242:8000/play/a03e/index.m3u8
+#EXTINF:1,МАТЧ! БОЕЦ
+#EXTGRP:Спортивные
+http://91.234.255.242:8000/play/a003/index.m3u8
+#EXTINF:1,Матч! Премьер
+#EXTGRP:Спортивные
+http://91.234.255.242:8000/play/a009/index.m3u8
+#EXTINF:1,Телеканал КХЛ
+#EXTGRP:Спортивные
+http://91.234.255.242:8000/play/a00d/index.m3u8

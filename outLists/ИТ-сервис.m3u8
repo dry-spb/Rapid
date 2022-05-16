@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:1,РОССИЯ 24
+#EXTGRP:Информационные
+http://141.101.176.210:8010/play/a00l/index.m3u8
+#EXTINF:1,Пятница
+#EXTGRP:Эфирные
+http://141.101.176.210:8011/play/a00j/index.m3u8
+#EXTINF:1,Первый
+#EXTGRP:Эфирные
+http://141.101.176.210:8009/play/a001/index.m3u8
+#EXTINF:1,РОССИЯ
+#EXTGRP:Эфирные
+http://141.101.176.210:8010/play/a00k/index.m3u8
+#EXTINF:1,ПЯТЫЙ КАНАЛ
+#EXTGRP:Эфирные
+http://141.101.176.210:8009/play/a004/index.m3u8
+#EXTINF:1,НТВ
+#EXTGRP:Эфирные
+http://141.101.176.210:8009/play/a003/index.m3u8
+#EXTINF:1,РЕН ТВ
+#EXTGRP:Эфирные
+http://141.101.176.210:8011/play/a00e/index.m3u8
+#EXTINF:1,Домашний
+#EXTGRP:Эфирные
+http://141.101.176.210:8011/play/a00h/index.m3u8
+#EXTINF:1,ТВ Центр
+#EXTGRP:Эфирные
+http://141.101.176.210:8009/play/a007/index.m3u8
+#EXTINF:1,МИР
+#EXTGRP:Эфирные
+http://141.101.176.210:8011/play/a00l/index.m3u8
+#EXTINF:1,ОТР
+#EXTGRP:Эфирные
+http://141.101.176.210:8010/play/a00m/index.m3u8
+#EXTINF:1,СТС
+#EXTGRP:Эфирные
+http://141.101.176.210:8011/play/a00g/index.m3u8
+#EXTINF:1,ТНТ
+#EXTGRP:Эфирные
+http://141.101.176.210:8011/play/a00m/index.m3u8
+#EXTINF:1,МАЯК
+#EXTGRP:Развлекательные
+http://141.101.176.210:8009/play/a009/index.m3u8
+#EXTINF:1,РОССИЯ К
+#EXTGRP:Развлекательные
+http://141.101.176.210:8009/play/a005/index.m3u8
+#EXTINF:1,Спас
+#EXTGRP:Развлекательные
+http://141.101.176.210:8011/play/a00f/index.m3u8
+#EXTINF:1,Звезда
+#EXTGRP:Кино и сериалы
+http://141.101.176.210:8011/play/a00k/index.m3u8
+#EXTINF:1,КИНОУЖАС
+#EXTGRP:Кино и сериалы
+http://141.101.176.210:8021/play/kinouzhas/index.m3u8
+#EXTINF:1,ТВ3
+#EXTGRP:Кино и сериалы
+http://141.101.176.210:8011/play/a00i/index.m3u8
+#EXTINF:1,RU.TV
+#EXTGRP:Музыкальные
+http://141.101.176.210:8021/play/rutv/index.m3u8
+#EXTINF:1,ВЕСТИ ФМ
+#EXTGRP:Музыкальные
+http://141.101.176.210:8009/play/a008/index.m3u8
+#EXTINF:1,МУЗ ТВ
+#EXTGRP:Музыкальные
+http://141.101.176.210:8011/play/a00n/index.m3u8
+#EXTINF:1,КАРУСЕЛЬ
+#EXTGRP:Детские
+http://141.101.176.210:8009/play/a006/index.m3u8
+#EXTINF:1,МАТЧ!
+#EXTGRP:Спортивные
+http://141.101.176.210:8009/play/a002/index.m3u8

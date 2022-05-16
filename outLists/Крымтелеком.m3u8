@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:1,Россия 24
+#EXTGRP:Информационные
+http://iptv.ktkru.ru:8007/index.m3u8
+#EXTINF:1,Первый канал
+#EXTGRP:Эфирные
+http://iptv.ktkru.ru:8001/index.m3u8
+#EXTINF:1,Россия 1
+#EXTGRP:Эфирные
+http://iptv.ktkru.ru:8002/index.m3u8
+#EXTINF:1,Пятый канал
+#EXTGRP:Эфирные
+http://iptv.ktkru.ru:8005/index.m3u8
+#EXTINF:1,Домашний
+#EXTGRP:Эфирные
+http://iptv.ktkru.ru:8014/index.m3u8
+#EXTINF:1,Пятница
+#EXTGRP:Эфирные
+http://iptv.ktkru.ru:8016/index.m3u8
+#EXTINF:1,РЕН ТВ
+#EXTGRP:Эфирные
+http://iptv.ktkru.ru:8011/index.m3u8
+#EXTINF:1,ОТР
+#EXTGRP:Эфирные
+http://iptv.ktkru.ru:8009/index.m3u8
+#EXTINF:1,ТВ Центр
+#EXTGRP:Эфирные
+http://iptv.ktkru.ru:8010/index.m3u8
+#EXTINF:1,Мир
+#EXTGRP:Эфирные
+http://iptv.ktkru.ru:8018/index.m3u8
+#EXTINF:1,НТВ
+#EXTGRP:Эфирные
+http://iptv.ktkru.ru:8004/index.m3u8
+#EXTINF:1,ТНТ
+#EXTGRP:Эфирные
+http://iptv.ktkru.ru:8019/index.m3u8
+#EXTINF:1,СТС
+#EXTGRP:Эфирные
+http://iptv.ktkru.ru:8013/index.m3u8
+#EXTINF:1,КРЫМ 24
+#EXTGRP:Эфирные
+http://iptv.ktkru.ru:8025/index.m3u8
+#EXTINF:1,Россия К
+#EXTGRP:Развлекательные
+http://iptv.ktkru.ru:8006/index.m3u8
+#EXTINF:1,Спас
+#EXTGRP:Развлекательные
+http://iptv.ktkru.ru:8012/index.m3u8
+#EXTINF:1,ТВ 3
+#EXTGRP:Кино и сериалы
+http://iptv.ktkru.ru:8015/index.m3u8
+#EXTINF:1,Звезда
+#EXTGRP:Кино и сериалы
+http://iptv.ktkru.ru:8017/index.m3u8
+#EXTINF:1,Муз ТВ
+#EXTGRP:Музыкальные
+http://iptv.ktkru.ru:8020/index.m3u8
+#EXTINF:1,Карусель
+#EXTGRP:Детские
+http://iptv.ktkru.ru:8008/index.m3u8

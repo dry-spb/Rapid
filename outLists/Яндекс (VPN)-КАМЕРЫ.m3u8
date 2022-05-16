@@ -1,0 +1,214 @@
+#EXTM3U
+#EXTINF:1,Россия 24
+#EXTGRP:Информационные
+https://strm.yandex.ru/kal/euronews_supres/euronews_supres0.m3u8
+#EXTINF:1,Москва-24
+#EXTGRP:Информационные
+https://strm.yandex.ru/kal/msk24_supres/msk24_supres0.m3u8
+#EXTINF:1,РБК
+#EXTGRP:Информационные
+https://strm.yandex.ru/kal/rbc/rbc0.m3u8
+#EXTINF:1,RT HD
+#EXTGRP:Информационные
+http://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
+#EXTINF:1,Russia Today
+#EXTGRP:Информационные
+https://strm.yandex.ru/kal/rt_hd/rt_hd0.m3u8
+#EXTINF:1,МИР 24
+#EXTGRP:Информационные
+https://strm.yandex.ru/kal/mir24/mir240.m3u8
+#EXTINF:1,RTG HD
+#EXTGRP:Эфирные
+https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:1,ОТР
+#EXTGRP:Эфирные
+https://strm.yandex.ru/kal/otr/otr0.m3u8
+#EXTINF:1,Царьград
+#EXTGRP:Эфирные
+https://strm.yandex.ru/kal/tsargradtv/tsargradtv0.m3u8
+#EXTINF:1,Центральное Телевидение
+#EXTGRP:Эфирные
+https://strm.yandex.ru/kal/ctv/ctv0.m3u8
+#EXTINF:1,RT Doc
+#EXTGRP:Познавательные
+https://strm.yandex.ru/kal/rtd_hd/rtd_hd0.m3u8
+#EXTINF:1,МИР
+#EXTGRP:Познавательные
+https://strm.yandex.ru/kal/mir/mir0.m3u8
+#EXTINF:1,Мир Вокруг
+#EXTGRP:Познавательные
+https://strm.yandex.ru/kal/mitvokrug/mitvokrug0.m3u8
+#EXTINF:1,Наша сибирь HD
+#EXTGRP:Познавательные
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:1,Совершенно секретно
+#EXTGRP:Познавательные
+https://strm.yandex.ru/kal/sovsec/sovsec0.m3u8
+#EXTINF:1,Спас
+#EXTGRP:Развлекательные
+https://strm.yandex.ru/kal/spas/spas0.m3u8
+#EXTINF:1,Старт HD
+#EXTGRP:Развлекательные
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:1,Ю
+#EXTGRP:Развлекательные
+https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:1,Звезда
+#EXTGRP:Кино и сериалы
+https://strm.yandex.ru/kal/zvezda/zvezda0.m3u8
+#EXTINF:1,НТС HD
+#EXTGRP:Кино и сериалы
+https://strm.yandex.ru/kal/nts/nts0.m3u8
+#EXTINF:1,Диалоги о рыбалке
+#EXTGRP:Мужские
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:1,Bridge TV
+#EXTGRP:Музыкальные
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:1,Bridge TV Classic
+#EXTGRP:Музыкальные
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:1,Bridge TV Deluxe
+#EXTGRP:Музыкальные
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:1,BRIDGE TV HITS
+#EXTGRP:Музыкальные
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:1,BRIDGE TV Русский Хит
+#EXTGRP:Музыкальные
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:1,Bridge tv Фрэш
+#EXTGRP:Музыкальные
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:1,Bridge TV Шлягер
+#EXTGRP:Музыкальные
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:1,Europa Plus TV
+#EXTGRP:Музыкальные
+https://strm.yandex.ru/kal/europaplus/europaplus0.m3u8
+#EXTINF:1,HITV
+#EXTGRP:Музыкальные
+https://strm.yandex.ru/kal/hittv/hittv0.m3u8
+#EXTINF:1,MusicBox Gold
+#EXTGRP:Музыкальные
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:1,RU.TV
+#EXTGRP:Музыкальные
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+#EXTINF:1,Russian MusicBox
+#EXTGRP:Музыкальные
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:1,TV Brics
+#EXTGRP:Музыкальные
+http://strm.yandex.ru/kal/tvbrics/tvbrics0.m3u8
+#EXTINF:1,Муз ТВ
+#EXTGRP:Музыкальные
+https://strm.yandex.ru/kal/muztv_supres/muztv_supres0.m3u8
+#EXTINF:1,ТНТ MUSIC
+#EXTGRP:Музыкальные
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:1,СТС Kids
+#EXTGRP:Детские
+https://strm.yandex.ru/kal/ctckids/ctckids0.m3u8
+#EXTINF:1,Удар
+#EXTGRP:Спортивные
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:1,Санкт-Петербург_Добролюбова(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_saint_petersburg2/weather_saint_petersburg20_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Санкт-Петербург(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_saint_petersburg/weather_saint_petersburg0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Ижевск(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_izhevsk/weather_izhevsk0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Екатеринбург(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_ekaterinburg/weather_ekaterinburg0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Волгоград(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_volgograd/weather_volgograd0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Владивосток(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_vladivostok/weather_vladivostok0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Биробиджан(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_birobidzhan/weather_birobidzhan0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Берлин(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_berlin/weather_berlin0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:1,Воронеж(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_voronezh/weather_voronezh0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Казань(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_kazan/weather_kazan0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Калининград(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_kaliningrad/weather_kaliningrad0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:1,Красная Поляна(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_polyana/weather_polyana0_169_1080p.json/index-v1.m3u8
+#EXTINF:1,Краснодар(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_krasnodar/weather_krasnodar0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Красноярск(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_krasnoyarsk/weather_krasnoyarsk0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Москва - Сити(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_moscowcity/weather_moscowcity0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Москва(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_moscow/weather_moscow0_169_1080p.json/index-v1.m3u8
+#EXTINF:1,Нижний Новгород(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_nizhniy/weather_nizhniy0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Новосибирск(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_novosibirsk/weather_novosibirsk0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Нью-Йорк(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_newyork/weather_newyork0_169_720p.json/index-v1.m3u8
+#EXTINF:1,Омск(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_omsk/weather_omsk0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Париж(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_paris/weather_paris0_169_720p.json/index-v1-a1.m3u8
+#EXTINF:1,Пермь(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_perm/weather_perm0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Рига(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_riga/weather_riga0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Роза Хутор(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_roza_khutor/weather_roza_khutor0_169_1080p.json/index-v1.m3u8
+#EXTINF:1,Ростов(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_rostov/weather_rostov0_169_1080p.json/index-v1-a1.m3u8
+#EXTINF:1,Ростов-на-Дону(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_rostov/weather_rostov0_169_1080p.json/index-v1.m3u8
+#EXTINF:1,Самара(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_samara/weather_samara0_169_1080p.json/index-v1.m3u8
+#EXTINF:1,Саратов(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_saratov/weather_saratov0_169_1080p.json/index-v1.m3u8
+#EXTINF:1,Сочи(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_sochi/weather_sochi0_169_1080p.json/index-v1.m3u8
+#EXTINF:1,Тюмень(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_tyumen/weather_tyumen0_169_1080p.json/index-v1.m3u8
+#EXTINF:1,Уфа(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_ufa/weather_ufa0_169_1080p.json/index-v1.m3u8
+#EXTINF:1,Хельсинки(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_helsinki/weather_helsinki0_169_1080p.json/index-v1.m3u8
+#EXTINF:1,Челябинск(Камера)
+#EXTGRP:Камеры
+https://strm.yandex.ru/kal/weather_chelyabinsk/weather_chelyabinsk0_169_1080p.json/index-v1.m3u8

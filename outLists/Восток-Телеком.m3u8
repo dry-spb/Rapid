@@ -1,0 +1,154 @@
+#EXTM3U
+#EXTINF:1,Россия 24
+#EXTGRP:Информационные
+http://193.233.9.49/streams/media/Rossiya_24/index.m3u8
+#EXTINF:1,Россия 1
+#EXTGRP:Эфирные
+http://193.233.9.49/streams/media/Rossiya_1/index.m3u8
+#EXTINF:1,НТВ
+#EXTGRP:Эфирные
+http://193.233.9.49/streams/media/NTV/index.m3u8
+#EXTINF:1,ТНТ
+#EXTGRP:Эфирные
+http://193.233.9.49/streams/media/TNT/index.m3u8
+#EXTINF:1,ТНТ4
+#EXTGRP:Эфирные
+http://193.233.9.49/streams/media/TNT4/index.m3u8
+#EXTINF:1,Пятница
+#EXTGRP:Эфирные
+http://193.233.9.49/streams/media/PYATNICA/index.m3u8
+#EXTINF:1,Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://193.233.9.49/streams/media/Nat_Geo_Wild_HD/index.m3u8
+#EXTINF:1,National Geographic HD
+#EXTGRP:Познавательные
+http://193.233.9.49/streams/media/National_Geographic_HD/index.m3u8
+#EXTINF:1,Viasat History HD
+#EXTGRP:Познавательные
+http://193.233.9.49/streams/media/Viasat_History/index.m3u8
+#EXTINF:1,Viasat Nature HD
+#EXTGRP:Познавательные
+http://193.233.9.49/streams/media/Viasat_Nature/index.m3u8
+#EXTINF:1,История
+#EXTGRP:Познавательные
+http://193.233.9.49/streams/media/ISTORIYA/index.m3u8
+#EXTINF:1,Ocean TV
+#EXTGRP:Познавательные
+http://193.233.9.49/streams/media/Ocean_TV/index.m3u8
+#EXTINF:1,Домашние животные
+#EXTGRP:Познавательные
+http://193.233.9.49/streams/media/Domashnie_zhivotnye/index.m3u8
+#EXTINF:1,Зоопарк
+#EXTGRP:Познавательные
+http://193.233.9.49/streams/media/ZOOPARK/index.m3u8
+#EXTINF:1,Морской
+#EXTGRP:Развлекательные
+http://193.233.9.49/streams/media/Morskoi/index.m3u8
+#EXTINF:1,Ретро
+#EXTGRP:Развлекательные
+http://193.233.9.49/streams/media/Retro/index.m3u8
+#EXTINF:1,Успех
+#EXTGRP:Развлекательные
+http://193.233.9.49/streams/media/Uspeh/index.m3u8
+#EXTINF:1,A2 HD
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/A2/index.m3u8
+#EXTINF:1,Amedia 1
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/A1/index.m3u8
+#EXTINF:1,Amedia Premium HD
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/Amedia_Premium_HD/index.m3u8
+#EXTINF:1,Cinema
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/Cinema/index.m3u8
+#EXTINF:1,FOX HD
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/FOX_HD/index.m3u8
+#EXTINF:1,Fox Life
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/Fox_Life/index.m3u8
+#EXTINF:1,Fox Life HD
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/Fox_Life_HD/index.m3u8
+#EXTINF:1,Trash
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/MTV_HITS/index.m3u8
+#EXTINF:1,TV 1000 HD
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/TV_1000/index.m3u8
+#EXTINF:1,TV XXI
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/TV_XXI/index.m3u8
+#EXTINF:1,Дом кино
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/Dom_kino/index.m3u8
+#EXTINF:1,Дом Кино Премиум HD
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:1,Еврокино
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/EVROKINO/index.m3u8
+#EXTINF:1,КИНО ТВ HD
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/KINO_TV_HD/index.m3u8
+#EXTINF:1,Киномикс
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/KINOMIKS/index.m3u8
+#EXTINF:1,Кинопоказ
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/Kinopokaz/index.m3u8
+#EXTINF:1,Комедия
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/Komediya/index.m3u8
+#EXTINF:1,Любимое кино
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/Lubimoe_kino/index.m3u8
+#EXTINF:1,Родное кино
+#EXTGRP:Кино и сериалы
+http://193.233.9.49/streams/media/Rodnoe_kino/index.m3u8
+#EXTINF:1,Авто плюс
+#EXTGRP:Мужские
+http://193.233.9.49/streams/media/Avto_Plus/index.m3u8
+#EXTINF:1,Драйв
+#EXTGRP:Мужские
+http://193.233.9.49/streams/media/Draiv/index.m3u8
+#EXTINF:1,Охотник и рыболов
+#EXTGRP:Мужские
+http://193.233.9.49/streams/media/Ohota_i_rybalka/index.m3u8
+#EXTINF:1,Кухня ТВ
+#EXTGRP:Женские
+http://193.233.9.49/streams/media/Kuhnya_TV/index.m3u8
+#EXTINF:1,Мама
+#EXTGRP:Женские
+http://193.233.9.49/streams/media/Mama/index.m3u8
+#EXTINF:1,1HD
+#EXTGRP:Музыкальные
+http://193.233.9.49/streams/media/1_HD/index.m3u8
+#EXTINF:1,Disney
+#EXTGRP:Детские
+http://193.233.9.49/streams/media/Disney/index.m3u8
+#EXTINF:1,Карусель
+#EXTGRP:Детские
+http://193.233.9.49/streams/media/Karusel/index.m3u8
+#EXTINF:1,Мультимания
+#EXTGRP:Детские
+http://193.233.9.49/streams/media/Multimaniya/index.m3u8
+#EXTINF:1,КХЛ ТВ
+#EXTGRP:Спортивные
+http://193.233.9.49/streams/media/KHL_TV/index.m3u8
+#EXTINF:1,Матч! Арена HD
+#EXTGRP:Спортивные
+http://193.233.9.49/streams/media/Match_Arena_HD/index.m3u8
+#EXTINF:1,Матч! Боец
+#EXTGRP:Спортивные
+http://193.233.9.49/streams/media/Match_Boec/index.m3u8
+#EXTINF:1,Матч! Игра
+#EXTGRP:Спортивные
+http://193.233.9.49/streams/media/Match_Igra/index.m3u8
+#EXTINF:1,Матч! Премьер
+#EXTGRP:Спортивные
+http://193.233.9.49/streams/media/Match_Premer/index.m3u8
+#EXTINF:1,Матч! ТВ HD
+#EXTGRP:Спортивные
+http://193.233.9.49/streams/media/Match_TV_HD/index.m3u8

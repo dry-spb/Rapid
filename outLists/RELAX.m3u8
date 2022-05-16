@@ -1,0 +1,28 @@
+#EXTM3U
+#EXTINF:1,Nature Live - Waterfalls Live
+#EXTGRP:RELAX
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+#EXTINF:1,Relax Grece
+#EXTGRP:RELAX
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+#EXTINF:1,Loupe TV
+#EXTGRP:RELAX
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+#EXTINF:1,Screen Dreams
+#EXTGRP:RELAX
+https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
+#EXTINF:1,Fireplace Lounge
+#EXTGRP:RELAX
+https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
+#EXTINF:1,Fish Tank
+#EXTGRP:RELAX
+https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
+#EXTINF:1,Island Escape
+#EXTGRP:RELAX
+https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
+#EXTINF:1,WORLD HD
+#EXTGRP:RELAX
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:1,Relax
+#EXTGRP:RELAX
+https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8

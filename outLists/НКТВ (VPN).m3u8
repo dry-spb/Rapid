@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:1,Первый канал
+#EXTGRP:Эфирные
+http://46.174.83.66/1/index.m3u8
+#EXTINF:1,Россия 1
+#EXTGRP:Эфирные
+http://46.174.83.66/Russia1/index.m3u8
+#EXTINF:1,НТВ
+#EXTGRP:Эфирные
+http://46.174.83.66/NTV/index.m3u8
+#EXTINF:1,ТНТ
+#EXTGRP:Эфирные
+http://46.174.83.66/TNT/index.m3u8
+#EXTINF:1,ТНТ4
+#EXTGRP:Эфирные
+http://46.174.83.66/TNT4/index.m3u8
+#EXTINF:1,РЕН ТВ
+#EXTGRP:Эфирные
+http://46.174.83.66/RenTV/index.m3u8
+#EXTINF:1,5 канал
+#EXTGRP:Эфирные
+http://46.174.83.66/5Kanal/index.m3u8
+#EXTINF:1,ОТР
+#EXTGRP:Эфирные
+http://46.174.83.66/OTR/index.m3u8
+#EXTINF:1,ОТР
+#EXTGRP:Эфирные
+http://46.174.83.66/OTR/tracks-v1a1/mono.m3u8
+#EXTINF:1,СТС
+#EXTGRP:Эфирные
+http://46.174.83.66/CTC/tracks-v1a1/mono.m3u8
+#EXTINF:1,ТВ Центр
+#EXTGRP:Эфирные
+http://46.174.83.66/TVCentr/index.m3u8
+#EXTINF:1,ДОМАШНИЙ
+#EXTGRP:Эфирные
+http://46.174.83.66/Domashniy/tracks-v1a1/mono.m3u8
+#EXTINF:1,Пятница!
+#EXTGRP:Эфирные
+http://46.174.83.66/Pytnica/index.m3u8
+#EXTINF:1,365 дней ТВ
+#EXTGRP:Эфирные
+http://46.174.83.66/365/index.m3u8
+#EXTINF:1,2x2
+#EXTGRP:Эфирные
+http://46.174.83.66/2x2/index.m3u8
+#EXTINF:1,HD Life
+#EXTGRP:Познавательные
+http://46.174.83.66/HDL/index.m3u8
+#EXTINF:1,Морской HD
+#EXTGRP:Познавательные
+http://46.174.83.66/Morskoi_HD/index.m3u8
+#EXTINF:1,Зоопарк
+#EXTGRP:Познавательные
+http://46.174.83.66/Zoopark/index.m3u8
+#EXTINF:1,Суббота
+#EXTGRP:Развлекательные
+http://46.174.83.66/Subbota/index.m3u8
+#EXTINF:1,Вопросы и ответы
+#EXTGRP:Развлекательные
+http://46.174.83.66/Voprosy_i_otvety/index.m3u8
+#EXTINF:1,О!
+#EXTGRP:Развлекательные
+http://46.174.83.66/O/index.m3u8
+#EXTINF:1,Ретро
+#EXTGRP:Развлекательные
+http://46.174.83.66/Retro/index.m3u8
+#EXTINF:1,Спас
+#EXTGRP:Развлекательные
+http://46.174.83.66/Spas/index.m3u8
+#EXTINF:1,Ю
+#EXTGRP:Развлекательные
+http://46.174.83.66/U/index.m3u8
+#EXTINF:1,ТВ3
+#EXTGRP:Кино и сериалы
+http://46.174.83.66/TV3/index.m3u8
+#EXTINF:1,Звезда
+#EXTGRP:Кино и сериалы
+http://46.174.83.66/Zvezda/index.m3u8
+#EXTINF:1,ИНДИЙСКОЕ КИНО
+#EXTGRP:Кино и сериалы
+http://46.174.83.66/Indiiskoe_kino/index.m3u8
+#EXTINF:1,Кинокомедия
+#EXTGRP:Кино и сериалы
+http://46.174.83.66/Kinokomedia/index.m3u8
+#EXTINF:1,Русский Иллюзион
+#EXTGRP:Кино и сериалы
+http://46.174.83.66/Illusion+/index.m3u8
+#EXTINF:1,Драйв
+#EXTGRP:Мужские
+http://46.174.83.66/Drive/index.m3u8
+#EXTINF:1,Здоровое ТВ
+#EXTGRP:Женские
+http://46.174.83.66/Zdorovoe_TV/index.m3u8
+#EXTINF:1,Психология 21
+#EXTGRP:Женские
+http://46.174.83.66/Psihologiya21/index.m3u8
+#EXTINF:1,Усадьба
+#EXTGRP:Женские
+http://46.174.83.66/Usadba/index.m3u8
+#EXTINF:1,Bridge TV
+#EXTGRP:Музыкальные
+http://46.174.83.66/BridgeTV/index.m3u8
+#EXTINF:1,RU.TV
+#EXTGRP:Музыкальные
+http://46.174.83.66/RU_TV/index.m3u8
+#EXTINF:1,Муз ТВ
+#EXTGRP:Музыкальные
+http://46.174.83.66/MuzTV/index.m3u8
+#EXTINF:1,Gulli Girl
+#EXTGRP:Детские
+http://46.174.83.66/Gulli_Girl/index.m3u8
+#EXTINF:1,Карусель
+#EXTGRP:Детские
+http://46.174.83.66/Karusel/index.m3u8
+#EXTINF:1,Уникум
+#EXTGRP:Детские
+http://46.174.83.66/Unikum/index.m3u8
+#EXTINF:1,Мир Баскетбола
+#EXTGRP:Спортивные
+http://46.174.83.66/MirBasketbola/index.m3u8

@@ -1,0 +1,214 @@
+#EXTM3U
+#EXTINF:1,Euronews
+#EXTGRP:Информационные
+https://sc.id-tv.kz:443/Euronews_34_35.m3u8
+#EXTINF:1,Россия 24
+#EXTGRP:Информационные
+https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
+#EXTINF:1,Беларусь 24
+#EXTGRP:Информационные
+https://sc.id-tv.kz:443/Belarus24_34_35.m3u8
+#EXTINF:1,РБК
+#EXTGRP:Информационные
+https://sc.id-tv.kz:443/RBK_34_35.m3u8
+#EXTINF:1,Первый
+#EXTGRP:Эфирные
+https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8
+#EXTINF:1,Россия РТР
+#EXTGRP:Эфирные
+https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
+#EXTINF:1,Рен ТВ
+#EXTGRP:Эфирные
+https://sc.id-tv.kz:443/RenTV_36_37.m3u8
+#EXTINF:1,Пятница
+#EXTGRP:Эфирные
+https://sc.id-tv.kz/friday_36_37.m3u8
+#EXTINF:1,ТНТ
+#EXTGRP:Эфирные
+https://sc.id-tv.kz:443/tntComedy_34_35.m3u8
+#EXTINF:1,ТНТ4
+#EXTGRP:Эфирные
+https://sc.id-tv.kz:443/tnt4_34_35.m3u8
+#EXTINF:1,КТК
+#EXTGRP:Эфирные
+https://sc.id-tv.kz/KTK_34_35.m3u8
+#EXTINF:1,Новое телевидение
+#EXTGRP:Эфирные
+https://sc.id-tv.kz:443/NovoeTVHD_34_35.m3u8
+#EXTINF:1,СТС
+#EXTGRP:Эфирные
+https://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:1,Discovery Channel
+#EXTGRP:Познавательные
+https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
+#EXTINF:1,TLC HD
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
+#EXTINF:1,Nat Geo Wild HD
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:1,National Geographic HD
+#EXTGRP:Познавательные
+https://sc.id-tv.kz:443/NatGeogHD_34_35.m3u8
+#EXTINF:1,Viasat History
+#EXTGRP:Познавательные
+https://sc.id-tv.kz:443/ViasatHistory_34_35.m3u8
+#EXTINF:1,Viasat Nature
+#EXTGRP:Познавательные
+https://sc.id-tv.kz:443/ViasatNature_34_35.m3u8
+#EXTINF:1,History
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/HistoryHD_36_37.m3u8
+#EXTINF:1,H2
+#EXTGRP:Познавательные
+https://sc.id-tv.kz:443/H2HD_36_37.m3u8
+#EXTINF:1,Поехали!
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/poehali_34_35.m3u8
+#EXTINF:1,НТВ-Мир
+#EXTGRP:Познавательные
+https://sc.id-tv.kz:443/NTV_34_35.m3u8
+#EXTINF:1,HD Life
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:1,Моя Планета
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/MoyaPlaneta_34_35.m3u8
+#EXTINF:1,Flixsnip
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/FlixSnip_34_35.m3u8
+#EXTINF:1,Бобёр
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/bober_34_35.m3u8
+#EXTINF:1,Бобёр
+#EXTGRP:Познавательные
+https://sc.id-tv.kz:443/bober_34_35.m3u8
+#EXTINF:1,Время
+#EXTGRP:Развлекательные
+https://sc.id-tv.kz:443/Vremya_36_37.m3u8
+#EXTINF:1,Карусель
+#EXTGRP:Развлекательные
+https://sc.id-tv.kz:443/Karusel_36_37.m3u8
+#EXTINF:1,О!
+#EXTGRP:Развлекательные
+https://sc.id-tv.kz/o_36_37.m3u8
+#EXTINF:1,Россия К
+#EXTGRP:Развлекательные
+https://sc.id-tv.kz:443/RossiyaK_34_35.m3u8
+#EXTINF:1,ТНВ Планета
+#EXTGRP:Развлекательные
+https://sc.id-tv.kz:443/TNV-Planeta_34_35.m3u8
+#EXTINF:1,Amedia 2
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:1,Amedia Hit HD
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:1,Bollywood HD
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:1,Cinema HD
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:1,FOX HD
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:1,TV1000
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz:443/TV1000_34_35.m3u8
+#EXTINF:1,TV1000 Action
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz:443/TV1000Action_34_35.m3u8
+#EXTINF:1,TV1000 Русское кино
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz:443/TV1000RuKino_34_35.m3u8
+#EXTINF:1,ZEE TV
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/ZeeTVHD_34_35.m3u8
+#EXTINF:1,Дом Кино
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz:443/DomKino_36_37.m3u8
+#EXTINF:1,Дом Кино Премиум HD
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/domkino_hd_34_35.m3u8
+#EXTINF:1,Дорама HD
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/dorama_hd_34_35.m3u8
+#EXTINF:1,Иллюзион +
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
+#EXTINF:1,Кинокомедия HD
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:1,Киномикс HD
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:1,КИНОПРЕМЬЕРА HD
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:1,Киносвидание HD
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:1,КИНОСЕМЬЯ
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:1,КИНОСЕРИЯ
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz:443/Kinoseriya_hd_34_35.m3u8
+#EXTINF:1,Киноужас
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
+#EXTINF:1,Кинохит HD
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:1,Мужское Кино HD
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
+#EXTINF:1,Мужской
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/Mujskoi_34_35.m3u8
+#EXTINF:1,НСТ
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/NSTV.m3u8
+#EXTINF:1,Победа
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:1,РОДНОЕ КИНО
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+#EXTINF:1,Русский Иллюзион
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
+#EXTINF:1,Авто 24
+#EXTGRP:Мужские
+https://sc.id-tv.kz:443/Avto24_36_37.m3u8
+#EXTINF:1,Охота и рыбалка
+#EXTGRP:Мужские
+https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
+#EXTINF:1,Кухня ТВ HD
+#EXTGRP:Женские
+https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
+#EXTINF:1,ЕДА Премиум
+#EXTGRP:Женские
+https://sc.id-tv.kz/EdaHD_34_35.m3u8
+#EXTINF:1,Телекафе
+#EXTGRP:Женские
+https://sc.id-tv.kz:443/Telecafe_36_37.m3u8
+#EXTINF:1,Da Vinci Kids
+#EXTGRP:Детские
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:1,Gulli
+#EXTGRP:Детские
+https://sc.id-tv.kz:443/Gulli_34_35.m3u8
+#EXTINF:1,Nick Jr
+#EXTGRP:Детские
+https://sc.id-tv.kz:443/NickJr_36_37.m3u8
+#EXTINF:1,Nickelodeon
+#EXTGRP:Детские
+https://sc.id-tv.kz:443/Nickelodeon_34_35.m3u8
+#EXTINF:1,Tiji TV
+#EXTGRP:Детские
+https://sc.id-tv.kz:443/TiJi_34_35.m3u8
+#EXTINF:1,Мульт
+#EXTGRP:Детские
+https://sc.id-tv.kz:443/Mult_34_35.m3u8

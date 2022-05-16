@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:1,НТВ
+#EXTGRP:Эфирные
+http://mob3-ntv.cdnvideo.ru/ntv/hd_ntvair001.smil/playlist.m3u8
+#EXTINF:1,НТВ HD
+#EXTGRP:Эфирные
+http://mob3-ntv.cdnvideo.ru/ntv3/smil:ntvair001_hd.smil/playlist.m3u8
+#EXTINF:1,НТВ HD
+#EXTGRP:Эфирные
+http://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair003_hd.smil/playlist.m3u8
+#EXTINF:1,НТВ Право
+#EXTGRP:Эфирные
+http://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair13.smil/playlist.m3u8
+#EXTINF:1,НТВ Стиль
+#EXTGRP:Эфирные
+http://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair12.smil/playlist.m3u8
+#EXTINF:1,Россия HD
+#EXTGRP:Эфирные
+http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:1,Discovery Science HD
+#EXTGRP:Познавательные
+http://46.151.151.238:8715/play/a00j
+#EXTINF:1,Discovery Channel HD
+#EXTGRP:Познавательные
+http://46.151.151.238:8715/play/a00e
+#EXTINF:1 group-title="TEST  ⓵",AFV Family
+#EXTGRP:Познавательные
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
+#EXTINF:1 group-title="TEST  ⓵",IMPACT! Wrestling
+#EXTGRP:Познавательные
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:1,Investigation Discovery HD
+#EXTGRP:Познавательные
+http://46.151.151.238:8715/play/a00n
+#EXTINF:1 group-title="TEST  ⓵",Kaufbei TV
+#EXTGRP:Познавательные
+http://api.alpaca.t62a.com/hls/9112/stream0.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Silence TV WORLD HD
+#EXTGRP:Познавательные
+http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Travel+Adventure HD
+#EXTGRP:Познавательные
+http://45.142.213.81:8001/playlist.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Travel+Adventure HD
+#EXTGRP:Познавательные
+http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Travel+Adventure HD
+#EXTGRP:Познавательные
+http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Russischer Jahrmarkt
+#EXTGRP:Познавательные
+https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:1 group-title="TEST  ⓵",TV1
+#EXTGRP:Познавательные
+http://st.kglive.asia/hls/tv1kg.m3u8
+#EXTINF:1 group-title="TEST  ⓵",TV1 Cinemastan
+#EXTGRP:Познавательные
+http://st.kglive.asia/hls/tv1cinema.m3u8
+#EXTINF:1,Тайна
+#EXTGRP:Познавательные
+http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Best Live Performances
+#EXTGRP:Развлекательные
+http://140.238.127.147/streams/3.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Clarity 4K
+#EXTGRP:Развлекательные
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:1 group-title="TEST  ⓵",LAVA HD
+#EXTGRP:Развлекательные
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
+#EXTINF:1 group-title="TEST  ⓵",Loupe 4K
+#EXTGRP:Развлекательные
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:1,Калейдоскоп ТВ
+#EXTGRP:Развлекательные
+http://83.222.205.65:8080/kaleidoskop/index.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Осторожно Модерн
+#EXTGRP:Развлекательные
+http://140.238.127.147/streams/2.m3u8
+#EXTINF:1 group-title="TEST  ⓵",ОСП-Студия
+#EXTGRP:Развлекательные
+http://140.238.127.147/streams/5.m3u8
+#EXTINF:1 group-title="TEST  ⓵",ТВ Экстра HD
+#EXTGRP:Развлекательные
+http://194.190.78.91:8080/tvextra720b/index.m3u8
+#EXTINF:1,Твоё ТВ
+#EXTGRP:Развлекательные
+http://stream-norst.cf:8080/tvoetv/index.m3u8
+#EXTINF:1 group-title="TEST  ⓵",УЛПРАВДА ТВ
+#EXTGRP:Развлекательные
+http://live-1.otcnet.ru/pravdatv/index.m3u8
+#EXTINF:1,ТВ Тур
+#EXTGRP:Развлекательные
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_2.smil/chunklist_b2628000.m3u8
+#EXTINF:1 group-title="TEST  ⓵",BACKUS TV HD
+#EXTGRP:Кино и сериалы
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:1 group-title="TEST  ⓵",BACKUS TV Russian music
+#EXTGRP:Кино и сериалы
+https://stream.backustv.ru/live/forilooktv/index.m3u8
+#EXTINF:1 group-title="TEST  ⓵",BACKUSTV Страшное HD
+#EXTGRP:Кино и сериалы
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Cinema Classic TV
+#EXTGRP:Кино и сериалы
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:1 group-title="TEST  ⓵",КИНО ТВ HD
+#EXTGRP:Кино и сериалы
+http://live-1.otcnet.ru/kinotvsd/mono.m3u8
+#EXTINF:1,Правда ТВ HD
+#EXTGRP:Кино и сериалы
+http://194.190.78.91:8080/pravdatv/index.m3u8
+#EXTINF:1,Любимое ТВ
+#EXTGRP:Кино и сериалы
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_6.smil/chunklist_b2628000.m3u8
+#EXTINF:1,НТВ Сериал
+#EXTGRP:Кино и сериалы
+http://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair11.smil/playlist.m3u8
+#EXTINF:1,НТВ‑ХИТ
+#EXTGRP:Кино и сериалы
+http://mob3-ntv.cdnvideo.ru/ntv/smil:ntvair14.smil/playlist.m3u8
+#EXTINF:1,Премьера T
+#EXTGRP:Кино и сериалы
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_5.smil/chunklist_b858000.m3u8
+#EXTINF:1,Прима ТВ HD
+#EXTGRP:Кино и сериалы
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Российские Сериалы
+#EXTGRP:Кино и сериалы
+http://140.238.127.147/streams/9.m3u8
+#EXTINF:1,Дайвинг ТВ
+#EXTGRP:Мужские
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_130.smil/chunklist_b2628000.m3u8
+#EXTINF:1,Fresh ТВ
+#EXTGRP:Женские
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_4.smil/chunklist_b2628000.m3u8
+#EXTINF:1,Бьюти ТВ
+#EXTGRP:Женские
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_134.smil/chunklist_b2628000.m3u8
+#EXTINF:1,Вкусное ТВ
+#EXTGRP:Женские
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_133.smil/chunklist_b2628000.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Кулинар ТВ
+#EXTGRP:Женские
+http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Dance Hits of 90s
+#EXTGRP:Музыкальные
+http://140.238.127.147/streams/1.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Romantic_and_Ballads
+#EXTGRP:Музыкальные
+http://140.238.127.147/streams/8.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Russian Dance Hits of 90s
+#EXTGRP:Музыкальные
+http://140.238.127.147/streams/4.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Русская Попса 80х-90х
+#EXTGRP:Музыкальные
+http://140.238.127.147/streams/6.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Ani
+#EXTGRP:Детские
+https://bsttv.bonus-tv.ru/cdn/ani/playlist.m3u8
+#EXTINF:1 group-title="TEST  ⓵",Bloomberg TV 4K
+#EXTGRP:Детские
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
