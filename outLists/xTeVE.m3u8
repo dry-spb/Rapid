@@ -1,0 +1,367 @@
+#EXTM3U url-tvg="http://192.168.0.213:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:1 tvg-id="hlsproxy-393" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="Информационные",Россия 24
+http://212.122.80.182:38167/play/a02i/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-434" tvg-logo="https://i.imgur.com/fIkd01t.png" group-title="Эфирные",ТВЦ
+http://212.122.80.182:38167/play/a016/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-407" tvg-logo="https://i.imgur.com/pJNWVAz.png" group-title="Эфирные",СТС
+http://212.122.80.182:38167/play/a015/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-382" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a0000016e89588796d4590c9dd4dda32ffc/170x100" group-title="Эфирные",РЕН ТВ
+http://212.122.80.182:38167/play/a014/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-377" tvg-logo="http://epg.it999.ru/img2/1003.png" group-title="Эфирные",Пятница
+http://212.122.80.182:38167/play/a018/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-100022" tvg-logo="http://192.168.0.213:38050/logos/discovery-channel-hd.png" group-title="Познавательные",Discovery Channel HD
+http://212.122.80.182:38167/play/a02d/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-166" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/27485/2a0000016a8d169894327fe11d11d05d3a20/160x120" group-title="Познавательные",TLC
+http://212.122.80.182:38167/play/a029/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-130" tvg-logo="http://192.168.0.213:38050/logos/national-geographic-hd.png" group-title="Познавательные",National Geographic HD
+http://212.122.80.182:38167/play/a028/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-128" tvg-logo="http://192.168.0.213:38050/logos/nat-geo-wild-hd.png" group-title="Познавательные",Nat Geo Wild HD
+http://212.122.80.182:38167/play/a027/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-34" tvg-logo="http://epg.it999.ru/img2/365.png" group-title="Познавательные",Animal Planet
+http://212.122.80.182:38167/play/a02e/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-100262" tvg-logo="http://epg.it999.ru/img2/3357.png" group-title="Кино и сериалы",Мосфильм. Золотая коллекция
+http://212.122.80.182:38167/play/a013/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-327" tvg-logo="http://epg.it999.ru/img2/542.png" group-title="Кино и сериалы",Кинохит
+http://212.122.80.182:38167/play/a019/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-309" tvg-logo="http://epg.it999.ru/img2/799.png" group-title="Кино и сериалы",Киносерия
+http://212.122.80.182:38167/play/a01b/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-331" tvg-logo="http://epg.it999.ru/img2/566.png" group-title="Кино и сериалы",Кинопремьера HD
+http://212.122.80.182:38167/play/a02a/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-323" tvg-logo="http://epg.it999.ru/img2/644.png" group-title="Кино и сериалы",Киномикс
+http://212.122.80.182:38167/play/a01c/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-290" tvg-logo="http://epg.it999.ru/img2/821.png" group-title="Кино и сериалы",Кинокомедия
+http://212.122.80.182:38167/play/a01a/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-259" tvg-logo="http://epg.it999.ru/img2/405.png" group-title="Кино и сериалы",Звезда
+http://212.122.80.182:38167/play/a017/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-53818" tvg-logo="http://epg.it999.ru/img2/2484.png" group-title="Мужские",Дикая рыбалка HD
+http://212.122.80.182:38167/play/a02b/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-53817" tvg-logo="http://epg.it999.ru/img2/2483.png" group-title="Мужские",Дикая охота HD
+http://212.122.80.182:38167/play/a02c/index.m3u8
+#EXTINF:1 tvg-id="hlsproxy-134" tvg-logo="http://epg.it999.ru/img2/2265.png" group-title="Информационные",360*
+http://128.0.27.41:8080/239.211.211.81/mpegts
+#EXTINF:1 tvg-id="hlsproxy-155" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="Информационные",Russia Today
+http://128.0.27.41:8080/239.211.211.33/mpegts
+#EXTINF:1 tvg-id="hlsproxy-219" tvg-logo="https://i.imgur.com/iVIlgrj.png" group-title="Информационные",Беларусь 24
+http://128.0.27.41:8080/239.211.211.131/mpegts
+#EXTINF:1 tvg-id="hlsproxy-20151" tvg-logo="http://epg.it999.ru/img2/2271.png" group-title="Информационные",Известия HD
+http://128.0.27.41:8080/239.211.211.129/mpegts
+#EXTINF:1 group-title="Эфирные" tvg-id="hlsproxy-362" tvg-logo="http://epg.it999.ru/img2/146.png",ПЕРВЫЙ КАНАЛ
+http://194.113.234.110:4001
+#EXTINF:1 tvg-id="hlsproxy-362" tvg-logo="http://192.168.0.213:38050/logos/perviy-hd.png" group-title="Эфирные",Первый Канал HD
+http://128.0.27.41:8080/239.211.200.1/mpegts
+#EXTINF:1 tvg-id="hlsproxy-391" tvg-logo="http://192.168.0.213:38050/logos/rossia1-hd.png" group-title="Эфирные",Россия HD
+http://128.0.27.41:8080/239.211.200.2/mpegts
+#EXTINF:1 tvg-id="hlsproxy-55" tvg-logo="http://epg.it999.ru/img2/2472.png" group-title="Эфирные",Первый Крымский
+http://128.0.27.41:8080/239.211.211.158/mpegts
+#EXTINF:1 tvg-id="hlsproxy-380" tvg-logo="http://epg.it999.ru/img2/743.png" group-title="Эфирные",РБК HD
+http://128.0.27.41:8080/239.211.211.76/mpegts
+#EXTINF:1 tvg-id="hlsproxy-369" tvg-logo="http://epg.it999.ru/img2/1598.png" group-title="Эфирные",Че!
+http://128.0.27.41:8080/239.211.211.100/mpegts
+#EXTINF:1 group-title="Эфирные",Соловьев LIVE
+http://128.0.27.41:8080/239.211.211.104/mpegts
+#EXTINF:1 tvg-id="hlsproxy-19" tvg-logo="https://iptvxcdn.ml/8by.png" group-title="Эфирные",8 канал-sat
+http://128.0.27.41:8080/239.211.211.177/mpegts
+#EXTINF:1 tvg-id="hlsproxy-8383" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/54380/2a0000015d79a5c2d0b79832e5a60ca34314/z" group-title="Эфирные",7-tv
+http://128.0.27.41:8080/239.211.211.50/mpegts
+#EXTINF:1 tvg-id="hlsproxy-13" tvg-logo="https://iptvxcdn.ml/365-dnej.png" group-title="Эфирные",365 дней ТВ HD
+http://128.0.27.41:8080/239.211.200.138/mpegts
+#EXTINF:1 tvg-id="hlsproxy-51067" tvg-logo="https://epg.openboxfan.com/picon/криктв.png" group-title="Эфирные",Крик ТВ
+http://128.0.27.41:8080/239.211.211.127/mpegts
+#EXTINF:1 tvg-id="hlsproxy-514" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/27485/2a0000016b897258c01ac6189d603aed667c/260x160" group-title="Эфирные",Крым 24
+http://128.0.27.41:8080/239.211.211.112/mpegts
+#EXTINF:1 tvg-id="hlsproxy-242" tvg-logo="http://epg.it999.ru/img2/2308.png" group-title="Эфирные",Москва Доверие
+http://128.0.27.41:8080/239.211.211.119/mpegts
+#EXTINF:1 tvg-id="hlsproxy-15" tvg-logo="http://epg.it999.ru/img2/4625.png" group-title="Эфирные",НСК49
+http://128.0.27.41:8080/239.211.211.28/mpegts
+#EXTINF:1 tvg-id="hlsproxy-43" tvg-logo="https://epg.openboxfan.com/picon/1облчелябинск.png" group-title="Эфирные",ОТВ
+http://128.0.27.41:8080/239.211.211.122/mpegts
+#EXTINF:1 tvg-id="hlsproxy-50276" tvg-logo="http://epg.it999.ru/img2/2462.png" group-title="Эфирные",Открытый мир
+http://128.0.27.41:8080/239.211.211.77/mpegts
+#EXTINF:1 tvg-id="hlsproxy-55224" tvg-logo="http://epg.it999.ru/img2/2447.png" group-title="Эфирные",Победа
+http://128.0.27.41:8080/239.211.211.169/mpegts
+#EXTINF:1 tvg-id="hlsproxy-53987" tvg-logo="http://epg.it999.ru/img2/2426.png" group-title="Эфирные",Тайна
+http://128.0.27.41:8080/239.211.211.124/mpegts
+#EXTINF:1 tvg-id="hlsproxy-438" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/38123/2a00000151869753910c522399c2749fd174/z" group-title="Эфирные",ТНВ Планета
+http://128.0.27.41:8080/239.211.211.133/mpegts
+#EXTINF:1 tvg-id="hlsproxy-336" tvg-logo="http://epg.it999.ru/img2/1649.png" group-title="Эфирные",ТНТ4
+http://128.0.27.41:8080/239.211.211.68/mpegts
+#EXTINF:1 tvg-id="hlsproxy-518" tvg-logo="http://epg.it999.ru/img2/2457.png" group-title="Эфирные",Точка ТВ
+http://128.0.27.41:8080/239.211.211.134/mpegts
+#EXTINF:1 tvg-id="hlsproxy-326" tvg-logo="http://epg.it999.ru/img2/1036.png" group-title="Познавательные",История
+http://128.0.27.41:8080/239.211.211.55/mpegts
+#EXTINF:1 tvg-id="hlsproxy-53514" tvg-logo="http://epg.it999.ru/img2/2417.png" group-title="Познавательные",Большая Азия
+http://128.0.27.41:8080/239.211.211.162/mpegts
+#EXTINF:1 tvg-id="hlsproxy-100025" tvg-logo="http://epg.it999.ru/img2/2498.png" group-title="Познавательные",В мире животных HD
+http://128.0.27.41:8080/239.211.200.9/mpegts
+#EXTINF:1 tvg-id="hlsproxy-245" tvg-logo="http://epg.it999.ru/img2/520.png" group-title="Познавательные",Домашние животные
+http://128.0.27.41:8080/239.211.211.65/mpegts
+#EXTINF:1 tvg-id="hlsproxy-423" tvg-logo="http://epg.it999.ru/img2/2495.png" group-title="Познавательные",Живая природа
+http://128.0.27.41:8080/239.211.211.105/mpegts
+#EXTINF:1 tvg-id="hlsproxy-261" tvg-logo="https://i.imgur.com/yy0YpWT.png" group-title="Познавательные",Зоо ТВ
+http://128.0.27.41:8080/239.211.211.30/mpegts
+#EXTINF:1 tvg-id="hlsproxy-262" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/54380/2a00000152365a336ebce4042a105585571a/z" group-title="Познавательные",Зоопарк
+http://128.0.27.41:8080/239.211.211.57/mpegts
+#EXTINF:1 tvg-id="hlsproxy-311" tvg-logo="http://192.168.0.213:38050/logos/moya-planeta-hd.png" group-title="Познавательные",Моя Планета HD
+http://128.0.27.41:8080/239.211.200.19/mpegts
+#EXTINF:1 tvg-id="hlsproxy-132" tvg-logo="http://epg.it999.ru/img2/2353.png" group-title="Познавательные",Восток ТВ
+http://128.0.27.41:8080/239.211.211.117/mpegts
+#EXTINF:1 tvg-id="hlsproxy-87" tvg-logo="http://epg.it999.ru/img2/2418.png" group-title="Познавательные",Galaxy
+http://128.0.27.41:8080/239.211.211.39/mpegts
+#EXTINF:1 tvg-id="hlsproxy-90" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/hdlife(1).png" group-title="Познавательные",HD Life
+http://128.0.27.41:8080/239.211.200.6/mpegts
+#EXTINF:1 tvg-id="hlsproxy-127" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a0000016d3a3be79b56e511f3a6f5d6124c/340x200" group-title="Познавательные",NANO
+http://128.0.27.41:8080/239.211.211.94/mpegts
+#EXTINF:1 tvg-id="hlsproxy-351" tvg-logo="http://192.168.0.213:38050/logos/o2tv-hd.png" group-title="Познавательные",O2 TV HD
+http://128.0.27.41:8080/239.211.200.36/mpegts
+#EXTINF:1 tvg-id="hlsproxy-138" tvg-logo="http://epg.it999.ru/img2/55.png" group-title="Познавательные",Ocean TV
+http://128.0.27.41:8080/239.211.211.41/mpegts
+#EXTINF:1 tvg-id="hlsproxy-156" tvg-logo="http://192.168.0.213:38050/logos/russia-today-doc-hd.png" group-title="Познавательные",Russia Today Doc HD
+http://128.0.27.41:8080/239.211.200.4/mpegts
+#EXTINF:1 group-title="Познавательные",Timeless Dizi Channel
+http://128.0.27.41:8080/239.211.211.115/mpegts
+#EXTINF:1 group-title="Познавательные",Torre Ricca
+http://128.0.27.41:8080/239.211.211.199/mpegts
+#EXTINF:1 tvg-id="hlsproxy-184" tvg-logo="http://192.168.0.213:38050/logos/travel-adventure-hd.png" group-title="Познавательные",Travel+adventure HD
+http://128.0.27.41:8080/239.211.200.7/mpegts
+#EXTINF:1 tvg-id="hlsproxy-286" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/70787/2a000001760a042565fb0b5528e2362a8c08/184x140" group-title="Познавательные",Бобёр
+http://128.0.27.41:8080/239.211.211.34/mpegts
+#EXTINF:1 tvg-id="hlsproxy-53" tvg-logo="http://192.168.0.213:38050/logos/nasha-sibir-hd.png" group-title="Познавательные",Наша Сибирь HD
+http://128.0.27.41:8080/239.211.200.30/mpegts
+#EXTINF:1 tvg-id="hlsproxy-867" tvg-logo="http://epg.it999.ru/img2/2350.png" group-title="Познавательные",Поехали
+http://128.0.27.41:8080/239.211.211.102/mpegts
+#EXTINF:1 tvg-id="hlsproxy-455" tvg-logo="http://epg.it999.ru/img2/2311.png" group-title="Познавательные",Приключения HD
+http://128.0.27.41:8080/239.211.200.23/mpegts
+#EXTINF:1 tvg-id="hlsproxy-141" tvg-logo="http://epg.it999.ru/img2/2753.png" group-title="Познавательные",Про бизнес
+http://128.0.27.41:8080/239.211.211.101/mpegts
+#EXTINF:1 tvg-id="hlsproxy-55164" tvg-logo="http://epg.it999.ru/img2/2837.png" group-title="Развлекательные",Aiva HD
+http://128.0.27.41:8080/239.211.200.13/mpegts
+#EXTINF:1 tvg-id="hlsproxy-186" tvg-logo="http://epg.it999.ru/img2/1757.png" group-title="Развлекательные",O!
+http://128.0.27.41:8080/239.211.211.168/mpegts
+#EXTINF:1 tvg-id="hlsproxy-230" tvg-logo="http://epg.it999.ru/img2/2451.png" group-title="Развлекательные",Вопросы и ответы
+http://128.0.27.41:8080/239.211.211.46/mpegts
+#EXTINF:1 tvg-id="hlsproxy-227" tvg-logo="http://epg.it999.ru/img2/669.png" group-title="Развлекательные",Время
+http://128.0.27.41:8080/239.211.211.197/mpegts
+#EXTINF:1 group-title="Развлекательные",Е
+http://128.0.27.41:8080/239.211.211.123/mpegts
+#EXTINF:1 tvg-id="hlsproxy-1500" tvg-logo="http://epg.it999.ru/img2/165.png" group-title="Развлекательные",Жара
+http://128.0.27.41:8080/239.211.211.113/mpegts
+#EXTINF:1 tvg-id="hlsproxy-256" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/jivi(1).png" group-title="Развлекательные",Живи! HD
+http://128.0.27.41:8080/239.211.211.153/mpegts
+#EXTINF:1 tvg-id="hlsproxy-7176" tvg-logo="http://epg.it999.ru/img2/2761.png" group-title="Развлекательные",Калейдоскоп
+http://128.0.27.41:8080/239.211.211.116/mpegts
+#EXTINF:1 tvg-id="hlsproxy-22082" tvg-logo="http://epg.it999.ru/img2/1700.png" group-title="Развлекательные",КВН
+http://128.0.27.41:8080/239.211.211.17/mpegts
+#EXTINF:1 tvg-id="hlsproxy-292" tvg-logo="http://epg.it999.ru/img2/2456.png" group-title="Развлекательные",Кто есть кто
+http://128.0.27.41:8080/239.211.211.192/mpegts
+#EXTINF:1 tvg-id="hlsproxy-54166" tvg-logo="http://epg.it999.ru/img2/2433.png" group-title="Развлекательные",Наша тема
+http://128.0.27.41:8080/239.211.211.172/mpegts
+#EXTINF:1 tvg-id="hlsproxy-349" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/nostalgia(1).png" group-title="Развлекательные",Ностальгия
+http://128.0.27.41:8080/239.211.211.16/mpegts
+#EXTINF:1 tvg-id="hlsproxy-8071" tvg-logo="http://epg.it999.ru/img2/2297.png" group-title="Развлекательные",ПроДвижение
+http://128.0.27.41:8080/239.211.211.146/mpegts
+#EXTINF:1 tvg-id="hlsproxy-390" tvg-logo="http://epg.it999.ru/img2/2402.png" group-title="Развлекательные",Ретро
+http://128.0.27.41:8080/239.211.211.58/mpegts
+#EXTINF:1 tvg-id="hlsproxy-411" tvg-logo="https://i.imgur.com/AgX6qoz.png" group-title="Развлекательные",Сарафан
+http://128.0.27.41:8080/239.211.211.97/mpegts
+#EXTINF:1 tvg-id="hlsproxy-418" tvg-logo="https://tv-soyuz.ru/static/img/logo.png" group-title="Развлекательные",Союз
+http://128.0.27.41:8080/239.211.211.56/mpegts
+#EXTINF:1 tvg-id="hlsproxy-431" tvg-logo="http://epg.it999.ru/img2/2288.png" group-title="Развлекательные",Суббота!
+http://128.0.27.41:8080/239.211.211.151/mpegts
+#EXTINF:1 tvg-id="hlsproxy-409" tvg-logo="http://epg.it999.ru/img2/1322.png" group-title="Развлекательные",СТС-Love
+http://128.0.27.41:8080/239.211.211.99/mpegts
+#EXTINF:1 tvg-id="hlsproxy-449" tvg-logo="http://epg.it999.ru/img2/2827.png" group-title="Развлекательные",Театр
+http://128.0.27.41:8080/239.211.211.110/mpegts
+#EXTINF:1 tvg-id="hlsproxy-54330" tvg-logo="http://epg.it999.ru/img2/2477.png" group-title="Развлекательные",Тномер
+http://128.0.27.41:8080/239.211.211.167/mpegts
+#EXTINF:1 tvg-id="hlsproxy-474" tvg-logo="https://epg.openboxfan.com/picon/ютв.png" group-title="Развлекательные",Ю ТВ
+http://128.0.27.41:8080/239.211.211.29/mpegts
+#EXTINF:1 tvg-id="hlsproxy-25" tvg-logo="https://i.imgur.com/lXlwfyw.png" group-title="Кино и сериалы",Amedia 1
+http://128.0.27.41:8080/239.211.211.159/mpegts
+#EXTINF:1 tvg-id="hlsproxy-361" tvg-logo="http://epg.it999.ru/img2/2754.png" group-title="Кино и сериалы",CINEMA
+http://128.0.27.41:8080/239.211.211.106/mpegts
+#EXTINF:1 tvg-id="hlsproxy-82" tvg-logo="http://epg.it999.ru/img2/1031.png" group-title="Кино и сериалы",FOX HD
+http://128.0.27.41:8080/239.211.200.17/mpegts
+#EXTINF:1 tvg-id="hlsproxy-83" tvg-logo="http://192.168.0.213:38050/logos/foxlife-hd.png" group-title="Кино и сериалы",FOX Life HD
+http://128.0.27.41:8080/239.211.200.18/mpegts
+#EXTINF:1 tvg-id="hlsproxy-111" tvg-logo="https://www.magticom.ge/images/channels/MjAxOS8wOS8xOS81ZjQ4ZWIyMS1mMDNmLTQ3OGEtYjY0Zi0yOGU0NjNhNDhhNjBIT0xMWVdPT0RfQlMucG5n.jpg" group-title="Кино и сериалы",Hollywood HD
+http://128.0.27.41:8080/239.211.200.5/mpegts
+#EXTINF:1 tvg-id="hlsproxy-26" tvg-logo="https://i.imgur.com/GwQgT6X.png" group-title="Кино и сериалы",Амедиа 2
+http://128.0.27.41:8080/239.211.211.82/mpegts
+#EXTINF:1 tvg-id="hlsproxy-244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Кино и сериалы",Дом кино
+http://128.0.27.41:8080/239.211.211.103/mpegts
+#EXTINF:1 tvg-id="hlsproxy-244" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png" group-title="Кино и сериалы",Дом кино Премиуим HD
+http://128.0.27.41:8080/239.211.200.103/mpegts
+#EXTINF:1 tvg-id="hlsproxy-253" tvg-logo="https://www.magticom.ge/images/channels/MjAxOC8wOS8xMC9mYWU5YzU5MS04Y2EyLTQ3ZGYtOTRkMC1jOWRlNjI1ZTkyYTkuanBn.jpg" group-title="Кино и сериалы",Еврокино
+http://128.0.27.41:8080/239.211.211.90/mpegts
+#EXTINF:1 tvg-id="hlsproxy-100298" tvg-logo="http://epg.it999.ru/img2/4661.png" group-title="Кино и сериалы",Звезда Плюс
+http://128.0.27.41:8080/239.211.211.161/mpegts
+#EXTINF:1 tvg-id="hlsproxy-263" tvg-logo="https://avatars.mds.yandex.net/get-tv-shows/70764/2a0000015185959fff3bfe2c627f227796af/orig" group-title="Кино и сериалы",Иллюзион+
+http://128.0.27.41:8080/239.211.211.89/mpegts
+#EXTINF:1 tvg-id="hlsproxy-265" tvg-logo="http://epg.it999.ru/img2/798.png" group-title="Кино и сериалы",Индийское кино
+http://128.0.27.41:8080/239.211.211.154/mpegts
+#EXTINF:1 tvg-id="hlsproxy-51109" tvg-logo="https://iptvxcdn.ml/capfantast.png" group-title="Кино и сериалы",Капитан Фантастика HD
+http://128.0.27.41:8080/239.211.200.8/mpegts
+#EXTINF:1 tvg-id="hlsproxy-290" tvg-logo="http://epg.it999.ru/img2/821.png" group-title="Кино и сериалы",Кинокомедия HD
+http://128.0.27.41:8080/239.211.200.139/mpegts
+#EXTINF:1 tvg-id="hlsproxy-323" tvg-logo="http://epg.it999.ru/img2/644.png" group-title="Кино и сериалы",Киномикс HD
+http://128.0.27.41:8080/239.211.200.194/mpegts
+#EXTINF:1 tvg-id="hlsproxy-324" tvg-logo="http://epg.it999.ru/img2/462.png" group-title="Кино и сериалы",Киносвидание
+http://128.0.27.41:8080/239.211.211.141/mpegts
+#EXTINF:1 tvg-id="hlsproxy-92" tvg-logo="http://epg.it999.ru/img2/987.png" group-title="Кино и сериалы",Киносемья
+http://128.0.27.41:8080/239.211.211.140/mpegts
+#EXTINF:1 tvg-id="hlsproxy-1796" tvg-logo="http://epg.it999.ru/img2/2493.png" group-title="Кино и сериалы",Киноужас HD
+http://128.0.27.41:8080/239.211.200.43/mpegts
+#EXTINF:1 tvg-id="hlsproxy-100262" tvg-logo="http://192.168.0.213:38050/logos/zolotaya-kollekciya-hd.png" group-title="Кино и сериалы",Мосфильм. Золотая коллекция HD
+http://128.0.27.41:8080/239.211.200.42/mpegts
+#EXTINF:1 tvg-id="hlsproxy-268" tvg-logo="http://epg.it999.ru/img2/1584.png" group-title="Кино и сериалы",Мужское кино HD
+http://128.0.27.41:8080/239.211.200.31/mpegts
+#EXTINF:1 tvg-id="hlsproxy-312" tvg-logo="http://epg.it999.ru/img2/2444.png" group-title="Кино и сериалы",Мужской
+http://128.0.27.41:8080/239.211.211.54/mpegts
+#EXTINF:1 tvg-id="hlsproxy-344" tvg-logo="https://i.imgur.com/mPH8jsF.png" group-title="Кино и сериалы",Настоящее Страшное ТВ
+http://128.0.27.41:8080/239.211.211.107/mpegts
+#EXTINF:1 tvg-id="hlsproxy-329" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/nashe-novoe-kino(1).png" group-title="Кино и сериалы",Наше новое кино
+http://128.0.27.41:8080/239.211.211.143/mpegts
+#EXTINF:1 tvg-id="hlsproxy-212" tvg-logo="http://epg.it999.ru/img2/2041.png" group-title="Кино и сериалы",НТВ Хит
+http://128.0.27.41:8080/239.211.211.181/mpegts
+#EXTINF:1 tvg-id="hlsproxy-330" tvg-logo="http://epg.it999.ru/img2/12.png" group-title="Кино и сериалы",Родное Кино
+http://128.0.27.41:8080/239.211.211.144/mpegts
+#EXTINF:1 tvg-id="hlsproxy-399" tvg-logo="http://epg.it999.ru/img2/994.png" group-title="Кино и сериалы",Русский Бестселлер
+http://128.0.27.41:8080/239.211.211.137/mpegts
+#EXTINF:1 tvg-id="hlsproxy-400" tvg-logo="http://epg.it999.ru/img2/1570.png" group-title="Кино и сериалы",Русский детектив
+http://128.0.27.41:8080/239.211.211.95/mpegts
+#EXTINF:1 tvg-id="hlsproxy-397" tvg-logo="http://epg.it999.ru/img2/53.png" group-title="Кино и сериалы",Русский иллюзион
+http://128.0.27.41:8080/239.211.211.88/mpegts
+#EXTINF:1 tvg-id="hlsproxy-401" tvg-logo="http://epg.it999.ru/img2/401.png" group-title="Кино и сериалы",Русский роман
+http://128.0.27.41:8080/239.211.211.31/mpegts
+#EXTINF:1 tvg-id="hlsproxy-431" tvg-logo="http://epg.it999.ru/img2/2288.png" group-title="Кино и сериалы",Супер герои
+http://128.0.27.41:8080/239.211.211.36/mpegts
+#EXTINF:1 tvg-id="hlsproxy-464" tvg-logo="http://epg.it999.ru/img2/2404.png" group-title="Кино и сериалы",Феникс+Кино
+http://128.0.27.41:8080/239.211.211.72/mpegts
+#EXTINF:1 group-title="Кино и сериалы",ХХI
+http://128.0.27.41:8080/239.211.211.79/mpegts
+#EXTINF:1 tvg-id="hlsproxy-93" tvg-logo="http://epg.it999.ru/img2/2008.png" group-title="Мужские",Авто 24
+http://128.0.27.41:8080/239.211.211.13/mpegts
+#EXTINF:1 tvg-id="hlsproxy-248" tvg-logo="http://epg.it999.ru/img2/2443.png" group-title="Мужские",Драйв
+http://128.0.27.41:8080/239.211.211.59/mpegts
+#EXTINF:1 tvg-id="hlsproxy-357" tvg-logo="https://avatars.mds.yandex.net/get-tv-shows/70764/2a0000015185955ec3ccb8f31e90a88062d0/orig" group-title="Мужские",Оружие
+http://128.0.27.41:8080/239.211.211.120/mpegts
+#EXTINF:1 tvg-id="hlsproxy-358" tvg-logo="http://epg.it999.ru/img2/2419.png" group-title="Мужские",Охота и рыбалка
+http://128.0.27.41:8080/239.211.211.60/mpegts
+#EXTINF:1 tvg-id="hlsproxy-10" tvg-logo="https://i.imgur.com/RrQKlIJ.png" group-title="Мужские",Техно 24
+http://128.0.27.41:8080/239.211.211.45/mpegts
+#EXTINF:1 tvg-id="hlsproxy-404" tvg-logo="http://192.168.0.213:38050/proxy/https://iptvx.one/icn/luxury.png" group-title="Женские",LUXURY
+http://128.0.27.41:8080/239.211.211.38/mpegts
+#EXTINF:1 tvg-id="hlsproxy-100139" tvg-logo="https://epg.openboxfan.com/picon/sanporto.png" group-title="Женские",San Porto
+http://128.0.27.41:8080/239.211.211.164/mpegts
+#EXTINF:1 tvg-id="hlsproxy-8117" tvg-logo="http://epg.it999.ru/img2/2289.png" group-title="Женские",Shop and Show
+http://128.0.27.41:8080/239.211.211.152/mpegts
+#EXTINF:1 tvg-id="hlsproxy-162" tvg-logo="http://epg.it999.ru/img2/2301.png" group-title="Женские",Shopping Live
+http://128.0.27.41:8080/239.211.211.114/mpegts
+#EXTINF:1 tvg-id="hlsproxy-250" tvg-logo="http://epg.it999.ru/img2/930.png" group-title="Женские",Еда HD
+http://128.0.27.41:8080/239.211.200.14/mpegts
+#EXTINF:1 tvg-id="hlsproxy-257" tvg-logo="http://epg.it999.ru/img2/2298.png" group-title="Женские",Загородная жизнь
+http://128.0.27.41:8080/239.211.211.51/mpegts
+#EXTINF:1 tvg-id="hlsproxy-260" tvg-logo="http://epg.it999.ru/img2/2449.png" group-title="Женские",Здоровое ТВ
+http://128.0.27.41:8080/239.211.211.61/mpegts
+#EXTINF:1 tvg-id="hlsproxy-294" tvg-logo="http://epg.it999.ru/img2/614.png" group-title="Женские",Кухня ТВ
+http://128.0.27.41:8080/239.211.211.130/mpegts
+#EXTINF:1 tvg-id="hlsproxy-294" tvg-logo="http://192.168.0.213:38050/logos/kuchnya-tv-hd.png" group-title="Женские",Кухня ТВ HD
+http://128.0.27.41:8080/239.211.200.130/mpegts
+#EXTINF:1 tvg-id="hlsproxy-376" tvg-logo="http://epg.it999.ru/img2/2450.png" group-title="Женские",Психология 21
+http://128.0.27.41:8080/239.211.211.64/mpegts
+#EXTINF:1 tvg-id="hlsproxy-452" tvg-logo="http://epg.it999.ru/img2/2304.png" group-title="Женские",ТелеКафе
+http://128.0.27.41:8080/239.211.211.198/mpegts
+#EXTINF:1 tvg-id="hlsproxy-462" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/38123/2a0000016797f277a323e93880cad15e995b/184x140" group-title="Женские",Усадьба
+http://128.0.27.41:8080/239.211.211.62/mpegts
+#EXTINF:1 tvg-id="hlsproxy-463" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/70263/2a000001519dc87a70f9f629d542c58d2813/z" group-title="Женские",Успех
+http://128.0.27.41:8080/239.211.211.109/mpegts
+#EXTINF:1 tvg-id="hlsproxy-207" tvg-logo="https://iptvxcdn.ml/yuvelirochka.png" group-title="Женские",Ювелирочка
+http://128.0.27.41:8080/239.211.211.121/mpegts
+#EXTINF:1 tvg-id="hlsproxy-7" group-title="Музыкальные",1HD Music TV
+http://128.0.27.41:8080/239.211.200.33/mpegts
+#EXTINF:1 tvg-id="hlsproxy-180" tvg-logo="https://epg.openboxfan.com/picon/bridgetvclassic.png" group-title="Музыкальные",BRIDGE CLASSIC
+http://128.0.27.41:8080/239.211.211.21/mpegts
+#EXTINF:1 tvg-id="hlsproxy-57" tvg-logo="http://epg.it999.ru/img2/2024.png" group-title="Музыкальные",Bridge Hits
+http://128.0.27.41:8080/239.211.211.9/mpegts
+#EXTINF:1 tvg-id="hlsproxy-44" tvg-logo="https://i.imgur.com/L71iY9t.png" group-title="Музыкальные",Bridge TV
+http://128.0.27.41:8080/239.211.211.53/mpegts
+#EXTINF:1 tvg-id="hlsproxy-44" tvg-logo="https://i.imgur.com/L71iY9t.png" group-title="Музыкальные",BRIDGE Фрешь
+http://128.0.27.41:8080/239.211.211.23/mpegts
+#EXTINF:1 tvg-id="hlsproxy-44" tvg-logo="https://i.imgur.com/L71iY9t.png" group-title="Музыкальные",BRIDGE Шлягер
+http://128.0.27.41:8080/239.211.211.22/mpegts
+#EXTINF:1 tvg-id="hlsproxy-71" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/europa-plus-tv(1).png" group-title="Музыкальные",EuropaPlus TV
+http://128.0.27.41:8080/239.211.211.8/mpegts
+#EXTINF:1 tvg-id="hlsproxy-71" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2019/12/europa-plus-tv(1).png" group-title="Музыкальные",EuropaPlus TV HD
+http://128.0.27.41:8080/239.211.200.37/mpegts
+#EXTINF:1 tvg-id="hlsproxy-116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png" group-title="Музыкальные",MTV Live HD
+http://128.0.27.41:8080/239.211.211.147/mpegts
+#EXTINF:1 tvg-id="hlsproxy-124" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a0000016fe5fe29c1c6113e928f11774ecd/214x121" group-title="Музыкальные",Music Box Ru HD
+http://128.0.27.41:8080/239.211.200.3/mpegts
+#EXTINF:1 tvg-id="hlsproxy-150" tvg-logo="https://i.imgur.com/NymtU1E.png" group-title="Музыкальные",RTG HD
+http://128.0.27.41:8080/239.211.200.20/mpegts
+#EXTINF:1 tvg-id="hlsproxy-153" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/69315/2a000001600801ea425f8d8af06da5e81e1d/orig" group-title="Музыкальные",RU.TV
+http://128.0.27.41:8080/239.211.211.32/mpegts
+#EXTINF:1 tvg-id="hlsproxy-295" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2016/08/Lya-minor-TV123.png" group-title="Музыкальные",Ля-Минор
+http://128.0.27.41:8080/239.211.211.20/mpegts
+#EXTINF:1 tvg-id="hlsproxy-313" tvg-logo="http://epg.it999.ru/img2/715.png" group-title="Музыкальные",Музыка первого
+http://128.0.27.41:8080/239.211.211.196/mpegts
+#EXTINF:1 tvg-id="hlsproxy-471" tvg-logo="https://i.imgur.com/NBWyJJQ.png" group-title="Музыкальные",Шансон
+http://128.0.27.41:8080/239.211.211.78/mpegts
+#EXTINF:1 tvg-id="hlsproxy-424" tvg-logo="https://epg.openboxfan.com/picon/шаянтв.png" group-title="Музыкальные",Шаян
+http://128.0.27.41:8080/239.211.211.111/mpegts
+#EXTINF:1 tvg-id="hlsproxy-1006" tvg-logo="http://epg.it999.ru/img2/2011.png" group-title="Детские",ANI
+http://128.0.27.41:8080/239.211.211.98/mpegts
+#EXTINF:1 tvg-id="hlsproxy-66" tvg-logo="http://epg.it999.ru/img2/150.png" group-title="Детские",Disney
+http://128.0.27.41:8080/239.211.211.24/mpegts
+#EXTINF:1 tvg-id="hlsproxy-178" tvg-logo="https://epg.openboxfan.com/picon/tiji.png" group-title="Детские",TIJI
+http://128.0.27.41:8080/239.211.211.43/mpegts
+#EXTINF:1 tvg-id="hlsproxy-239" tvg-logo="http://epg.it999.ru/img2/923.png" group-title="Детские",Детский мир
+http://128.0.27.41:8080/239.211.211.80/mpegts
+#EXTINF:1 tvg-id="hlsproxy-53632" tvg-logo="http://epg.it999.ru/img2/2415.png" group-title="Детские",Жар-Птица
+http://128.0.27.41:8080/239.211.211.155/mpegts
+#EXTINF:1 tvg-id="hlsproxy-427" tvg-logo="http://epg.it999.ru/img2/284.png" group-title="Детские",Мульт и Музыка
+http://128.0.27.41:8080/239.211.211.12/mpegts
+#EXTINF:1 tvg-id="hlsproxy-51108" tvg-logo="http://epg.it999.ru/img2/2437.png" group-title="Детские",Рыжий
+http://128.0.27.41:8080/239.211.211.149/mpegts
+#EXTINF:1 tvg-id="hlsproxy-238" tvg-logo="http://epg.it999.ru/img2/66.png" group-title="Детские",Уникум
+http://128.0.27.41:8080/239.211.211.69/mpegts
+#EXTINF:1 group-title="Спортивные",Cпортивный HD
+http://128.0.27.41:8080/239.211.200.46/mpegts
+#EXTINF:1 tvg-id="hlsproxy-75" tvg-logo="http://epg.it999.ru/img2/2053.png" group-title="Спортивные",Extreme Sports Сhannel
+http://128.0.27.41:8080/239.211.211.47/mpegts
+#EXTINF:1 tvg-id="hlsproxy-50026" tvg-logo="http://epg.it999.ru/img2/3792.png" group-title="Спортивные",Fight box
+http://128.0.27.41:8080/239.211.211.176/mpegts
+#EXTINF:1 tvg-id="hlsproxy-274" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2016/01/KHL_Logo_Black.png" group-title="Спортивные",KHL Prime HD
+http://128.0.27.41:8080/239.211.200.12/mpegts
+#EXTINF:1 group-title="Спортивные",MMA-TV HD
+http://128.0.27.41:8080/239.211.200.190/mpegts
+#EXTINF:1 tvg-id="hlsproxy-287" tvg-logo="http://epg.it999.ru/img2/2285.png" group-title="Спортивные",Бокс ТВ
+http://128.0.27.41:8080/239.211.211.14/mpegts
+#EXTINF:1 tvg-id="hlsproxy-274" tvg-logo="https://cdn.red-media.ru/wp-content/uploads/2016/01/KHL_Logo_Black.png" group-title="Спортивные",КХЛ
+http://128.0.27.41:8080/239.211.211.48/mpegts
+#EXTINF:1 tvg-id="hlsproxy-328" tvg-logo="http://epg.it999.ru/img2/2250.png" group-title="Спортивные",Матч Премьер
+http://128.0.27.41:8080/239.211.211.170/mpegts
+#EXTINF:1 tvg-id="hlsproxy-392" tvg-logo="https://iptvxcdn.ml/match-tv.png" group-title="Спортивные",Матч! HD
+http://128.0.27.41:8080/239.211.200.22/mpegts
+#EXTINF:1 tvg-id="hlsproxy-420" tvg-logo="http://epg.it999.ru/img2/2003.png" group-title="Спортивные",Матч! Арена
+http://128.0.27.41:8080/239.211.211.35/mpegts
+#EXTINF:1 tvg-id="hlsproxy-222" tvg-logo="http://epg.it999.ru/img2/2054.png" group-title="Спортивные",Матч! Боец
+http://128.0.27.41:8080/239.211.211.44/mpegts
+#EXTINF:1 tvg-id="hlsproxy-94" tvg-logo="https://epg.openboxfan.com/picon/матчигра.png" group-title="Спортивные",Матч! Игра
+http://128.0.27.41:8080/239.211.200.11/mpegts
+#EXTINF:1 tvg-id="hlsproxy-328" tvg-logo="http://192.168.0.213:38050/logos/match-premier-hd.png" group-title="Спортивные",Матч! Премьер HD
+http://128.0.27.41:8080/239.211.200.170/mpegts
+#EXTINF:1 tvg-id="hlsproxy-335" tvg-logo="http://epg.it999.ru/img2/2042.png" group-title="Спортивные",Матч! Страна
+http://128.0.27.41:8080/239.211.211.63/mpegts
+#EXTINF:1 tvg-id="hlsproxy-337" tvg-logo="http://192.168.0.213:38050/logos/match-futbol-1-hd.png" group-title="Спортивные",Матч! Футбол 1 HD
+http://128.0.27.41:8080/239.211.200.171/mpegts
+#EXTINF:1 tvg-id="hlsproxy-339" tvg-logo="http://192.168.0.213:38050/logos/match-futbol-2-hd.png" group-title="Спортивные",Матч! Футбол 2 HD
+http://128.0.27.41:8080/239.211.200.172/mpegts
+#EXTINF:1 tvg-id="hlsproxy-512" tvg-logo="http://192.168.0.213:38050/logos/match-futbol-3-hd.png" group-title="Спортивные",Матч! Футбол 3 HD
+http://128.0.27.41:8080/239.211.200.173/mpegts
+#EXTINF:1 tvg-id="hlsproxy-1333" tvg-logo="http://epg.it999.ru/img2/2782.png" group-title="Спортивные",Футбол HD
+http://128.0.27.41:8080/239.211.211.108/mpegts
+#EXTINF:1 tvg-id="hlsproxy-100272" tvg-logo="http://epg.it999.ru/img2/4679.png" group-title="Спортивные",Футбольный HD
+http://128.0.27.41:8080/239.211.200.47/mpegts
+#EXTINF:1 tvg-id="hlsproxy-100271" tvg-logo="http://epg.it999.ru/img2/4605.png" group-title="Спортивные",Хоккейный HD
+http://128.0.27.41:8080/239.211.200.48/mpegts
