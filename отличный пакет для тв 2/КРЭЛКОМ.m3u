@@ -1,0 +1,107 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1 aspect-ratio=None
+#EXTINF:-1,Nat Geo Wild
+http://109.200.130.124:9100/play/a030/index.m3u8
+#EXTINF:-1,Viasat Sport
+http://109.200.130.124:9100/play/a03a/index.m3u8
+#EXTINF:-1,Viasat History
+http://109.200.130.124:9100/play/a038/index.m3u8
+#EXTINF:-1,Viasat Explore
+http://109.200.130.124:9100/play/a036/index.m3u8
+#EXTINF:-1,Travel+Adventure
+http://109.200.130.124:9100/play/a01f/index.m3u8
+#EXTINF:-1,Дикий
+http://109.200.130.124:9100/play/a00b/index.m3u8
+#EXTINF:-1,Диалоги о рыбалке
+http://109.200.130.124:9100/play/a007/index.m3u8
+#EXTINF:-1,Усадьба
+http://109.200.130.124:9100/play/a02s/index.m3u8
+#EXTINF:-1,Уникум
+http://109.200.130.124:9100/play/a02a/index.m3u8
+#EXTINF:-1,Точка Отрыва
+http://109.200.130.124:9100/play/a02r/index.m3u8
+#EXTINF:-1,ТЕТ
+http://109.200.130.124:9100/play/a01s/index.m3u8
+#EXTINF:-1,Телекафе
+http://109.200.130.124:9100/play/a03g/index.m3u8
+#EXTINF:-1,ТВЦ
+http://109.200.130.124:9100/play/a00t/index.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://109.200.130.124:9100/play/a004/index.m3u8
+#EXTINF:-1,Продвижение
+http://109.200.130.124:9100/play/a015/index.m3u8
+#EXTINF:-1,Поехали!
+http://109.200.130.124:9100/play/a02p/index.m3u8
+#EXTINF:-1,Победа
+http://109.200.130.124:9100/play/a043/index.m3u8
+#EXTINF:-1,Плюс Плюс
+http://109.200.130.124:9100/play/a029/index.m3u8
+#EXTINF:-1,НСТ
+http://109.200.130.124:9100/play/a03f/index.m3u8
+#EXTINF:-1,Музыка первого
+http://109.200.130.124:9100/play/a03e/index.m3u8
+#EXTINF:-1,Мосфильм. Золотая коллекция
+http://109.200.130.124:9100/play/a027/index.m3u8
+#EXTINF:-1,Москва 24
+http://109.200.130.124:9100/play/a00l/index.m3u8
+#EXTINF:-1,МИР Сериала
+http://109.200.130.124:9100/play/a01h/index.m3u8
+#EXTINF:-1,МАМА
+http://109.200.130.124:9100/play/a02o/index.m3u8
+#EXTINF:-1,Любимое Кино
+http://109.200.130.124:9100/play/a01i/index.m3u8
+#EXTINF:-1,Известия
+http://109.200.130.124:9100/play/a006/index.m3u8
+#EXTINF:-1,Жара
+http://109.200.130.124:9100/play/a02i/index.m3u8
+#EXTINF:-1,Еврокино
+http://109.200.130.124:9100/play/a00s/index.m3u8
+#EXTINF:-1,Домашние животные
+http://109.200.130.124:9100/play/a02n/index.m3u8
+#EXTINF:-1,Дом кино
+http://109.200.130.124:9100/play/a03c/index.m3u8
+#EXTINF:-1,Грозный
+http://109.200.130.124:9100/play/a01a/index.m3u8
+#EXTINF:-1,Время
+http://109.200.130.124:9100/play/a03b/index.m3u8
+#EXTINF:-1,Бобёр
+http://109.200.130.124:9100/play/a037/index.m3u8
+#EXTINF:-1,Бигуди
+http://109.200.130.124:9100/play/a02e/index.m3u8
+#EXTINF:-1,Авто 24
+http://109.200.130.124:9100/play/a011/index.m3u8
+#EXTINF:-1,Tiji
+http://109.200.130.124:9100/play/a00h/index.m3u8
+#EXTINF:-1,360°
+http://109.200.130.124:9100/play/a02k/index.m3u8
+#EXTINF:-1,TV1000 Русское кино
+http://109.200.130.124:9100/play/a033/index.m3u8
+#EXTINF:-1,.Sci-Fi
+http://109.200.130.124:9100/play/a031/index.m3u8
+#EXTINF:-1,.black
+http://109.200.130.124:9100/play/a02d/index.m3u8
+#EXTINF:-1,SHOT TV
+http://109.200.130.124:9100/play/a03o/index.m3u8
+#EXTINF:-1,MEZZO
+http://109.200.130.124:9100/play/a02z/index.m3u8
+#EXTINF:-1,BRIDGE TV Русский Хит
+http://109.200.130.124:9100/play/a009/index.m3u8
+#EXTINF:-1,BRIDGE TV
+http://109.200.130.124:9100/play/a00a/index.m3u8
+#EXTINF:-1,Gulli Girl
+http://109.200.130.124:9100/play/a00m/index.m3u8
+#EXTINF:-1,FOX
+http://109.200.130.124:9100/play/a02y/index.m3u8
+#EXTINF:-1,Da Vinci
+http://109.200.130.124:9100/play/a02q/index.m3u8
+#EXTINF:-1,Amedia Premium
+http://109.200.130.124:9100/play/a005/index.m3u8
+#EXTINF:-1,Amedia 1
+http://109.200.130.124:9100/play/a00c/index.m3u8
+#EXTINF:-1,Amedia 2
+http://109.200.130.124:9100/play/a00f/index.m3u8
+#EXTINF:-1,8 Канал
+http://109.200.130.124:9100/play/a01e/index.m3u8
+#EXTINF:-1,2x2
+http://109.200.130.124:9100/play/a00j/index.m3u8
+#EXTINF:-1,Extreme Sports
+http://109.200.130.124:9100/play/a02x/index.m3u8

@@ -1,0 +1,51 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1 aspect-ratio=None
+#EXTINF:-1,Россия 1 HD
+http://185.37.150.46/Rossiya_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,НТВ HD
+http://185.37.150.46/HTB_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,РЕН ТВ HD
+http://185.37.150.46/RenTV_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,ТНТ HD
+http://185.37.150.46/THT_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Россия HD
+http://185.37.150.46:80/Rossiya_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,СТС HD
+http://185.37.150.46/CTC_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,2x2
+http://185.37.150.46:80/2x2/tracks-v1a1/index.m3u8
+#EXTINF:-1,Euronews
+http://185.37.150.46:80/Euronews/tracks-v1a1/index.m3u8
+#EXTINF:-1,Fox HD
+http://185.37.150.46:80/Fox_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Fox life HD
+http://185.37.150.46:80/Fox_Life_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Капитан фантастика HD
+http://185.37.150.46:80/Ginger_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png",НСТ
+http://185.37.150.46:80/HCT/tracks-v1a1/index.m3u8
+#EXTINF:-1,Карусель
+http://185.37.150.46:80/Karusel/tracks-v1a1/index.m3u8
+#EXTINF:-1,Любимое кино
+http://185.37.150.46:80/lubimoe_kino/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2438.png",Капитан Фантастика HD
+http://185.37.150.46/Ginger_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/138.png",Комедийное HD
+http://185.37.150.46/Kinopokaz2_HD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Мульт HD
+http://185.37.150.46:80/TLUMHD/tracks-v1a1/index.m3u8
+#EXTINF:-1,Сарафан
+http://185.37.150.46:80/sarafan/tracks-v1a1/index.m3u8
+#EXTINF:-1,Шансон ТВ
+http://185.37.150.46:80/Shanson/tracks-v1a1/index.m3u8
+#EXTINF:-1,СТБ
+http://185.37.150.46:80/STB/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1700.png",КВН ТВ
+http://185.37.150.46:80/kvn/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/284.png",Мультимузыка
+http://185.37.150.46:80/Strana/tracks-v1a1/index.m3u8
+#EXTINF:-1,VIVA Russia
+http://185.37.150.46:80/viva/tracks-v1a1/index.m3u8
+#EXTINF:-1,Время
+http://185.37.150.46:80/Vremya/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2242.png",World Fashion HD
+http://185.37.150.46:80/World_Fashion/tracks-v1a1/index.m3u8

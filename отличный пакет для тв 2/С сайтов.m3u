@@ -1,0 +1,215 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1 aspect-ratio=None
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2142.png",Настоящее время
+https://rfe-ingest.akamaized.net/dash/live/2033030/tvmc05/manifest.mpd
+#EXTINF:-1 tvg-logo="https://assets.limehd.tv/uploads/channel/10272/thumb_915e2961accb5f2736151caccb4c1ecc.png",Эхо ТВ 24
+http://stream.novouralsk-news.ru/echotv24/echotv24-576p.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/nLwPZgX2/image.jpg",ТСВ
+https://iptv-hls.idc.md/hls/2/live2.m3u8
+#EXTINF:-1 tvg-logo="https://quartztelecom.ru/local/templates/main/images/header-logo.png",Кварц ТВ
+https://video.quartztelecom.ru:18080/hls/2386168/71fe656b993c510f39a5/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://vektor-tv.ru/local/templates/front/assets/img/logos/logo.jpg",Вектор 24
+https://live.vektor-tv.ru/live/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/L8X5NW5Z/unnamed.jpg",Тивиком
+http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://limehd.tv/images/seo/svoetv_1.jpg",Своё ТВ
+https://svoetv.mediacdn.ru/cdn/svoetv/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="https://oskementv.kz/assets/regions/logo/altay.png?v=1",ALTAI TV
+https://stream.kaztrk.kz/regional/oskementv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.rgvktv.ru/templates/gk_gamenews/images/logo.png",РГВК Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2570.png",КТК
+https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ramtv.ru/wp-content/uploads/2021/12/cropped-Logo2020-white2-e1640011054620.png",Раменское ТВ
+https://e10-ll.facecast.net/rtv/0.m3u8
+#EXTINF:-1 tvg-logo="https://logotype.download/tv/11257.jpg",Вечерняя Москва HD
+https://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qd1GFD3R/image.png",Абаза ТВ
+https://watcher-node4.apsny.camera/tv_abaza_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://s3.spbtv.com/rosing-production/b292391b35e16613df3e.png",Белгород 24
+https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1161883563492564992/OPawdkI-_400x400.jpg",12 КАНАЛ (ОМСК)
+https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="С сайтов",Беларусь 24
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbWJfGRT/2008-2010.png",ТВК (Красноярск)
+https://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://chastnik-m.ru/images/company_new/1054/logo_200.jpg",Между.Net HD
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://universmotri.ru/images/Univer-HD.png",Univer TV HD
+https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/wTwrKSfy/1.jpg",Миллет
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 group-title="С сайтов",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="https://assets.limehd.tv/uploads/channel/10218/thumb_a1be0681a277ae17caafe7aefb77713a.png",Сочи 24 HD
+http://serv30.vintera.tv:8081/sochi/sochi24/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/sochi_live.png",Sochi Live HD
+http://serv30.vintera.tv:8081/sochi/sochi_stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2265.png",360°
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/0.m3u8
+#EXTINF:-1 tvg-logo="https://img15.lostpic.net/2019/09/01/7e6553c2727b709f781d5ab43b52ab9c.png",360 Новости
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/0.m3u8
+#EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/tv-briks_logo.jpg",Tv Brics
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов",РБК
+http://online.video.rbc.ru/online2/rbctv_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2472.png",Первый Крымский
+https://mrlive.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:-1 group-title="С сайтов",ТНВ
+https://tnv.bonus-tv.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logotype.download/tv/12186.png",ТРК 555 HD
+http://trk555.tv:8888/live
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2440.png",Тамыр
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2464.png",БСТ
+https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2410.png",Курай TV
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist_sdhigh.m3u8
+#EXTINF:-1 tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522085478_ing.jpeg",НТК ИНГУШЕТИЯ
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist_hdhigh.m3u8
+#EXTINF:-1 tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522782328_krasnodar.jpg",Краснодар
+http://bsttv.bonus-tv.ru/cdn/krasnodar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.limehd.tv/uploads/channel/10428/thumb_2224509bdab82cfcfaffe6b73fe26e7c.png",Салям
+http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1yar.tv/photos/!design/logoNewBig.png",Первый Ярославский
+https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="С сайтов",Brodilo TV
+https://brodilo.tv/brodilotv.m3u
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/8zND9mnj/images.png",Осетия-Ирыстон
+https://catchup.videoline.ru/iriston/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://www.tbnbaltia.eu/img/tbn-baltia-2-white-trans.png",TBN BALTIA
+http://dc.tbnbaltia.eu:8088/dvr/tracks-v1a1/rewind-21600.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bwsLzK5M/213s.jpg",Небеса ТВ7
+https://vod.tv7.fi/tv7-ru/_definst_/smil:tv7-ru.smil/chunklist_w802965519_b946000_slru.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1955180523/images_400x400.jpg",EWTN
+https://d3j0n5al39mfyd.cloudfront.net/ewtn/ukraine_1280x720_3300k.m3u8
+#EXTINF:-1 group-title="С сайтов",Радость Моя
+https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый HD
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="С сайтов (VPN)",Россия 24
+http://radio-live-mg.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",Россия РТР
+http://radio-live-mg.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",Россия К
+http://radio-live-mg.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",Москва 24
+http://radio-live-mg.rtr-vesti.ru/hls/moscow_24/playlist_3.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://cdn01.prnews.io/content/sites/logos/c591ebb0b0482e1475b031904b1d8ece.jpeg",Истоки ТВ
+http://istoki.tv:1935/live/efir-istoki.stream/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://sezon.tv/wp-content/uploads/2021/08/rodnoy.jpg",Родной Канал HD
+https://n1.slavmir.tv/live/slavmir/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",Оплот
+http://ott.inmart.tv:8081/54/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",Оплот 2
+http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://lh4.googleusercontent.com/-742VnKVVQwQ/AAAAAAAAAAI/AAAAAAAAAAA/1Wg80Uqemso/s44-p-k-no-ns-nd/photo.jpg",6 ТВ Горловка
+http://ott.inmart.tv:8081/223/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/4dwdbfPN/image.png",Первый республиканский
+http://ott.inmart.tv:8081/18/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://iptv.browsers.dn.ua/stalker_portal/misc/logos/320/3586.jpg",Новороссия тв HD
+http://ott.inmart.tv:8081/19/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/43xN4kZD/image.png",Юнион ТВ
+http://ott.inmart.tv:8081/35/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2360.png",ТБН
+https://5d23269b3ec0c.streamlock.net/WEB_TBN/ngrp:TBN.stream-adaptive/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2169.png",Грозный
+https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.cableman.ru/sites/default/files/rezonanslogo.png",Резонанс ТВ
+https://serv25.vintera.tv/1pnk/rezonans/chunks.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.cableman.ru/sites/default/files/luxury.png",Luxury HD
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://almaz-media.tv/templates/almaz2019/images/AK_logo-1024.png",Алмазный край
+https://stream.almaz-media.tv:8080/hls/720.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/y8Bb20zd/images.png",ТРК Губерния
+https://live-guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2271.png",Известия
+https://hls-igi.cdnvideo.ru/igi/igi_sq/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://pl.ottglanz.tv/icon/1215.png",Нано ТВ
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://assets.limehd.tv/uploads/channel/10328/thumb_a2e9c7ca91051d2181c5bdb80e778001.png",НВК Саха HD
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://i.otzovik.com/objects/b/790000/782877.png",ПЕРВЫЙ ТУЛЬСКИЙ
+http://5.164.24.83/tula/1tv_hi/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.cableman.ru/sites/default/files/tverskoyprospekt.jpg",Тверской Проспект Регион
+http://stream.fastlnk.ru:88/Tverskojj_prospekt/index.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1532276954_shelkovskoe-tv.jpg",Щелковское ТВ
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/44ScwfKK/images.jpg",Евразия Орск
+https://live2-orsk.cdnvideo.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://pbs.twimg.com/profile_images/941295036817444864/6IoGlBl6_400x400.jpg",МТВ(Волгоград)
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522952433_teledom-1.jpg",Теледом ТВ HD
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",Просвещение
+https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://pbs.twimg.com/profile_images/835102755572301825/eI4_ElJX_400x400.jpg",Селенга ТВ
+http://90.188.37.86/live/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img2/5816.png",Аист
+https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",Вместе-РФ
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/SR3gZzfy/20200121-095540.png",Сургут 24
+https://video1.in-news.ru/c24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2168.png",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/d0fZsFbk/r300x423x4.jpg",Липецкое время
+http://serv25.vintera.tv:8081/liptime/liptime/chunks.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://tochkatv.tv/wp-content/uploads/2017/09/logo.png",Точка ТВ
+http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2479.png",Эхо ТВ
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/6031.png",Министерство идей
+https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://s3.spbtv.com/rosing-production/bcf527a2cba8750f978d.png",Тюменское Время
+https://hls-sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://pic.rutubelist.ru/video/b3/0d/b30d0e06503723e4c61adc98848bd0a9.jpg",Мордовия 24
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522668479_htm.jpg",НТМ HD
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://lime-tv.ru/uploads/posts/2019-09/thumbs/1568806824_nts-tv.jpg",НТС HD
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img2/6025.png",Ника ТВ
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.oreol.tv/img/mirpremium1.jpg",Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",МИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",МИР 24 HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)",Твц
+https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://s3.spbtv.com/rosing-production/b69bafc330ead51ef2b6_512x512c.png",Крик-ТВ
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://img15.lostpic.net/2019/08/31/f0a38112fc67c1308e59d9ceb78ebd40.png",ННТВ
+http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522668479_htm.jpg",НТМ
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2413.png",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://tv.nalench.com/uploads/screenshots/slavyanskiy_mir.jpg",Славянский Мир
+https://n1.slavmir.tv/live/ngrp:Cinegy.stream_all/chunklist_w54382310_b5256000.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/wxCPtsXF/e8ace08078369d693b20dee7833c96c0.jpg",Саратов 24
+https://saratov24.tv/online/playlist.php
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://img15.lostpic.net/2019/09/01/34a9f96db47c15b9a3f002884498f0c5.png",Смайлик ТВ
+https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://tv-11.ru/wp-content/uploads/2021/12/logo_shapka.jpg",Наш Дом
+http://85.234.33.63/stream/c11.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2571.png",Первый канал Евразия
+https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2478.png",Хузур ТВ
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/chunklist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2578.png",Хабар 24
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2474.png",КРЫМ 24
+http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.archive.inform.kz/fotoarticles/20120221175352.jpg",QAZAQSTAN
+https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/qazaqstantv/qazaqstantv_720/chunks.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/2157.png",Архыз 24
+http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://www.samru.ru/content/Image/News/logo/gis_logo1.jpg",Телеканал ГИС Самара
+https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/BnYBKrWs/2.png",Татарстан 24
+https://stream.efir24.tv/live/efir24tv/playlist.m3u8
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="https://i.postimg.cc/BvcRvFMp/image.png",Егорьевск ТВ
+http://video.platformcraft.ru/hls/etv/egorievsk-tv/720p.m3u8

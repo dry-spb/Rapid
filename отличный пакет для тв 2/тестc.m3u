@@ -1,0 +1,107 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1 aspect-ratio=None
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4XG5zfS/PROKOP.png",Prokop TV
+http://135.181.119.106:8080/prokop_tv/video.m3u8?token=pzmBDNQlBi2yyPp
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zX7YnPrt/983.png",CHD TV Rock
+http://stream1.chd-servers.ml/chdtvrock/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fz6XX5Mw/984.png",CHD TV RU Rock
+http://stream1.chd-servers.ml/chdtvrurock/index.m3u8
+#EXTINF:-1,Ani
+https://bsttv.bonus-tv.ru/cdn/ani/playlist.m3u8
+#EXTINF:-1,Мульт
+http://bsttv.bonus-tv.ru/cdn/mult/playlist.m3u8
+#EXTINF:-1,Мама
+http://bsttv.bonus-tv.ru/cdn/mama/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2138.png",Bolt HD
+http://91.230.214.87:8000/play/bold/index.m3u8
+#EXTINF:-1,Рыжий
+http://81.177.139.240:8000/play/a008/index.m3u8
+#EXTINF:-1,Mega TV
+http://91.230.214.87:8000/play/ctc/index.m3u8
+#EXTINF:-1,Familia Domashniy
+http://91.230.214.87:8000/play/domashniy/index.m3u8
+#EXTINF:-1,Film.Ua Drama
+http://91.230.214.87:8000/play/drama/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3551.png",Gags Network HD
+http://91.230.214.87:8000/play/Gangnetorwk_in/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2101.png",Квартал ТВ
+http://91.230.214.87:8000/play/Kvartal/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2145.png",Star Cinema HD
+http://91.230.214.87:8000/play/cinema/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2153.png",Star Family HD
+http://91.230.214.87:8000/play/family/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3550.png",Зал суда HD
+http://91.230.214.87:8000/play/zalsuda_in/index.m3u8
+#EXTINF:-1 tvg-logo="https://iptvxcdn.ml/312-kino.png",312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1,Amedia 1
+https://str2.redmax.tv:443/Amedia1/index.m3u8
+#EXTINF:-1,Discovery HD
+http://81.177.139.240:8000/play/a004/index.m3u8
+#EXTINF:-1,Оружие
+http://81.177.139.240:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-logo="http://ottpink.network/picons/clarity4k.png",Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-logo="http://ottpink.network/picons/loupe4k.png",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 tvg-logo="https://disabilityin.org/wp-content/uploads/2020/10/bloomberg-logo.png",Bloomberg TV 4K
+https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/index.m3u8
+#EXTINF:-1 tvg-logo="https://tv1.kg/css/newmin/logotop.png",TV1 Cinemastan
+http://st.kglive.asia/hls/tv1cinema.m3u8
+#EXTINF:-1 tvg-logo="https://tv1.kg/css/newmin/logotop.png",TV1
+http://st.kglive.asia/hls/tv1kg.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/X2Cqx73/SGN-04-24-2022-1650746943539.png",BACKUS TV HD
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nj7Bdbs/SGN-04-24-2022-1650746279377.png",BACKUSTV Страшное HD
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qspvCmv/SGN-05-01-2022-1651407692102.png",BACKUS TV Russian music
+https://stream.backustv.ru/live/forilooktv/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1035.png",Travel+Adventure HD
+http://45.142.213.81:8001/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1035.png",Travel+Adventure HD
+http://live-1.otcnet.ru/tadtmf/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1035.png",Travel+Adventure HD
+http://live-1.otcnet.ru/ta/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://limehd.tv/images/seo/svoetv_1.jpg",Своё ТВ
+http://bsttv.bonus-tv.ru/cdn/svoetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dimgrad24.ru/images/new/favicon.png",Димград 24 HD
+http://live-1.otcnet.ru/dimgrad/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.limehd.tv/uploads/channel/10479/thumb_5194bd2a640b74872fdd9eaeded82a97.png",Первый Псковский
+http://live-1.otcnet.ru/pskov/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://ulpravda.ru/images/new/favicon.png",УЛПРАВДА ТВ
+http://live-1.otcnet.ru/pravdatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.lavaonline.tv/themes/custom/stm/lava/logo.png",LAVA HD
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6036.png",ТВ Экстра HD
+http://194.190.78.91:8080/tvextra720b/index.m3u8
+#EXTINF:-1 tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png",Кулинар ТВ
+http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1,Cinema Classic TV
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2276.png",MCM Top Russia
+http://78.58.166.118:8981/l57/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BzXrmYH/dh90s.png",Dance Hits of 90s
+http://140.238.127.147/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jrCjCrB/logoza-ru-2.png",Best Live Performances
+http://140.238.127.147/2/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jn9npfV/MT.png",Modern Talking & Co
+http://140.238.127.147/3/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zS0Pt6P/logo-RDH90s-1.png",Russian Dance Hits of 90s
+http://140.238.127.147/4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gSKpPVf/IMG-20210228-190239-650.jpg",Romantic and Ballads
+http://140.238.127.147/5/index.m3u8
+#EXTINF:-1,VHSClassic
+http://140.238.127.147/6/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/68ksVv1/image.jpg",Русская Попса 80х-90х
+http://140.238.127.147/7/index.m3u8
+#EXTINF:-1,Российские Сериалы
+http://140.238.127.147/8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NTRLgVv/ostorojno-modern.png",Осторожно Модерн!
+http://140.238.127.147/9/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/an/23MIFU9IMsNtE2K6FfBBCQ/featured_channel.jpg",Russischer Jahrmarkt
+https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:-1 tvg-logo="https://meineinkauf.ch/fileadmin/_processed_/0/9/csm_44035_KaufBei_2018_b95f89bcc7.png",Kaufbei TV
+http://api.alpaca.t62a.com/hls/9112/stream0.m3u8
+#EXTINF:-1 tvg-logo="https://d1w9tvfspbvyah.cloudfront.net/wp-content/uploads/2020/06/logo-new-big.png",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://www.datocms-assets.com/14027/1631857142-afv-logo.png",AFV Family
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8

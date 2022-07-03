@@ -1,0 +1,365 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1 aspect-ratio=None
+#EXTINF:-1,Первый HD
+http://http-microimpuls.cdnvideo.ru/perviyhd/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Первый канал
+http://http-microimpuls.cdnvideo.ru/perviy/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Россия HD
+http://http-microimpuls.cdnvideo.ru/rossiahd/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Россия 1
+http://http-microimpuls.cdnvideo.ru/rossia1/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Россия К
+http://http-microimpuls.cdnvideo.ru/rossiak/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Россия 24
+http://http-microimpuls.cdnvideo.ru/rossia24/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Москва 24
+http://http-microimpuls.cdnvideo.ru/moskva24/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,ТНТ
+http://http-microimpuls.cdnvideo.ru/tnt/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,РЕН ТВ
+http://http-microimpuls.cdnvideo.ru/rentv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,НТВ
+http://http-microimpuls.cdnvideo.ru/ntv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,ТНТ4
+http://http-microimpuls.cdnvideo.ru/comedytv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,В мире животных HD
+http://http-microimpuls.cdnvideo.ru/animalfamilyhd/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,HD Life
+http://http-microimpuls.cdnvideo.ru/hdlife/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Nat Geo Wild
+http://http-microimpuls.cdnvideo.ru/natgeowild/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Ocean TV
+http://http-microimpuls.cdnvideo.ru/oceantv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Охота и рыбалка
+http://http-microimpuls.cdnvideo.ru/ohotairibalka/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Оружие
+http://http-microimpuls.cdnvideo.ru/oruzhie/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,RTG HD
+http://http-microimpuls.cdnvideo.ru/rtghd/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,24 техно
+http://http-microimpuls.cdnvideo.ru/24techno/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Amedia 1
+http://http-microimpuls.cdnvideo.ru/amedia1/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Amedia 2
+http://http-microimpuls.cdnvideo.ru/amedia2/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Amedia hit
+http://http-microimpuls.cdnvideo.ru/amediahit/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Amedia Premium HD
+http://http-microimpuls.cdnvideo.ru/amediapremiumhd/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Дом кино
+http://http-microimpuls.cdnvideo.ru/domkino/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Драйв
+http://http-microimpuls.cdnvideo.ru/draiv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Еда
+http://http-microimpuls.cdnvideo.ru/eda/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Еврокино
+http://http-microimpuls.cdnvideo.ru/evrokino/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Fox Life
+http://http-microimpuls.cdnvideo.ru/foxlife/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Иллюзион+
+http://http-microimpuls.cdnvideo.ru/illusionplus/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Русский иллюзион
+http://http-microimpuls.cdnvideo.ru/russkiyillision/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,История
+http://http-microimpuls.cdnvideo.ru/istoriya/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/798.png",Индийское кино
+http://http-microimpuls.cdnvideo.ru/indiatv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Кинохит
+http://http-microimpuls.cdnvideo.ru/kinohit/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Киносвидание
+http://http-microimpuls.cdnvideo.ru/kinosvidanie/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Наше новое кино
+http://http-microimpuls.cdnvideo.ru/nashenovoekino/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Киноужас
+http://http-microimpuls.cdnvideo.ru/kinouzhas/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Киномикс
+http://http-microimpuls.cdnvideo.ru/kinoplus/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Киносемья
+http://http-microimpuls.cdnvideo.ru/premiera/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Родное кино
+http://http-microimpuls.cdnvideo.ru/rodnoekino/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Киносерия
+http://http-microimpuls.cdnvideo.ru/mnogotv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Мужское кино
+http://http-microimpuls.cdnvideo.ru/muzhskoekino/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Мужское кино HD
+http://http-microimpuls.cdnvideo.ru/muzhskoekinohd/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Кинопоказ
+http://http-microimpuls.cdnvideo.ru/kinopokaz/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Мужской
+http://http-microimpuls.cdnvideo.ru/muzhskoy/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,TV1000
+http://http-microimpuls.cdnvideo.ru/tv1000/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,TV1000 Action
+http://http-microimpuls.cdnvideo.ru/tv1000action/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,TV1000 русское кино
+http://http-microimpuls.cdnvideo.ru/tv1000russkoekino/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,НСТ
+http://http-microimpuls.cdnvideo.ru/nst/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Победа
+http://http-microimpuls.cdnvideo.ru/pobeda/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Кино 24
+http://http-microimpuls.cdnvideo.ru/kino24/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Zee TV
+http://http-microimpuls.cdnvideo.ru/zeetv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Русский бестселлер
+http://http-microimpuls.cdnvideo.ru/russkiybestseller/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Русский детектив
+http://http-microimpuls.cdnvideo.ru/russkiydetektiv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Русский роман
+http://http-microimpuls.cdnvideo.ru/russkiyroman/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Крик ТВ
+http://http-microimpuls.cdnvideo.ru/kriktv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,КВН ТВ
+http://http-microimpuls.cdnvideo.ru/kvntv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,СуперГерои
+http://http-microimpuls.cdnvideo.ru/malysh/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Мама
+http://http-microimpuls.cdnvideo.ru/mama/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Gulli girl
+http://http-microimpuls.cdnvideo.ru/gulli/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Карусель
+http://http-microimpuls.cdnvideo.ru/karusel/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Пингвин ЛОЛО
+http://http-microimpuls.cdnvideo.ru/lolo/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Мульт
+http://http-microimpuls.cdnvideo.ru/mult/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Мультимания
+http://http-microimpuls.cdnvideo.ru/multimania/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,В гостях у сказки
+http://http-microimpuls.cdnvideo.ru/vgostyah/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Мультимузыка
+http://http-microimpuls.cdnvideo.ru/strana/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Tiji
+http://http-microimpuls.cdnvideo.ru/tiji/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Рыжий
+http://http-microimpuls.cdnvideo.ru/ryzhiysurdo/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Da Vinci
+http://http-microimpuls.cdnvideo.ru/davinci/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Уникум
+http://http-microimpuls.cdnvideo.ru/detskiy/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Детский мир
+http://http-microimpuls.cdnvideo.ru/detskiymir/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Disney
+http://http-microimpuls.cdnvideo.ru/disney/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Смайлик ТВ
+http://http-microimpuls.cdnvideo.ru/smailiktv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Ностальгия
+http://http-microimpuls.cdnvideo.ru/nostalgia/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,О!
+http://http-microimpuls.cdnvideo.ru/o/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,о2тв HD
+http://http-microimpuls.cdnvideo.ru/o2/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,ОТР
+http://http-microimpuls.cdnvideo.ru/otr/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Спас
+http://http-microimpuls.cdnvideo.ru/spas/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Мир
+http://http-microimpuls.cdnvideo.ru/mir/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Мир 24
+http://http-microimpuls.cdnvideo.ru/mir24/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,360°
+http://http-microimpuls.cdnvideo.ru/podmoskovie/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Поехали!
+http://http-microimpuls.cdnvideo.ru/poehali/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Просвещение
+http://http-microimpuls.cdnvideo.ru/prosveshenie/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Пятница!
+http://http-microimpuls.cdnvideo.ru/pyatnica/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Совершенно секретно
+http://http-microimpuls.cdnvideo.ru/sovershennosekretno/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Тео ТВ
+http://http-microimpuls.cdnvideo.ru/teotv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Лен ТВ 24 HD
+http://http-microimpuls.cdnvideo.ru/len24hd/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Известия
+http://http-microimpuls.cdnvideo.ru/izvestiya/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Армения ТВ
+http://http-microimpuls.cdnvideo.ru/armeniatv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/153.png",Авто 24
+http://http-microimpuls.cdnvideo.ru/avto24/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Авто плюс
+http://http-microimpuls.cdnvideo.ru/avtoplus/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Az TV HD
+http://http-microimpuls.cdnvideo.ru/aztv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,2x2
+http://http-microimpuls.cdnvideo.ru/2x2/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,5 канал
+http://http-microimpuls.cdnvideo.ru/5kanal/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,8 канал
+http://http-microimpuls.cdnvideo.ru/8kanal/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Союз
+http://http-microimpuls.cdnvideo.ru/souz/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,ТБН
+http://http-microimpuls.cdnvideo.ru/tbn/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,БелРос
+http://http-microimpuls.cdnvideo.ru/tro/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2170.png",Беларусь 24
+http://http-microimpuls.cdnvideo.ru/belarus24/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Че
+http://http-microimpuls.cdnvideo.ru/che/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Домашний
+http://http-microimpuls.cdnvideo.ru/domashniy/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Тномер
+http://http-microimpuls.cdnvideo.ru/tnomer/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,СТС
+http://http-microimpuls.cdnvideo.ru/sts/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,СТС Love
+http://http-microimpuls.cdnvideo.ru/stslove/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,ЖАРА
+http://http-microimpuls.cdnvideo.ru/stv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Жара HD
+http://http-microimpuls.cdnvideo.ru/tvoydom/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Суббота!
+http://http-microimpuls.cdnvideo.ru/super/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Театр
+http://http-microimpuls.cdnvideo.ru/teatr/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Теледом HD
+http://http-microimpuls.cdnvideo.ru/teledomhd/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Телекафе
+http://http-microimpuls.cdnvideo.ru/telekafe/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Телепутешествия
+http://http-microimpuls.cdnvideo.ru/teletravel/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Бобёр
+http://http-microimpuls.cdnvideo.ru/bober/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Точка ТВ
+http://http-microimpuls.cdnvideo.ru/tochkatv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,ТВ3
+http://http-microimpuls.cdnvideo.ru/tv3/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,ТВЦ
+http://http-microimpuls.cdnvideo.ru/tvcentr/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png",TV XXI
+http://http-microimpuls.cdnvideo.ru/tvxxi/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Ля-минор
+http://http-microimpuls.cdnvideo.ru/laminor/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/151.png",Bridge TV
+http://http-microimpuls.cdnvideo.ru/bridgetv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/591.png",BRIDGE TV Русский Хит
+http://http-microimpuls.cdnvideo.ru/rusongtv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2024.png",BRIDGE TV HITS
+http://http-microimpuls.cdnvideo.ru/dange/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4373.png",Bridge TV Classic
+http://http-microimpuls.cdnvideo.ru/topsong/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4621.png",Bridge TV Шлягер
+http://http-microimpuls.cdnvideo.ru/shlyager/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6188.png",Bridge tv Фрэш
+http://http-microimpuls.cdnvideo.ru/fresh/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2022.png",BRIDGE HD
+http://http-microimpuls.cdnvideo.ru/deluxe/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,9 волна
+http://http-microimpuls.cdnvideo.ru/9volna/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,ТНТ Music
+http://http-microimpuls.cdnvideo.ru/aone/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,RU.TV
+http://http-microimpuls.cdnvideo.ru/rutv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,МузТВ
+http://http-microimpuls.cdnvideo.ru/muztv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,1HD
+http://http-microimpuls.cdnvideo.ru/1hd/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Европа Плюс ТВ
+http://http-microimpuls.cdnvideo.ru/evropaplus/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Mezzo
+http://http-microimpuls.cdnvideo.ru/mezzo/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,MTV 90s
+http://http-microimpuls.cdnvideo.ru/mtvrocks/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Шансон ТВ
+http://http-microimpuls.cdnvideo.ru/shanson/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Усадьба
+http://http-microimpuls.cdnvideo.ru/usadba/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Ю
+http://http-microimpuls.cdnvideo.ru/utv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Вопросы и ответы
+http://http-microimpuls.cdnvideo.ru/voprosyiotvety/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Кухня ТВ
+http://http-microimpuls.cdnvideo.ru/kuhnatv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Время
+http://http-microimpuls.cdnvideo.ru/vremya/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Загородная жизнь
+http://http-microimpuls.cdnvideo.ru/zagorodnayazhizn/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Живи
+http://http-microimpuls.cdnvideo.ru/zhivi/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Zoo TV
+http://http-microimpuls.cdnvideo.ru/zootv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Звезда
+http://http-microimpuls.cdnvideo.ru/zvezda/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Звезда Плюс
+http://http-microimpuls.cdnvideo.ru/zvezdaplus/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Ювелирочка
+http://http-microimpuls.cdnvideo.ru/juvelirochka/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5600.png",Univer TV
+http://http-microimpuls.cdnvideo.ru/univertv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Три ангела
+http://http-microimpuls.cdnvideo.ru/3angels/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Тонус ТВ
+http://http-microimpuls.cdnvideo.ru/tonustv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,ТНВ-Планета
+http://http-microimpuls.cdnvideo.ru/tnvplaneta/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,365 дней
+http://http-microimpuls.cdnvideo.ru/365dnei/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Санкт-петербург
+http://http-microimpuls.cdnvideo.ru/sanktpeterburg/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Рыболов
+http://http-microimpuls.cdnvideo.ru/oir/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Про бизнес
+http://http-microimpuls.cdnvideo.ru/probiznes/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Первый космический
+http://http-microimpuls.cdnvideo.ru/eurekahd/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Первый вегетарианский
+http://http-microimpuls.cdnvideo.ru/1stVegetarians/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Открытый мир
+http://http-microimpuls.cdnvideo.ru/otkritymir/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Нармуз
+http://http-microimpuls.cdnvideo.ru/narmuz/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Красная линия
+http://http-microimpuls.cdnvideo.ru/redline/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Зоопарк
+http://http-microimpuls.cdnvideo.ru/zoopark/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Загородный
+http://http-microimpuls.cdnvideo.ru/zagorodniy/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Восток ТВ
+http://http-microimpuls.cdnvideo.ru/tmbru/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,БСТ
+http://http-microimpuls.cdnvideo.ru/bst/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,World fashion channel
+http://http-microimpuls.cdnvideo.ru/worldfashionchannel/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,TVMChannel
+http://http-microimpuls.cdnvideo.ru/tvmchannel/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Просто ТВ
+http://http-microimpuls.cdnvideo.ru/pro100tv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Luxury world
+http://http-microimpuls.cdnvideo.ru/luxuryworld/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Leomax
+http://http-microimpuls.cdnvideo.ru/shop24/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Arirang
+http://http-microimpuls.cdnvideo.ru/arirang/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Viasat Sport
+http://http-microimpuls.cdnvideo.ru/viasatsport/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Матч! Футбол 1
+http://http-microimpuls.cdnvideo.ru/futbol/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Матч! Футбол 1 HD
+http://http-microimpuls.cdnvideo.ru/futbolhd/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Матч! Футбол 2
+http://http-microimpuls.cdnvideo.ru/futbol2/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Матч! Футбол 2 HD
+http://http-microimpuls.cdnvideo.ru/futbol2hd/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Матч! Футбол 3
+http://http-microimpuls.cdnvideo.ru/futbol3/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Матч! Футбол 3 HD
+http://http-microimpuls.cdnvideo.ru/futbol3hd/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Матч! ТВ
+http://http-microimpuls.cdnvideo.ru/rossia2/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Матч! Арена
+http://http-microimpuls.cdnvideo.ru/sport1/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Матч! Страна
+http://http-microimpuls.cdnvideo.ru/sportplus/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,КХЛ
+http://http-microimpuls.cdnvideo.ru/khl/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,КХЛ HD
+http://http-microimpuls.cdnvideo.ru/khlhd/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Матч! Игра
+http://http-microimpuls.cdnvideo.ru/matchigra/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Бокс ТВ
+http://http-microimpuls.cdnvideo.ru/bokstv/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,M-1 Global
+http://http-microimpuls.cdnvideo.ru/m1/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241
+#EXTINF:-1,Матч! Боец
+http://http-microimpuls.cdnvideo.ru/boec/ch.m3u8?st=hmu6Y63aUgX968T7KjJVjw&e=1656784241

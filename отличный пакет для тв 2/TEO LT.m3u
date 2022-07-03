@@ -1,0 +1,137 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1 aspect-ratio=None
+#EXTINF:-1,Filmzone HD
+http://85.206.57.253:8981/a75/mono.m3u8
+#EXTINF:-1,Filmzone+ HD
+http://85.206.57.253:8981/a74/mono.m3u8
+#EXTINF:-1,Animal Planet HD
+http://85.206.57.253:8981/a18/mono.m3u8
+#EXTINF:-1,Discovery Channel
+http://85.206.57.253:8981/l17/mono.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://85.206.57.253:8981/a17/mono.m3u8
+#EXTINF:-1,Discovery Science HD
+http://85.206.57.253:8981/l76/mono.m3u8
+#EXTINF:-1,DTX HD
+http://85.206.57.253:8981/a78/mono.m3u8
+#EXTINF:-1,Investigation Discovery HD
+http://85.206.57.253:8981/a46/mono.m3u8
+#EXTINF:-1,Viasat Explore HD
+http://85.206.57.253:8981/a19/mono.m3u8
+#EXTINF:-1,Viasat History HD
+http://85.206.57.253:8981/a20/mono.m3u8
+#EXTINF:-1,Viasat Nature HD
+http://85.206.57.253:8981/a59/mono.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://85.206.57.253:8981/l70/mono.m3u8
+#EXTINF:-1,Travel Channel HD
+http://85.206.57.253:8981/a44/mono.m3u8
+#EXTINF:-1,TravelXP HD
+http://85.206.57.253:8981/a158/mono.m3u8
+#EXTINF:-1,B Platinum HD
+http://85.206.57.253:8981/a139/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2489.png",C-Music
+http://85.206.57.253:8981/l89/mono.m3u8
+#EXTINF:-1,Da Vinci HD
+http://85.206.57.253:8981/l79/mono.m3u8
+#EXTINF:-1,Deluxe Misic HD
+http://85.206.57.253:8981/l51/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5340.png",DUO3  LV
+http://85.206.57.253:8981/l43/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5341.png",DUO6 LV
+http://85.206.57.253:8981/l111/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5341.png",DUO6 HD LV
+http://85.206.57.253:8981/a111/mono.m3u8
+#EXTINF:-1,Duo 7 HD
+http://85.206.57.253:8981/a170/mono.m3u8
+#EXTINF:-1,Epic Drama HD
+http://85.206.57.253:8981/a157/mono.m3u8
+#EXTINF:-1,Наше Любимое Кино
+http://85.206.57.253:8981/f104/mono.m3u8
+#EXTINF:-1,Filmbox
+http://85.206.57.253:8981/l206/mono.m3u8
+#EXTINF:-1,FilmUA Live
+http://85.206.57.253:8981/n149/mono.m3u8
+#EXTINF:-1,Kino-1 HD
+http://85.206.57.253:8981/n197/mono.m3u8
+#EXTINF:-1,Fox Life
+http://85.206.57.253:8981/a205/mono.m3u8
+#EXTINF:-1,GN TV HD
+http://85.206.57.253:8981/l62/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4823.png",KIDZONE
+http://85.206.57.253:8981/a49/mono.m3u8
+#EXTINF:-1,Life TV
+http://85.206.57.253:8981/l207/mono.m3u8
+#EXTINF:-1,MCM Top HD
+http://85.206.57.253:8981/l57/mono.m3u8
+#EXTINF:-1,Mezzo
+http://85.206.57.253:8981/l58/mono.m3u8
+#EXTINF:-1,MTV 80s
+http://85.206.57.253:8981/l124/mono.m3u8
+#EXTINF:-1,MTV 90s
+http://85.206.57.253:8981/l122/mono.m3u8
+#EXTINF:-1,MTV 00s
+http://85.206.57.253:8981/f50/mono.m3u8
+#EXTINF:-1,MTV Club
+http://85.206.57.253:8981/l123/mono.m3u8
+#EXTINF:-1,MTV Hits
+http://85.206.57.253:8981/l7/mono.m3u8
+#EXTINF:-1,Nick Jr
+http://85.206.57.253:8981/l154/mono.m3u8
+#EXTINF:-1,Nickelodeon
+http://85.206.57.253:8981/l153/mono.m3u8
+#EXTINF:-1,Nicktoons
+http://85.206.57.253:8981/l155/mono.m3u8
+#EXTINF:-1,RTVI
+http://85.206.57.253:8981/l52/mono.m3u8
+#EXTINF:-1,Smart Zone HD
+http://85.206.57.253:8981/a179/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4042.png",iConcerts
+http://85.206.57.253:8981/l118/mono.m3u8
+#EXTINF:-1,TLC
+http://85.206.57.253:8981/a77/mono.m3u8
+#EXTINF:-1,TV1000
+http://85.206.57.253:8981/l88/mono.m3u8
+#EXTINF:-1,TV1000 Action
+http://85.206.57.253:8981/l86/mono.m3u8
+#EXTINF:-1,TV1000 World Kino
+http://85.206.57.253:8981/l85/mono.m3u8
+#EXTINF:-1,VIP Comedy HD
+http://85.206.57.253:8981/a208/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png",TV XXI
+http://85.206.57.253:8981/a72/mono.m3u8
+#EXTINF:-1,Настоящее время HD
+http://85.206.57.253:8981/l119/mono.m3u8
+#EXTINF:-1,Quiz-TV
+http://85.206.57.253:8981/n196/mono.m3u8
+#EXTINF:-1,Соль-ТВ
+http://85.206.57.253:8981/n198/mono.m3u8
+#EXTINF:-1,Чемодан-ТВ
+http://85.206.57.253:8981/n199/mono.m3u8
+#EXTINF:-1,3film HD
+http://85.206.57.253:8981/p156/mono.m3u8
+#EXTINF:-1,AMC
+http://85.206.57.253:8981/f80/mono.m3u8
+#EXTINF:-1,ID Fashion HD
+http://85.206.57.253:8981/n214/mono.m3u8
+#EXTINF:-1,Дача HD
+http://85.206.57.253:8981/n176/mono.m3u8
+#EXTINF:-1,6 HD
+http://85.206.57.253:8981/n147/mono.m3u8
+#EXTINF:-1,Кус-Кус HD
+http://85.206.57.253:8981/n148/mono.m3u8
+#EXTINF:-1,2TV HD
+http://85.206.57.253:8981/n8/mono.m3u8
+#EXTINF:-1,1+1
+http://85.206.57.253:8981/l189/mono.m3u8
+#EXTINF:-1,Белсат-TV
+http://85.206.57.253:8981/l191/mono.m3u8
+#EXTINF:-1,Euronews
+http://85.206.57.253:8981/l27/mono.m3u8
+#EXTINF:-1,Setanta Sports 1 HD
+http://85.206.57.253:8981/l63/mono.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://85.206.57.253:8981/a40/mono.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://85.206.57.253:8981/a41/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3792.png",Fight Box
+http://85.206.57.253:8981/a69/mono.m3u8

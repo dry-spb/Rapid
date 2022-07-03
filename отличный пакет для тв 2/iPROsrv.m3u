@@ -1,0 +1,33 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1 aspect-ratio=None
+#EXTINF:-1,Bolt
+http://185.10.211.11:10128/play/bolt
+#EXTINF:-1,Discovery Channel
+http://185.10.211.11:10128/play/Indigo
+#EXTINF:-1,ECO TV
+http://185.10.211.11:10128/play/a03l
+#EXTINF:-1,Epoque
+http://185.10.211.11:10128/play/1PLUS1HD
+#EXTINF:-1,Fauna
+http://185.10.211.11:10128/play/a036
+#EXTINF:-1,Niki junior HD
+http://185.10.211.11:10128/play/NewsOneHD
+#EXTINF:-1,Niki Kids HD
+http://185.10.211.11:10128/play/a03g
+#EXTINF:-1,Дача
+http://185.10.211.11:10128/play/a035
+#EXTINF:-1,Еспресо TV
+http://185.10.211.11:10128/play/a03d
+#EXTINF:-1,Комедийное HD
+http://185.10.211.11:10128/play/a03u
+#EXTINF:-1,Наш Кинороман HD
+http://185.10.211.11:10128/play/a03w
+#EXTINF:-1,Наше крутое HD
+http://185.10.211.11:10128/play/a03x
+#EXTINF:-1,Остросюжетное HD
+http://185.10.211.11:10128/play/a03t
+#EXTINF:-1,Премиальное HD
+http://185.10.211.11:10128/play/a03s
+#EXTINF:-1,Сонце
+http://185.10.211.11:10128/play/a032
+#EXTINF:-1,Шокирующее HD
+http://185.10.211.11:10128/play/a03v

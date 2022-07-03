@@ -1,0 +1,95 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1 aspect-ratio=None
+#EXTINF:-1,Первый канал
+http://188.227.44.167:8080/pervyj/index.m3u8
+#EXTINF:-1,РЕН ТВ
+http://188.227.44.167:8080/ren-tv/index.m3u8
+#EXTINF:-1,Россия
+http://188.227.44.167:8080/rossiya-1/index.m3u8
+#EXTINF:-1,Россия 24
+http://188.227.44.167:8080/rossiya-24/index.m3u8
+#EXTINF:-1,Россия К
+http://188.227.44.167:8080/rossiya-k/index.m3u8
+#EXTINF:-1,НТВ
+http://188.227.44.167:8080/ntv/index.m3u8
+#EXTINF:-1,НТВ Сериал
+http://188.227.44.167:8080/ntv-serial/index.m3u8
+#EXTINF:-1,НТВ Хит
+http://188.227.44.167:8080/ntv-hit/index.m3u8
+#EXTINF:-1,ТНТ
+http://188.227.44.167:8080/tnt/index.m3u8
+#EXTINF:-1,ТНТ4
+http://188.227.44.167:8080/tnt-4/index.m3u8
+#EXTINF:-1,2x2
+http://188.227.44.167:8080/2x2/index.m3u8
+#EXTINF:-1,Bolt
+http://188.227.44.167:8080/bolt/index.m3u8
+#EXTINF:-1,Bridge TV
+http://188.227.44.167:8080/bridge-tv/index.m3u8
+#EXTINF:-1,Disney
+http://188.227.44.167:8080/disney/index.m3u8
+#EXTINF:-1,RU.TV
+http://188.227.44.167:8080/ru-tv/index.m3u8
+#EXTINF:-1,Shopping Live
+http://188.227.44.167:8080/shopping-live/index.m3u8
+#EXTINF:-1,STAR CINEMA
+http://188.227.44.167:8080/star_cinema/index.m3u8
+#EXTINF:-1,STAR FAMILY
+http://188.227.44.167:8080/star_family/index.m3u8
+#EXTINF:-1,Бобёр
+http://188.227.44.167:8080/bober/index.m3u8
+#EXTINF:-1,Дом кино
+http://188.227.44.167:8080/dom-kino/index.m3u8
+#EXTINF:-1,Домашний
+http://188.227.44.167:8080/domashnij/index.m3u8
+#EXTINF:-1,Звезда
+http://188.227.44.167:8080/zvezda/index.m3u8
+#EXTINF:-1,Карусель
+http://188.227.44.167:8080/karusel/index.m3u8
+#EXTINF:-1,Кино ТВ
+http://188.227.44.167:8080/kino-tv/index.m3u8
+#EXTINF:-1,Киноужас
+http://188.227.44.167:8080/kinouzhas/index.m3u8
+#EXTINF:-1,Кухня ТВ
+http://188.227.44.167:8080/kuhnya-tv/index.m3u8
+#EXTINF:-1,Мир
+http://188.227.44.167:8080/mir/index.m3u8
+#EXTINF:-1,Мосфильм. Золотая коллекция
+http://188.227.44.167:8080/mosfilm/index.m3u8
+#EXTINF:-1,МузТВ
+http://188.227.44.167:8080/muz-tv/index.m3u8
+#EXTINF:-1,Мульт
+http://188.227.44.167:8080/mult/index.m3u8
+#EXTINF:-1,Мультиландия
+http://188.227.44.167:8080/multilandia/index.m3u8
+#EXTINF:-1,О!
+http://188.227.44.167:8080/o/index.m3u8
+#EXTINF:-1,ОТР
+http://188.227.44.167:8080/otr/index.m3u8
+#EXTINF:-1,Пятница!
+http://188.227.44.167:8080/pyatnica/index.m3u8
+#EXTINF:-1,Русский роман
+http://188.227.44.167:8080/russkiy_roman/index.m3u8
+#EXTINF:-1,Союз
+http://188.227.44.167:8080/soyuz/index.m3u8
+#EXTINF:-1,Спас
+http://188.227.44.167:8080/spas/index.m3u8
+#EXTINF:-1,СТС
+http://188.227.44.167:8080/sts/index.m3u8
+#EXTINF:-1,СТС Love
+http://188.227.44.167:8080/sts-love/index.m3u8
+#EXTINF:-1,Суббота
+http://188.227.44.167:8080/super/index.m3u8
+#EXTINF:-1,ТВЦ
+http://188.227.44.167:8080/tv-centr/index.m3u8
+#EXTINF:-1,ТНТ Music
+http://188.227.44.167:8080/tnt-music/index.m3u8
+#EXTINF:-1,Усадьба
+http://188.227.44.167:8080/usadba/index.m3u8
+#EXTINF:-1,Че
+http://188.227.44.167:8080/che/index.m3u8
+#EXTINF:-1,Ювелирочка
+http://188.227.44.167:8080/yuvelirochka/index.m3u8
+#EXTINF:-1,Матч ТВ
+http://188.227.44.167:8080/match-tv/index.m3u8
+#EXTINF:-1,Матч! Арена
+http://188.227.44.167:8080/match_arena/index.m3u8

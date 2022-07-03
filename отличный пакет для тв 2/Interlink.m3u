@@ -1,0 +1,43 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1 aspect-ratio=None
+#EXTINF:-1,2X2
+http://185.223.125.136:1984/play/2X2/index.m3u8
+#EXTINF:-1,DTX
+http://185.223.125.136:1984/play/DTX/index.m3u8
+#EXTINF:-1,HD Life
+http://185.223.125.136:1984/play/HDL/index.m3u8
+#EXTINF:-1,History
+http://185.223.125.136:1984/play/History-2/index.m3u8
+#EXTINF:-1,Fox Life
+http://185.223.125.136:1984/play/a05f/index.m3u8
+#EXTINF:-1,Hollywood
+http://185.223.125.136:1984/play/Hollywood/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://185.223.125.136:1984/play/Nickelodeon/index.m3u8
+#EXTINF:-1,O2TV
+http://185.223.125.136:1984/play/O2TV/index.m3u8
+#EXTINF:-1,Star Cinema
+http://185.223.125.136:1984/play/StarCinema/index.m3u8
+#EXTINF:-1,TLC
+http://185.223.125.136:1984/play/TLC/index.m3u8
+#EXTINF:-1,Мир Увлечений
+http://185.223.125.136:1984/play/a05b/index.m3u8
+#EXTINF:-1,О!
+http://185.223.125.136:1984/play/O!/index.m3u8
+#EXTINF:-1,Поехали!
+http://185.223.125.136:1984/play/JimJam/index.m3u8
+#EXTINF:-1,СТС Kids
+http://185.223.125.136:1984/play/a05d/index.m3u8
+#EXTINF:-1,СТС Love
+http://185.223.125.136:1984/play/a00z/index.m3u8
+#EXTINF:-1,BRIDGE TV Classic
+http://185.223.125.136:1984/play/a05n/index.m3u8
+#EXTINF:-1,Bridge TV Dance
+http://185.223.125.136:1984/play/a05o/index.m3u8
+#EXTINF:-1,ТНТ Music
+http://185.223.125.136:1984/play/a05g/index.m3u8
+#EXTINF:-1,KHL Prime
+http://185.223.125.136:1984/play/KHLP/index.m3u8
+#EXTINF:-1,Матч! Планета
+http://185.223.125.136:1984/play/a05j/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://185.223.125.136:1984/play/Eurosport2/index.m3u8
