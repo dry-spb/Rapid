@@ -1,0 +1,203 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1 aspect-ratio=None
+#EXTINF:-1 ,Первый канал HD
+http://195.2.74.99/channel/42c7c18a/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,НТВ Хит
+http://195.2.74.99/channel/1ff07ca9/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,НТВ Сериал
+http://195.2.74.99/channel/n34335ec3/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Россия К
+http://195.2.74.99/channel/6a60cff4/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Рен ТВ HD
+http://195.2.74.99/channel/3aa884a1/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,National Geographic HD
+http://195.2.74.99/channel/1712416a/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Nat Geo Wild HD
+http://195.2.74.99/channel/n7b8a2572/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,В мире животных HD
+http://195.2.74.99/channel/6bbf6cb3/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Viasat Nature HD
+http://195.2.74.99/channel/n47bde3a0/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Viasat Explore HD
+http://195.2.74.99/channel/n7452ea42/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Viasat History HD
+http://195.2.74.99/channel/n689a9fe3/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,History HD
+http://195.2.74.99/channel/f3d24e3/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,H2 HD
+http://195.2.74.99/channel/nfc755a9/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Наука 2.0 HD
+http://195.2.74.99/channel/787bcc5d/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Нано HD
+http://195.2.74.99/channel/n794b94d3/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,HD Life
+http://195.2.74.99/channel/n26e8c18b/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,RTG HD
+http://195.2.74.99/channel/n2e0aaa/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Моя Планета HD
+http://195.2.74.99/channel/17b213b0/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Мир вокруг HD
+http://195.2.74.99/channel/793b4fe3/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Диалоги о рыбалке HD
+http://195.2.74.99/channel/3c3c79d/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Охотник и рыболов HD
+http://195.2.74.99/channel/5ddf1954/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,История
+http://195.2.74.99/channel/n2d9db337/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,СТС HD
+http://195.2.74.99/channel/n29aae8f1/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Домашний HD
+http://195.2.74.99/channel/n640018eb/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,ВТВ HD
+http://195.2.74.99/channel/3ae20f55/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,РТР Беларусь HD
+http://195.2.74.99/channel/40320898/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,НТВ Беларусь HD
+http://195.2.74.99/channel/27756ec7/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,8 канал Беларусь
+http://195.2.74.99/channel/7afcbc38/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Соловьев Live HD
+http://195.2.74.99/channel/n53c37a0/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Царьград HD
+http://195.2.74.99/channel/569649f6/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,VIP Premiere HD
+http://195.2.74.99/channel/n410b5b47/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,VIP Megahit HD
+http://195.2.74.99/channel/n44807adb/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,VIP Comedy HD
+http://195.2.74.99/channel/4c21bd19/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,VIP Serial HD
+http://195.2.74.99/channel/n6f40b822/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,FOX HD
+http://195.2.74.99/channel/a798c20/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Fox Life HD
+http://195.2.74.99/channel/n1f82f024/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Amedia 1 HD
+http://195.2.74.99/channel/593b9501/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Amedia 2 HD
+http://195.2.74.99/channel/593c0960/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Amedia Hit HD
+http://195.2.74.99/channel/240204ff/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Amedia Premium HD
+http://195.2.74.99/channel/n7f06fa/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,TV1000 HD
+http://195.2.74.99/channel/nba07b58/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,TV1000 Action HD
+http://195.2.74.99/channel/n4e22c626/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,TV1000 Русское кино HD
+http://195.2.74.99/channel/n59de59e1/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Остросюжетное HD
+http://195.2.74.99/channel/790108dc/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Шокирующее HD
+http://195.2.74.99/channel/n4773cab1/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Комедийное HD
+http://195.2.74.99/channel/258e9a85/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Премиальное HD
+http://195.2.74.99/channel/n381462cc/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Блокбастер HD
+http://195.2.74.99/channel/4e8098b0/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,КИНО ТВ HD
+http://195.2.74.99/channel/n66adcc5a/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Кинопоказ HD
+http://195.2.74.99/channel/n62a8c32c/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Хит HD
+http://195.2.74.99/channel/n16e794f8/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,FAN HD
+http://195.2.74.99/channel/145aa384/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Наше HD
+http://195.2.74.99/channel/n78b4a99f/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Наш Кинопоказ HD
+http://195.2.74.99/channel/5c22569f/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Наше Мужское HD
+http://195.2.74.99/channel/n383d9e5e/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Камеди HD
+http://195.2.74.99/channel/n1a873ff2/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Про Любовь HD
+http://195.2.74.99/channel/n5bf0fb1c/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Романтичное HD
+http://195.2.74.99/channel/n5fd2cd7/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Душевное HD
+http://195.2.74.99/channel/n23e1be1d/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Sony
+http://195.2.74.99/channel/n3999c92/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,.Sci-Fi
+http://195.2.74.99/channel/4c02ac29/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Sony Turbo
+http://195.2.74.99/channel/n68d0b534/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,СТС love
+http://195.2.74.99/channel/83ad619/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Т24
+http://195.2.74.99/channel/3dd8821b/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,НСТ
+http://195.2.74.99/channel/3dd8ed35/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Hollywood
+http://195.2.74.99/channel/n3be75ec6/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Cinema
+http://195.2.74.99/channel/30e90162/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Дом Кино
+http://195.2.74.99/channel/n8a335ca/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Дом Кино Премиум HD
+http://195.2.74.99/channel/d5fb0eb/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Мосфильм. Золотая коллекция HD
+http://195.2.74.99/channel/2bac7f96/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Любимое HD
+http://195.2.74.99/channel/55c93d7e/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,День Победы HD
+http://195.2.74.99/channel/f9a23cd/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Арсенал HD
+http://195.2.74.99/channel/n64ca4aed/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Советское кино
+http://195.2.74.99/channel/neda2898/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Авто плюс
+http://195.2.74.99/channel/n2f706178/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Первый космический HD
+http://195.2.74.99/channel/n4ba67804/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Kosmo HD
+http://195.2.74.99/channel/1ff9898b/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Еда HD
+http://195.2.74.99/channel/n3275ab9a/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Усадьба
+http://195.2.74.99/channel/7bc83972/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Мультиландия
+http://195.2.74.99/channel/n186ad608/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Gulli
+http://195.2.74.99/channel/n7b68c558/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Ani
+http://195.2.74.99/channel/5ad6a4d7/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Мульт
+http://195.2.74.99/channel/6ea3cd89/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Карусель
+http://195.2.74.99/channel/6ff320f7/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Disney
+http://195.2.74.99/channel/62702adb/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Уникум
+http://195.2.74.99/channel/6431ca5d/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Сундучок Историй
+http://195.2.74.99/channel/n2116e3cb/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Мультимузыка
+http://195.2.74.99/channel/n107ae240/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Russian MusicBox HD
+http://195.2.74.99/channel/n5d151d96/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,MusicBox Gold
+http://195.2.74.99/channel/5030255b/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,BRIDGE TV
+http://195.2.74.99/channel/3c238570/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,BRIDGE TV HITS
+http://195.2.74.99/channel/n68b4d810/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,BRIDGE TV РУССКИЙ ХИТ
+http://195.2.74.99/channel/n7d78ce89/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,BRIDGE TV CLASSIC
+http://195.2.74.99/channel/2e9175c2/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Матч! Арена HD
+http://195.2.74.99/channel/6c015fe5/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Матч! Игра HD
+http://195.2.74.99/channel/73fc60b0/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Моторспорт ТВ HD
+http://195.2.74.99/channel/n634e7039/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,КХЛ HD
+http://195.2.74.99/channel/n2aca5cd9/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Хоккейный HD
+http://195.2.74.99/channel/30b87d49/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Футбольный HD
+http://195.2.74.99/channel/397ac7f7/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1
+#EXTINF:-1 ,Мир баскетбола HD
+http://195.2.74.99/channel/n78061b2f/index.m3u8?q=76e2e28c6098712f77c0a0812f81b8c1

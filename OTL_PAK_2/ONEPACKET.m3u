@@ -1,0 +1,265 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1 aspect-ratio=None
+#EXTINF:-1,Первый канал HD
+http://91.219.23.234:8000/play/101/index.m3u8
+#EXTINF:-1,ТНТ
+http://91.219.23.234:8000/play/19/index.m3u8
+#EXTINF:-1,ТНТ HD
+http://91.219.23.234:8000/play/108/index.m3u8
+#EXTINF:-1,НТВ
+http://91.219.23.234:8000/play/4/index.m3u8
+#EXTINF:-1,НТВ HD
+http://91.219.23.234:8000/play/107/index.m3u8
+#EXTINF:-1,Россия 1
+http://91.219.23.234:8000/play/2/index.m3u8
+#EXTINF:-1,Россия 24
+http://91.219.23.234:8000/play/7/index.m3u8
+#EXTINF:-1,Россия К
+http://91.219.23.234:8000/play/6/index.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://91.219.23.234:8000/play/128/index.m3u8
+#EXTINF:-1,Глазами туриста
+http://91.219.23.234:8000/play/149/index.m3u8
+#EXTINF:-1,Viasat History
+http://91.219.23.234:8000/play/526/index.m3u8
+#EXTINF:-1,Viasat Nature
+http://91.219.23.234:8000/play/528/index.m3u8
+#EXTINF:-1,Дикий
+http://91.219.23.234:8000/play/61/index.m3u8
+#EXTINF:-1,Моя планета
+http://91.219.23.234:8000/play/393/index.m3u8
+#EXTINF:-1,Живая природа HD
+http://91.219.23.234:8000/play/150/index.m3u8
+#EXTINF:-1,RTG TV
+http://91.219.23.234:8000/play/379/index.m3u8
+#EXTINF:-1,24 техно
+http://91.219.23.234:8000/play/405/index.m3u8
+#EXTINF:-1,2х2
+http://91.219.23.234:8000/play/55/index.m3u8
+#EXTINF:-1,360 HD
+http://91.219.23.234:8000/play/77/index.m3u8
+#EXTINF:-1,360 Новости
+http://91.219.23.234:8000/play/76/index.m3u8
+#EXTINF:-1,365 Дней
+http://91.219.23.234:8000/play/503/index.m3u8
+#EXTINF:-1,Ani
+http://91.219.23.234:8000/play/360/index.m3u8
+#EXTINF:-1,Bridge HD
+http://91.219.23.234:8000/play/324/index.m3u8
+#EXTINF:-1,Bridge TV
+http://91.219.23.234:8000/play/326/index.m3u8
+#EXTINF:-1,Bridge TV Classic
+http://91.219.23.234:8000/play/327/index.m3u8
+#EXTINF:-1,Bridge TV Русский хит
+http://91.219.23.234:8000/play/331/index.m3u8
+#EXTINF:-1,Disney
+http://91.219.23.234:8000/play/359/index.m3u8
+#EXTINF:-1,Наш Кинопоказ
+http://91.219.23.234:8000/play/81/index.m3u8
+#EXTINF:-1,N/A
+http://91.219.23.234:8000/play/80/index.m3u8
+#EXTINF:-1,Наше мужское
+http://91.219.23.234:8000/play/83/index.m3u8
+#EXTINF:-1,MMA-TV!
+http://91.219.23.234:8000/play/90/index.m3u8
+#EXTINF:-1,N/A
+http://91.219.23.234:8000/play/409/index.m3u8
+#EXTINF:-1,Комедийное HD
+http://91.219.23.234:8000/play/147/index.m3u8
+#EXTINF:-1,C Music HD
+http://91.219.23.234:8000/play/219/index.m3u8
+#EXTINF:-1,O!2
+http://91.219.23.234:8000/play/387/index.m3u8
+#EXTINF:-1,RU.TV
+http://91.219.23.234:8000/play/51/index.m3u8
+#EXTINF:-1,TV1000
+http://91.219.23.234:8000/play/530/index.m3u8
+#EXTINF:-1,TV1000 Action
+http://91.219.23.234:8000/play/532/index.m3u8
+#EXTINF:-1,TV1000 Русское кино
+http://91.219.23.234:8000/play/531/index.m3u8
+#EXTINF:-1,Зоопарк
+http://91.219.23.234:8000/play/523/index.m3u8
+#EXTINF:-1,Авто 24
+http://91.219.23.234:8000/play/94/index.m3u8
+#EXTINF:-1,Авто плюс
+http://91.219.23.234:8000/play/377/index.m3u8
+#EXTINF:-1,Большая азия
+http://91.219.23.234:8000/play/534/index.m3u8
+#EXTINF:-1,Вопросы и ответы
+http://91.219.23.234:8000/play/31/index.m3u8
+#EXTINF:-1,Время
+http://91.219.23.234:8000/play/564/index.m3u8
+#EXTINF:-1,Детский мир
+http://91.219.23.234:8000/play/62/index.m3u8
+#EXTINF:-1,Доктор
+http://91.219.23.234:8000/play/258/index.m3u8
+#EXTINF:-1,Дом Кино
+http://91.219.23.234:8000/play/563/index.m3u8
+#EXTINF:-1,Домашние животные
+http://91.219.23.234:8000/play/30/index.m3u8
+#EXTINF:-1,Домашний
+http://91.219.23.234:8000/play/14/index.m3u8
+#EXTINF:-1,Драйв
+http://91.219.23.234:8000/play/32/index.m3u8
+#EXTINF:-1,Еврокино
+http://91.219.23.234:8000/play/311/index.m3u8
+#EXTINF:-1,Жара
+http://91.219.23.234:8000/play/682/index.m3u8
+#EXTINF:-1,Звезда
+http://91.219.23.234:8000/play/17/index.m3u8
+#EXTINF:-1,Зоо ТВ
+http://91.219.23.234:8000/play/522/index.m3u8
+#EXTINF:-1,Иллюзион +
+http://91.219.23.234:8000/play/35/index.m3u8
+#EXTINF:-1,Калейдоскоп ТВ
+http://91.219.23.234:8000/play/66/index.m3u8
+#EXTINF:-1,Карусель
+http://91.219.23.234:8000/play/8/index.m3u8
+#EXTINF:-1,Кино ТВ
+http://91.219.23.234:8000/play/561/index.m3u8
+#EXTINF:-1,Кино ТВ HD
+http://91.219.23.234:8000/play/283/index.m3u8
+#EXTINF:-1,Кинопоказ
+http://91.219.23.234:8000/play/570/index.m3u8
+#EXTINF:-1,Кинокомедия
+http://91.219.23.234:8000/play/560/index.m3u8
+#EXTINF:-1,Мужское кино
+http://91.219.23.234:8000/play/567/index.m3u8
+#EXTINF:-1,Мужское кино HD
+http://91.219.23.234:8000/play/568/index.m3u8
+#EXTINF:-1,Наше новое кино
+http://91.219.23.234:8000/play/557/index.m3u8
+#EXTINF:-1,Киномикс
+http://91.219.23.234:8000/play/317/index.m3u8
+#EXTINF:-1,Родное кино
+http://91.219.23.234:8000/play/319/index.m3u8
+#EXTINF:-1,Кинопремьера HD
+http://91.219.23.234:8000/play/310/index.m3u8
+#EXTINF:-1,Киносвидание
+http://91.219.23.234:8000/play/316/index.m3u8
+#EXTINF:-1,Киносемья
+http://91.219.23.234:8000/play/322/index.m3u8
+#EXTINF:-1,Индийское кино
+http://91.219.23.234:8000/play/550/index.m3u8
+#EXTINF:-1,Киносерия
+http://91.219.23.234:8000/play/312/index.m3u8
+#EXTINF:-1,Киноужас
+http://91.219.23.234:8000/play/87/index.m3u8
+#EXTINF:-1,Кинохит
+http://91.219.23.234:8000/play/259/index.m3u8
+#EXTINF:-1,Кто есть кто
+http://91.219.23.234:8000/play/88/index.m3u8
+#EXTINF:-1,Кухня ТВ
+http://91.219.23.234:8000/play/723/index.m3u8
+#EXTINF:-1,Мама
+http://91.219.23.234:8000/play/361/index.m3u8
+#EXTINF:-1,Моя стихия
+http://91.219.23.234:8000/play/524/index.m3u8
+#EXTINF:-1,Союз
+http://91.219.23.234:8000/play/67/index.m3u8
+#EXTINF:-1,МузТВ
+http://91.219.23.234:8000/play/20/index.m3u8
+#EXTINF:-1,Мульт
+http://91.219.23.234:8000/play/349/index.m3u8
+#EXTINF:-1,Мульт HD
+http://91.219.23.234:8000/play/106/index.m3u8
+#EXTINF:-1,Мультиландия
+http://91.219.23.234:8000/play/351/index.m3u8
+#EXTINF:-1,Мультимузыка
+http://91.219.23.234:8000/play/383/index.m3u8
+#EXTINF:-1,Наука
+http://91.219.23.234:8000/play/395/index.m3u8
+#EXTINF:-1,Наша тема
+http://91.219.23.234:8000/play/70/index.m3u8
+#EXTINF:-1,Ностальгия
+http://91.219.23.234:8000/play/594/index.m3u8
+#EXTINF:-1,НСТ
+http://91.219.23.234:8000/play/315/index.m3u8
+#EXTINF:-1,Оружие
+http://91.219.23.234:8000/play/392/index.m3u8
+#EXTINF:-1,ОТР
+http://91.219.23.234:8000/play/9/index.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://91.219.23.234:8000/play/37/index.m3u8
+#EXTINF:-1,Первый вегетарианский
+http://91.219.23.234:8000/play/275/index.m3u8
+#EXTINF:-1,Пес и Ко
+http://91.219.23.234:8000/play/40/index.m3u8
+#EXTINF:-1,Психология 21
+http://91.219.23.234:8000/play/36/index.m3u8
+#EXTINF:-1,Пятница
+http://91.219.23.234:8000/play/16/index.m3u8
+#EXTINF:-1,РБК
+http://91.219.23.234:8000/play/58/index.m3u8
+#EXTINF:-1,Ретро
+http://91.219.23.234:8000/play/33/index.m3u8
+#EXTINF:-1,Русский бестселлер
+http://91.219.23.234:8000/play/569/index.m3u8
+#EXTINF:-1,Русский детектив
+http://91.219.23.234:8000/play/565/index.m3u8
+#EXTINF:-1,Русский иллюзион
+http://91.219.23.234:8000/play/34/index.m3u8
+#EXTINF:-1,Русский роман
+http://91.219.23.234:8000/play/282/index.m3u8
+#EXTINF:-1,Рыболов
+http://91.219.23.234:8000/play/84/index.m3u8
+#EXTINF:-1,Спас
+http://91.219.23.234:8000/play/12/index.m3u8
+#EXTINF:-1,СТС
+http://91.219.23.234:8000/play/13/index.m3u8
+#EXTINF:-1,Суббота
+http://91.219.23.234:8000/play/39/index.m3u8
+#EXTINF:-1,СуперГерои
+http://91.219.23.234:8000/play/89/index.m3u8
+#EXTINF:-1,ТБН
+http://91.219.23.234:8000/play/385/index.m3u8
+#EXTINF:-1,ТВ3
+http://91.219.23.234:8000/play/15/index.m3u8
+#EXTINF:-1,ТВЦ
+http://91.219.23.234:8000/play/10/index.m3u8
+#EXTINF:-1,Телекафе
+http://91.219.23.234:8000/play/370/index.m3u8
+#EXTINF:-1,Телепутешествия
+http://91.219.23.234:8000/play/85/index.m3u8
+#EXTINF:-1,ТНТ Music
+http://91.219.23.234:8000/play/334/index.m3u8
+#EXTINF:-1,Точка отрыва
+http://91.219.23.234:8000/play/96/index.m3u8
+#EXTINF:-1,Три ангела
+http://91.219.23.234:8000/play/362/index.m3u8
+#EXTINF:-1,Уникум
+http://91.219.23.234:8000/play/353/index.m3u8
+#EXTINF:-1,Усадьба
+http://91.219.23.234:8000/play/29/index.m3u8
+#EXTINF:-1,Хит
+http://91.219.23.234:8000/play/97/index.m3u8
+#EXTINF:-1,Че
+http://91.219.23.234:8000/play/309/index.m3u8
+#EXTINF:-1,Ю
+http://91.219.23.234:8000/play/321/index.m3u8
+#EXTINF:-1,Матч! Арена
+http://91.219.23.234:8000/play/301/index.m3u8
+#EXTINF:-1,Матч! Боец
+http://91.219.23.234:8000/play/86/index.m3u8
+#EXTINF:-1,Матч! Игра
+http://91.219.23.234:8000/play/341/index.m3u8
+#EXTINF:-1,Матч! Страна
+http://91.219.23.234:8000/play/340/index.m3u8
+#EXTINF:-1,Матч! ТВ
+http://91.219.23.234:8000/play/3/index.m3u8
+#EXTINF:-1,Матч! Футбол 1
+http://91.219.23.234:8000/play/582/index.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD
+http://91.219.23.234:8000/play/279/index.m3u8
+#EXTINF:-1,Матч! Футбол 2
+http://91.219.23.234:8000/play/583/index.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD
+http://91.219.23.234:8000/play/280/index.m3u8
+#EXTINF:-1,Матч! Футбол 3
+http://91.219.23.234:8000/play/584/index.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD
+http://91.219.23.234:8000/play/281/index.m3u8
+#EXTINF:-1,КХЛ
+http://91.219.23.234:8000/play/581/index.m3u8
+#EXTINF:-1,KHL Prime HD
+http://91.219.23.234:8000/play/201/index.m3u8

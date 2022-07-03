@@ -1,0 +1,149 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1 aspect-ratio=None
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/223.png",Nat Geo Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/102.png",National Geographic HD
+https://sc.id-tv.kz:443/NatGeogHD_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/425.png",TLC HD
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/325.png",Discovery Channel
+https://sc.id-tv.kz:443/Disc_chHD_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/415.png",HD Life
+https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/614.png",Кухня ТВ HD
+https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Техно 24
+https://sc.id-tv.kz:443/Tehno24_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/774.png",Flixsnip
+https://sc.id-tv.kz/FlixSnip_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/521.png",Viasat Explore
+https://sc.id-tv.kz:443/ViasatExplorer_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/277.png",Viasat History
+https://sc.id-tv.kz:443/ViasatHistory_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3779.png",Viasat Nature
+https://sc.id-tv.kz:443/ViasatNature_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/675.png",Моя Планета
+https://sc.id-tv.kz/MoyaPlaneta_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1394.png",History
+https://sc.id-tv.kz/HistoryHD_36_37.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2356.png",H2
+https://sc.id-tv.kz:443/H2HD_36_37.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3069.png",Amedia Hit HD
+https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1395.png",Bollywood HD
+https://sc.id-tv.kz/bollywood_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3092.png",FOX HD
+https://sc.id-tv.kz/FOX_HD_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2020.png",Дом Кино Премиум HD
+https://sc.id-tv.kz/domkino_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2518.png",Дорама HD
+https://sc.id-tv.kz/dorama_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png",КИНОПРЕМЬЕРА HD
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png",Мужское Кино HD
+https://sc.id-tv.kz/Mujskoe_kino_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/462.png",Киносвидание HD
+https://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/987.png",КИНОСЕМЬЯ
+https://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png",Киномикс HD
+https://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png",РОДНОЕ КИНО
+https://sc.id-tv.kz/Rodnoe_kino_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/821.png",Кинокомедия HD
+https://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png",Кинохит HD
+https://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/799.png",КИНОСЕРИЯ
+https://sc.id-tv.kz:443/Kinoseriya_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png",Киноужас
+https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2492.png",Amedia 2
+https://sc.id-tv.kz/A2_36_37.m3u8
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",TV1000
+https://sc.id-tv.kz:443/TV1000_34_35.m3u8
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",TV1000 Action
+https://sc.id-tv.kz:443/TV1000Action_34_35.m3u8
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",TV1000 Русское кино
+https://sc.id-tv.kz:443/TV1000RuKino_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2233.png",ZEE TV
+https://sc.id-tv.kz/ZeeTVHD_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2447.png",Победа
+https://sc.id-tv.kz/Pobeda_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2350.png",Поехали!
+https://sc.id-tv.kz/poehali_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png",НСТ
+https://sc.id-tv.kz/NSTV.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/834.png",Дом Кино
+https://sc.id-tv.kz:443/DomKino_36_37.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png",Иллюзион +
+https://sc.id-tv.kz:443/IlluzionPlus_36_37.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/53.png",Русский Иллюзион
+https://sc.id-tv.kz:443/RusIlluzion_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2419.png",Охота и рыбалка
+https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1757.png",О!
+https://sc.id-tv.kz/o_36_37.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2444.png",Мужской
+https://sc.id-tv.kz/Mujskoi_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2570.png",КТК
+https://sc.id-tv.kz/KTK_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png",СТС
+https://sc.id-tv.kz/STS_34_35.m3u8
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",НТВ-Мир
+https://sc.id-tv.kz:443/NTV_34_35.m3u8
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",ТНВ Планета
+https://sc.id-tv.kz:443/TNV-Planeta_34_35.m3u8
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Первый
+https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",ТНТ-International (СНГ)
+https://sc.id-tv.kz:443/tntComedy_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZcx0Vz9/images-1.jpg",Пятница International
+https://sc.id-tv.kz/friday_36_37.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YSDtYMjK/image.jpg",ТНТ4 International
+https://sc.id-tv.kz:443/tnt4_34_35.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SsRGs7Y7/International.png",Рен ТВ International
+https://sc.id-tv.kz:443/RenTV_36_37.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2008.png",Авто24
+https://sc.id-tv.kz:443/Avto24_36_37.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2129.png",Euronews
+https://sc.id-tv.kz:443/Euronews_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/743.png",РБК
+https://sc.id-tv.kz:443/RBK_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/669.png",Время
+https://sc.id-tv.kz:443/Vremya_36_37.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2304.png",Телекафе
+https://sc.id-tv.kz:443/Telecafe_36_37.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/930.png",ЕДА Премиум
+https://sc.id-tv.kz/EdaHD_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2026.png",Бобёр
+https://sc.id-tv.kz/bober_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2549.png",Cinema HD
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/410.png",Da Vinci Kids
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2572.png",Седьмой канал
+https://sc.id-tv.kz/7_kanal_34_35.m3u8
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Беларусь 24
+https://sc.id-tv.kz:443/Belarus24_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2975.png",Россия 24
+https://sc.id-tv.kz:443/Rossiya24_34_35.m3u8
+#EXTINF:-1 group-title="Казахтелеком 🇰🇿",Россия РТР
+https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/187.png",Россия К
+https://sc.id-tv.kz:443/RossiyaK_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2638.png",Новое телевидение
+https://sc.id-tv.kz:443/NovoeTVHD_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2026.png",Бобёр
+https://sc.id-tv.kz:443/bober_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/917.png",Nick Jr
+https://sc.id-tv.kz:443/NickJr_36_37.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/423.png",Nickelodeon
+https://sc.id-tv.kz:443/Nickelodeon_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1332.png",Мульт
+https://sc.id-tv.kz:443/Mult_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/740.png",Карусель
+https://sc.id-tv.kz:443/Karusel_36_37.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/810.png",Gulli
+https://sc.id-tv.kz:443/Gulli_34_35.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/555.png",Tiji TV
+https://sc.id-tv.kz:443/TiJi_34_35.m3u8

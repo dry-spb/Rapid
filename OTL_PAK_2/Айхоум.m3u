@@ -1,0 +1,27 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1 aspect-ratio=None
+#EXTINF:-1,Первый канал
+http://85.112.114.11:8088/udp/238.2.47.89:1234
+#EXTINF:-1,ТНТ HD
+http://85.112.114.11:8088/udp/238.2.50.6:1234
+#EXTINF:-1,ТНТ4 HD
+http://85.112.114.11:8088/udp/238.2.61.243:1234
+#EXTINF:-1,ТНТ4
+http://85.112.114.11:8088/udp/238.2.13.244:1234
+#EXTINF:-1 tvg-logo="http://www.vsetv.com/pic/channel_logos/1302.gif",Суббота HD
+http://85.112.114.11:8088/udp/238.2.49.249:1234
+#EXTINF:-1,ТВ3 HD
+http://85.112.114.11:8088/udp/238.2.50.7:1234
+#EXTINF:-1,МИР
+http://85.112.114.11:8088/udp/238.2.14.98:1234
+#EXTINF:-1,МИР 24
+http://85.112.114.11:8088/udp/238.2.19.19:1234
+#EXTINF:-1,Пятница HD
+http://85.112.114.11:8088/udp/238.2.62.80:1234
+#EXTINF:-1,Пятница
+http://85.112.114.11:8088/udp/238.2.13.242:1234
+#EXTINF:-1,СТС HD
+http://85.112.114.11:8088/udp/238.9.80.36:1234
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2017.png",Матч! HD
+http://85.112.114.11:8088/udp/238.2.50.8:1234
+#EXTINF:-1,Матч ТВ
+http://85.112.114.11:8088/udp/238.2.47.108:1234

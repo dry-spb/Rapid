@@ -1,0 +1,19 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1 aspect-ratio=None
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://i.imgur.com/i43l93j.png",Nature Live - Waterfalls Live
+https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",Relax Grece
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Loupe TV
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_1920x1080.m3u8
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://i.imgur.com/6hIfTMC.jpg",Screen Dreams
+https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
+#EXTINF:-1 group-title="RELAX",Fireplace Lounge
+https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://i.imgur.com/L5JDAkh.png",Fish Tank
+https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://i.imgur.com/ZvF6Yin.png",Island Escape
+https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
+#EXTINF:-1 group-title="RELAX" tvg-logo="https://avatars.mds.yandex.net/get-pdb/3946622/f25f8a24-de20-4c9e-8f05-98db50810075/orig",WORLD HD
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="RELAX",Relax
+https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8

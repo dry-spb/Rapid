@@ -1,0 +1,39 @@
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/jtv.zip" deinterlace=1 aspect-ratio=None
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +2
+http://ntv-hls-orig.cdnvideo.ru/ntv2/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2964.png",НТВ +4
+http://ntv-hls-orig.cdnvideo.ru/ntv4/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3028.png",НТВ +7
+http://ntv-hls-orig.cdnvideo.ru/ntv7/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2041.png",НТВ Хит
+http://ntv-hls-orig.cdnvideo.ru/th_hit/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
+http://ntv-hls-orig.cdnvideo.ru/th_serial/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1753.png",НТВ Право
+http://ntv-hls-orig.cdnvideo.ru/th_pravo/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
+http://ntv-hls-orig.cdnvideo.ru/th_style/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png",Россия HD
+http://radio-live-mg.rtr-vesti.ru/hls2/russia_hd/playlist_6.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Шаян HD
+http://83.222.205.65:8080/shayan/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/6027.png",Кубань 24
+http://83.222.205.65:8080/cuban24/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2761.png",Калейдоскоп ТВ
+http://83.222.205.65:8080/kaleidoskop/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.prima-tv.ru/img/logo.png",Прима ТВ HD
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2426.png",Тайна
+http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://stream-norst.cf/tvoetv.png",Твоё ТВ
+http://stream-norst.cf:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-logo="https://korolev-tv.ru/bitrix/templates/.default/assets/img/logo.png",Королёв ТВ HD
+http://ai5dhpwuk8j.a.trbcdn.net/livemaster/lr4wy_live-b9nqfoyk6i9.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ulpravda.ru/images/new/favicon.png",Правда ТВ HD
+http://194.190.78.91:8080/pravdatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.limehd.tv/uploads/channel/10479/thumb_5194bd2a640b74872fdd9eaeded82a97.png",Первый Псковский
+http://194.190.78.91:8080/pskov/index.m3u8
+#EXTINF:-1 tvg-logo="https://dimgrad24.ru/images/new/dimlogo-min.png",ДимГрад24 ТВ
+http://194.190.78.91:8080/dimgrad/index.m3u8
