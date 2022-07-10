@@ -1,0 +1,129 @@
+#EXTM3U url-tvg="http://192.168.0.213:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1 ,Первый канал
+http://188.93.94.140/ort/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,ТНТ
+http://188.93.94.140/tntcomedy/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,РТР
+http://188.93.94.140/rtr/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,РОССИЯ 24
+http://188.93.94.140/russia24/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,РЕН ТВ
+http://188.93.94.140/rentv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2404.png" ,Феникс плюс Кино
+http://188.93.94.140/fenikspluskino/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,НТВ-МИР
+http://188.93.94.140/ntvmir/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,ОХОТА И РЫБАЛКА
+http://188.93.94.140/ohotairibalka/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,МОЯ ПЛАНЕТА
+http://188.93.94.140/myplanet/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,Viasat History
+http://188.93.94.140/viasathist/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,Viasat Explore
+http://188.93.94.140/viasatexp/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,TRAVEL+ADVENTURE
+http://188.93.94.140/viasatnat/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,24 ТЕХНО
+http://188.93.94.140/24techno/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,HD Life
+http://188.93.94.140/hdlife/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,УНИКУМ
+http://188.93.94.140/detsky/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,ТВЦ
+http://188.93.94.140/tvc/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,СИНЕМА
+http://188.93.94.140/park/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,ПЯТНИЦА
+http://188.93.94.140/friday/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,ПИК ТВ
+http://188.93.94.140/piktv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,ПЕРЕЦ
+http://188.93.94.140/perec/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,ОРУЖИЕ
+http://188.93.94.140/oruzhie/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,НСТ
+http://188.93.94.140/hctv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,МИР СЕРИАЛА
+http://188.93.94.140/mirseriala/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,МИР 24
+http://188.93.94.140/mir24/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,МИР
+http://188.93.94.140/mir/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,МАМА
+http://188.93.94.140/mama/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3753.png" ,MEZZO RO
+http://188.93.94.140/mezzo/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2408.png" ,Ля-минор ТВ
+http://188.93.94.140/liaminortv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
+http://188.93.94.140/nashanovoekino/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,МУЖСКОЕ КИНО
+http://188.93.94.140/interesnoetv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,КИНОХИТ
+http://188.93.94.140/kinohit/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,КИНОСЕРИЯ
+http://188.93.94.140/kinoseria/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,КИНОСЕМЬЯ
+http://188.93.94.140/kinosemya/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,КИНОСВИДАНИЕ
+http://188.93.94.140/kinosvidanie/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,Кинопремьера HD
+http://188.93.94.140/kinopremyerahd/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,КИНОМИКС
+http://188.93.94.140/kinomiks/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,КИНОКОМЕДИЯ
+http://188.93.94.140/kinokomediya/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,ИСТОРИЯ
+http://188.93.94.140/history/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,ИЛЛЮЗИОН+
+http://188.93.94.140/illuzionplus/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2096.png" ,Еспресо TV
+http://188.93.94.140/espressotv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,ЕВРОКИНО
+http://188.93.94.140/eurokino/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,ДРАЙВ
+http://188.93.94.140/drive/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,ДОМАШНИЙ
+http://188.93.94.140/domashni/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,ДОКТОР
+http://188.93.94.140/doctor/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,Авто плюс
+http://188.93.94.140/autoplus/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,VIP HIT
+http://188.93.94.140/healthtv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,VIP FAMILIY
+http://188.93.94.140/tv5/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,TV1000 Action
+http://188.93.94.140/tv1000act/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,TV1000
+http://188.93.94.140/tv1000/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,RU.TV
+http://188.93.94.140/rutv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,RTVI
+http://188.93.94.140/rtvi/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 tvg-logo="http://pl.ottglanz.tv/icon/8318.png",M-1 Global
+http://188.93.94.140/m1/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,Filmbox
+http://188.93.94.140/filmbox/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,Fashion TV
+http://188.93.94.140/fasiontv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,Fashion box HD
+http://188.93.94.140/fashionbox/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,Docubox HD
+http://188.93.94.140/docuboxhd/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,Da vinci
+http://188.93.94.140/davinci/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,СТС
+http://188.93.94.140/ctctv/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,Amedia Premium
+http://188.93.94.140/amediapremium/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,Amedia 2
+http://188.93.94.140/tv3/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,Amedia 1
+http://188.93.94.140/amedia/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,365 ДНЕЙ
+http://188.93.94.140/365day/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,360tunebox
+http://188.93.94.140/360tunebox/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8
+#EXTINF:-1 ,Viasat Sport
+http://188.93.94.140/viasatsport/playlist.m3u8?token=%E3%82%B8%E3%83%A7%E3%83%AB%E3%82%B8

@@ -1,0 +1,349 @@
+#EXTM3U url-tvg="http://192.168.0.213:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1,Первый канал
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/55808
+#EXTINF:-1,Россия 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/36563
+#EXTINF:-1,Россия 24
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/55823
+#EXTINF:-1,ТНТ HD
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/55822
+#EXTINF:-1,Россия К
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/80228
+#EXTINF:-1,ТНТ 4 HD
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/55825
+#EXTINF:-1,НТВ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/12755
+#EXTINF:-1,НТВ HD
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/55805
+#EXTINF:-1,НТВ Право
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/197427
+#EXTINF:-1,НТВ Сериал
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/283056
+#EXTINF:-1,НТВ Хит
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/197426
+#EXTINF:-1,НТВ-Мир
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/266562
+#EXTINF:-1,РЕН ТВ HD
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/55810
+#EXTINF:-1,Россия 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/60529
+#EXTINF:-1,Россия 24
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/75606
+#EXTINF:-1,РОССИЯ РТР
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/278394
+#EXTINF:-1,Конный мир
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/194119
+#EXTINF:-1,HD Life
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/148336
+#EXTINF:-1,History
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/80214
+#EXTINF:-1,МОЯ ПЛАНЕТА
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/266758
+#EXTINF:-1,Travel Channel
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/42060
+#EXTINF:-1,Investigation Discovery
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/231633
+#EXTINF:-1,ANIMAL PLANET
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/60465
+#EXTINF:-1,Discovery Science
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/80201
+#EXTINF:-1,Discovery Turbo Xtra
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/283080
+#EXTINF:-1,Discovery Channel
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/71991
+#EXTINF:-1,National Geographic HD
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/12798
+#EXTINF:-1,NAT GEO Wild
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/19054
+#EXTINF:-1,Viasat History
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/45736
+#EXTINF:-1,Viasat Nature
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/45735
+#EXTINF:-1,ИСТОРИЯ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/278414
+#EXTINF:-1,Морской
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/284129
+#EXTINF:-1,Телепутешествия
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/271275
+#EXTINF:-1,.Black
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/283065
+#EXTINF:-1,Amedia 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/271259
+#EXTINF:-1,Amedia 2
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/12775
+#EXTINF:-1,Amedia Hit
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/39357
+#EXTINF:-1,Amedia Home of HBO
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/197298
+#EXTINF:-1,ATR
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/295446
+#EXTINF:-1,Авто плюс
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/174114
+#EXTINF:-1,Bollywood
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/148319
+#EXTINF:-1,Boomerang
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/77350
+#EXTINF:-1,Brodilo
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/42590
+#EXTINF:-1,Cartoon Network
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/12769
+#EXTINF:-1,Комедийное
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/283067
+#EXTINF:-1,Deejay TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/295447
+#EXTINF:-1,Дом кино
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/43930
+#EXTINF:-1,Домашний
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/80195
+#EXTINF:-1,Eureka
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/75622
+#EXTINF:-1,Food Network
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/148338
+#EXTINF:-1,Fox
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/34518
+#EXTINF:-1,Fox Life
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/18981
+#EXTINF:-1,Home Cinema
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/174281
+#EXTINF:-1,Кино ТВ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/75628
+#EXTINF:-1,Комедийное
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193659
+#EXTINF:-1,Квартал ТВ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/283077
+#EXTINF:-1,Первый Псковский
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/60515
+#EXTINF:-1,Leomax 24
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/284187
+#EXTINF:-1,Липетское время
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/165958
+#EXTINF:-1,Москва 24
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/267503
+#EXTINF:-1,Nano TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/19045
+#EXTINF:-1,Наш Спорт
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/295397
+#EXTINF:-1,Ника ТВ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/165394
+#EXTINF:-1,КАРУСЕЛЬ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/72007
+#EXTINF:-1,Disney
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/284194
+#EXTINF:-1,Звезда
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/36566
+#EXTINF:-1,Paramount Channel
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/71984
+#EXTINF:-1,Paramount Comedy
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/148368
+#EXTINF:-1,РБК
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/19070
+#EXTINF:-1,RTG
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/75614
+#EXTINF:-1,Русский роман
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/80245
+#EXTINF:-1,Русский бестселлер
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/192125
+#EXTINF:-1,Русский детектив
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193657
+#EXTINF:-1,Русский иллюзион
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166713
+#EXTINF:-1,Иллюзион+
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/193654
+#EXTINF:-1,Shot TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/295443
+#EXTINF:-1,Simon
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/295444
+#EXTINF:-1,Star Cinema
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/174808
+#EXTINF:-1,СТС
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/12756
+#EXTINF:-1,СТС Love
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/148335
+#EXTINF:-1,Своё ТВ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/276013
+#EXTINF:-1,2x2
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/60462
+#EXTINF:-1,TLC
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/42059
+#EXTINF:-1,TV 1000
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/12787
+#EXTINF:-1,TV 1000 Action
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/42064
+#EXTINF:-1,TV 1000 World Kino
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/19126
+#EXTINF:-1,TV PRO
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/284145
+#EXTINF:-1,XXI TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166583
+#EXTINF:-1,TV1000 Premium
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/281307
+#EXTINF:-1,Тюменское время
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/19120
+#EXTINF:-1,Югра ТВ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/19125
+#EXTINF:-1,Univer
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/198891
+#EXTINF:-1,Усадьба
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/43985
+#EXTINF:-1,VIP Comedy
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/43986
+#EXTINF:-1,VIP Megahit
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/80168
+#EXTINF:-1,VIP Premiere
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/43988
+#EXTINF:-1,VIP Serial
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166572
+#EXTINF:-1,Время
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/225217
+#EXTINF:-1,Zee TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166575
+#EXTINF:-1,БОКС ТВ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/278412
+#EXTINF:-1,ДОМ КИНО
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/266744
+#EXTINF:-1,ДОМАШНИЙ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/278413
+#EXTINF:-1,Дождь
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/80233
+#EXTINF:-1,Доктор
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/284195
+#EXTINF:-1,Дом Кино ПРЕМИУМ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166576
+#EXTINF:-1,Думская TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/295452
+#EXTINF:-1,ЕВРОКИНО
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/283063
+#EXTINF:-1,Индийское кино
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/174806
+#EXTINF:-1,Мужское кино
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/148378
+#EXTINF:-1,Наше новое кино
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/266560
+#EXTINF:-1,КИНОКОМЕДИЯ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/72012
+#EXTINF:-1,Родное кино
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/148369
+#EXTINF:-1,КИНОСЕРИЯ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/266751
+#EXTINF:-1,Кинопремьера
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/42049
+#EXTINF:-1,Кинопремьера HD
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/192059
+#EXTINF:-1,КИНОХИТ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/283061
+#EXTINF:-1,Киномикс
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166578
+#EXTINF:-1,Киномикс HD
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/148356
+#EXTINF:-1,НАШЕ НОВОЕ КИНО
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/266764
+#EXTINF:-1,Киносвидание
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166579
+#EXTINF:-1,Киносвидание HD
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/266557
+#EXTINF:-1,Киносемья
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166580
+#EXTINF:-1,НСТ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/231587
+#EXTINF:-1,ПЯТНИЦА
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/278415
+#EXTINF:-1,РБК
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/192338
+#EXTINF:-1,РУССКАЯ КОМЕДИЯ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/283064
+#EXTINF:-1,РУССКИЙ ДЕТЕКТИВ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/278409
+#EXTINF:-1,Радость моя
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/271286
+#EXTINF:-1,Ратник
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/198923
+#EXTINF:-1,Родной канал
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/284165
+#EXTINF:-1,ТВ3
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/80225
+#EXTINF:-1,Телекафе
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166600
+#EXTINF:-1,ЧЕ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/266773
+#EXTINF:-1,Щелковское ТВ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/198936
+#EXTINF:-1,Ю
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/192353
+#EXTINF:-1,Сарафан
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166565
+#EXTINF:-1,Da Vinci
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/43990
+#EXTINF:-1,Ani
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/148315
+#EXTINF:-1,Мультимания
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/271285
+#EXTINF:-1,МУЛЬТ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/266762
+#EXTINF:-1,Жар Птица
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/198903
+#EXTINF:-1,Tiji
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/80268
+#EXTINF:-1,Nick Jr
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/75647
+#EXTINF:-1,GULLI GIRL
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166618
+#EXTINF:-1,Nickelodeon
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/71955
+#EXTINF:-1,Югра
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/198938
+#EXTINF:-1,Bridge TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/148333
+#EXTINF:-1,Bridge TV Classic
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/148334
+#EXTINF:-1,Bridge TV Deluxe
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/283076
+#EXTINF:-1,Bridge TV Hits
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/283075
+#EXTINF:-1,Europa Plus TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166589
+#EXTINF:-1,МузСоюз
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/19040
+#EXTINF:-1,RU.TV
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/148395
+#EXTINF:-1,Шансон ТВ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/18939
+#EXTINF:-1,VIVA Russia
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/284156
+#EXTINF:-1,МузТВ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/266760
+#EXTINF:-1,МУЗЫКА ПЕРВОГО
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/266761
+#EXTINF:-1,ТНТ Music
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166594
+#EXTINF:-1,Viasat Sport
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/12811
+#EXTINF:-1,Футбол
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/166610
+#EXTINF:-1,КХЛ ТВ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/231623
+#EXTINF:-1,EUROSPORT 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/12805
+#EXTINF:-1,EUROSPORT 2
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/80264
+#EXTINF:-1,Матч! Арена
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/55801
+#EXTINF:-1,Матч! Страна
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/148347
+#EXTINF:-1,МАТЧ! АРЕНА
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/200180
+#EXTINF:-1,МАТЧ! БОЕЦ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/231628
+#EXTINF:-1,МАТЧ! ИГРА
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/231627
+#EXTINF:-1,МАТЧ! Премьер
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/271317
+#EXTINF:-1,МАТЧ! ТВ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/266753
+#EXTINF:-1,МАТЧ! ФУТБОЛ 1
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/200182
+#EXTINF:-1,МАТЧ! ФУТБОЛ 2
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/266755
+#EXTINF:-1,МАТЧ! ФУТБОЛ 3
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/266756
+#EXTINF:-1,НАШ ФУТБОЛ
+http://quality-restream.com:8080/ce1eb8b3/fd28c06f6f/295460

@@ -1,0 +1,181 @@
+#EXTM3U url-tvg="http://192.168.0.213:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1,НТВ HD
+http://streamer.crimea-tv.net/HTB_HD/video.m3u8?token=9d3cc59e
+#EXTINF:-1,НТВ
+http://streamer.crimea-tv.net/NTV/video.m3u8?token=9d3cc59e
+#EXTINF:-1,НТВ Право
+http://streamer.crimea-tv.net/NTV_Pravo/video.m3u8?token=9d3cc59e
+#EXTINF:-1,НТВ Стиль
+http://streamer.crimea-tv.net/NTV_Stil/video.m3u8?token=9d3cc59e
+#EXTINF:-1,НТВ Хит
+http://streamer.crimea-tv.net/NTVHit/video.m3u8?token=9d3cc59e
+#EXTINF:-1,РЕН ТВ
+http://streamer.crimea-tv.net/REN_TV/video.m3u8?token=9d3cc59e
+#EXTINF:-1,ТНТ4
+http://streamer.crimea-tv.net/THT4/video.m3u8?token=9d3cc59e
+#EXTINF:-1,ТНТ
+http://streamer.crimea-tv.net/TNT/video.m3u8?token=9d3cc59e
+#EXTINF:-1,ТНТ HD
+http://streamer.crimea-tv.net/TNT_HD/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Дикий
+http://streamer.crimea-tv.net/Dikij/video.m3u8?token=9d3cc59e
+#EXTINF:-1,HD Life
+http://streamer.crimea-tv.net/HD_Life/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Морской
+http://streamer.crimea-tv.net/Morskoy/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Nat Geo Wild
+http://streamer.crimea-tv.net/Nat_Geo_Wild/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Nat Geo Wild HD
+http://streamer.crimea-tv.net/Nat_Geo_Wild_HD/video.m3u8?token=9d3cc59e
+#EXTINF:-1,National Geographic
+http://streamer.crimea-tv.net/National_Geographic/video.m3u8?token=9d3cc59e
+#EXTINF:-1,National Geographic HD
+http://streamer.crimea-tv.net/National_Geographic_HD/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Ocean TV
+http://streamer.crimea-tv.net/Ocean_TV/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Охота и рыбалка
+http://streamer.crimea-tv.net/Ohota_i_rybalka/video.m3u8?token=9d3cc59e
+#EXTINF:-1,RTG HD
+http://streamer.crimea-tv.net/RTGHD/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Точка отрыва
+http://streamer.crimea-tv.net/tochka_otryva/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Travel+Adventure
+http://streamer.crimea-tv.net/Travel_Adventure/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Viasat Explore
+http://streamer.crimea-tv.net/Viasat_Explore/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Viasat History
+http://streamer.crimea-tv.net/Viasat_History/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Viasat Nature
+http://streamer.crimea-tv.net/Viasat_Nature/video.m3u8?token=9d3cc59e
+#EXTINF:-1,2x2
+http://streamer.crimea-tv.net/2x2/video.m3u8?token=9d3cc59e
+#EXTINF:-1,365 Дней
+http://streamer.crimea-tv.net/365_Dney/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Amedia 1
+http://streamer.crimea-tv.net/a1/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Amedia 2
+http://streamer.crimea-tv.net/A2/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Amedia Hit
+http://streamer.crimea-tv.net/Amedia_Hit/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Amedia Premium
+http://streamer.crimea-tv.net/Amedia_Premium/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Amedia Premium HD
+http://streamer.crimea-tv.net/Amedia_Premium_HD/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Ani
+http://streamer.crimea-tv.net/Ani/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Авто плюс
+http://streamer.crimea-tv.net/Avto_Plus/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Авто 24
+http://streamer.crimea-tv.net/AVTO24/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Бобёр
+http://streamer.crimea-tv.net/Bober/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Бокс ТВ
+http://streamer.crimea-tv.net/Boks/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Че
+http://streamer.crimea-tv.net/Ce/video.m3u8?token=9d3cc59e
+#EXTINF:-1,СТС Kids HD
+http://streamer.crimea-tv.net/CTC_Kids_HD/video.m3u8?token=9d3cc59e
+#EXTINF:-1,СТС Love
+http://streamer.crimea-tv.net/CTC_Love/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Da Vinci
+http://streamer.crimea-tv.net/davinci/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Дом кино
+http://streamer.crimea-tv.net/Dom_Kino/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Домашние животные
+http://streamer.crimea-tv.net/DomashnieZhivotnie/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Дорама
+http://streamer.crimea-tv.net/Dorama/video.m3u8?token=9d3cc59e
+#EXTINF:-1,FAN
+http://streamer.crimea-tv.net/FAN/video.m3u8?token=9d3cc59e
+#EXTINF:-1,FlixSnip
+http://streamer.crimea-tv.net/FlixSnip/video.m3u8?token=9d3cc59e
+#EXTINF:-1,FOX HD
+http://streamer.crimea-tv.net/FOX_HD/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Gulli Girl
+http://streamer.crimea-tv.net/Gulli_Girl/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Hollywood
+http://streamer.crimea-tv.net/Hollywood/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Hollywood HD
+http://streamer.crimea-tv.net/Hollywood_HD/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Карусель
+http://streamer.crimea-tv.net/Karusel/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Кино ТВ HD
+http://streamer.crimea-tv.net/Kino_TV_HD/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Кинохит
+http://streamer.crimea-tv.net/KINOHIT/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Киномикс
+http://streamer.crimea-tv.net/KINOMIKS/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Киносерия
+http://streamer.crimea-tv.net/KINOSERIA/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Киносвидание
+http://streamer.crimea-tv.net/KINOSVIDANIE/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Родное кино
+http://streamer.crimea-tv.net/RODNOE_KINO/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Комедия
+http://streamer.crimea-tv.net/Komedia/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Кто есть кто
+http://streamer.crimea-tv.net/kto_est_kto/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Кухня ТВ
+http://streamer.crimea-tv.net/Kuhnya_TV/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Любимое кино
+http://streamer.crimea-tv.net/Lubimoe_kino/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Малыш
+http://streamer.crimea-tv.net/Malysh/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Мама
+http://streamer.crimea-tv.net/Mama/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Mezzo
+http://streamer.crimea-tv.net/Mezzo/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Mezzo Live HD
+http://streamer.crimea-tv.net/MezzoLiveHD/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Мир сериала
+http://streamer.crimea-tv.net/Mir_seriala/video.m3u8?token=9d3cc59e
+#EXTINF:-1,МузТВ
+http://streamer.crimea-tv.net/MUZ/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Ностальгия
+http://streamer.crimea-tv.net/Nostalgia/video.m3u8?token=9d3cc59e
+#EXTINF:-1,НСТ
+http://streamer.crimea-tv.net/NST/video.m3u8?token=9d3cc59e
+#EXTINF:-1,О!
+http://streamer.crimea-tv.net/O_/video.m3u8?token=9d3cc59e
+#EXTINF:-1,ОТР
+http://streamer.crimea-tv.net/OTR/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Победа
+http://streamer.crimea-tv.net/POBEDA/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Поехали!
+http://streamer.crimea-tv.net/Poehali/video.m3u8?token=9d3cc59e
+#EXTINF:-1,РБК
+http://streamer.crimea-tv.net/RBK/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Сарафан
+http://streamer.crimea-tv.net/Sarafan/video.m3u8?token=9d3cc59e
+#EXTINF:-1,.Sci-Fi
+http://streamer.crimea-tv.net/Sony_Sci_Fi/video.m3u8?token=9d3cc59e
+#EXTINF:-1,.black
+http://streamer.crimea-tv.net/Sony_Turbo/video.m3u8?token=9d3cc59e
+#EXTINF:-1,СТС
+http://streamer.crimea-tv.net/STS/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Суббота
+http://streamer.crimea-tv.net/Subbota/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Телекафе
+http://streamer.crimea-tv.net/TELEKAFE/video.m3u8?token=9d3cc59e
+#EXTINF:-1,TiJi
+http://streamer.crimea-tv.net/TiJi/video.m3u8?token=9d3cc59e
+#EXTINF:-1,TV1000
+http://streamer.crimea-tv.net/TV_1000/video.m3u8?token=9d3cc59e
+#EXTINF:-1,ТВ3
+http://streamer.crimea-tv.net/TV_3/video.m3u8?token=9d3cc59e
+#EXTINF:-1,ТВЦ
+http://streamer.crimea-tv.net/TVC/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Ю
+http://streamer.crimea-tv.net/U/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Уникум
+http://streamer.crimea-tv.net/unikum/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Усадьба
+http://streamer.crimea-tv.net/Usadba/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Viasat Sport
+http://streamer.crimea-tv.net/Viasat_Sport/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Zee TV
+http://streamer.crimea-tv.net/Zee_TV/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Звезда
+http://streamer.crimea-tv.net/Zvezda/video.m3u8?token=9d3cc59e
+#EXTINF:-1,Звезда плюс
+http://streamer.crimea-tv.net/zvezda_plus/video.m3u8?token=9d3cc59e

@@ -1,0 +1,145 @@
+#EXTM3U url-tvg="http://192.168.0.213:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1 ,Первый канал
+http://iptv.rpk-rost.ru:8080/hls/001/001.m3u8
+#EXTINF:-1 ,Россия 1
+http://iptv.rpk-rost.ru:8080/hls/002/002.m3u8
+#EXTINF:-1 ,Рен ТВ
+http://iptv.rpk-rost.ru:8080/hls/011/011.m3u8
+#EXTINF:-1 ,ТНТ
+http://iptv.rpk-rost.ru:8080/hls/019/019.m3u8
+#EXTINF:-1 ,НТВ
+http://iptv.rpk-rost.ru:8080/hls/004/004.m3u8
+#EXTINF:-1 ,ТНТ4
+http://iptv.rpk-rost.ru:8080/hls/033/033.m3u8
+#EXTINF:-1 ,5 Канал
+http://iptv.rpk-rost.ru:8080/hls/005/005.m3u8
+#EXTINF:-1 ,Точка отрыва
+http://iptv.rpk-rost.ru:8080/hls/027/027.m3u8
+#EXTINF:-1 ,Россия Культура
+http://iptv.rpk-rost.ru:8080/hls/006/006.m3u8
+#EXTINF:-1 ,Россия 24
+http://iptv.rpk-rost.ru:8080/hls/007/007.m3u8
+#EXTINF:-1 ,Карусель
+http://iptv.rpk-rost.ru:8080/hls/008/008.m3u8
+#EXTINF:-1 ,ОТР
+http://iptv.rpk-rost.ru:8080/hls/009/009.m3u8
+#EXTINF:-1 ,ТВ Центр
+http://iptv.rpk-rost.ru:8080/hls/010/010.m3u8
+#EXTINF:-1 ,Оружие
+http://iptv.rpk-rost.ru:8080/hls/055/055.m3u8
+#EXTINF:-1 ,RTG TV
+http://iptv.rpk-rost.ru:8080/hls/079/079.m3u8
+#EXTINF:-1 ,Охота и рыбалка
+http://iptv.rpk-rost.ru:8080/hls/058/058.m3u8
+#EXTINF:-1 ,Усадьба
+http://iptv.rpk-rost.ru:8080/hls/060/060.m3u8
+#EXTINF:-1 ,Домашние животные
+http://iptv.rpk-rost.ru:8080/hls/065/065.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2450.png" ,Психология 21
+http://iptv.rpk-rost.ru:8080/hls/066/066.m3u8
+#EXTINF:-1 ,Мульт
+http://iptv.rpk-rost.ru:8080/hls/072/072.m3u8
+#EXTINF:-1 ,Ani
+http://iptv.rpk-rost.ru:8080/hls/099/099.m3u8
+#EXTINF:-1 ,Детский
+http://iptv.rpk-rost.ru:8080/hls/075/075.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/150.png" ,Disney
+http://iptv.rpk-rost.ru:8080/hls/024/024.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/66.png" ,Уникум
+http://iptv.rpk-rost.ru:8080/hls/077/077.m3u8
+#EXTINF:-1 ,Иллюзион+
+http://iptv.rpk-rost.ru:8080/hls/067/067.m3u8
+#EXTINF:-1 ,Русский Иллюзион
+http://iptv.rpk-rost.ru:8080/hls/074/074.m3u8
+#EXTINF:-1 ,Зоопарк
+http://iptv.rpk-rost.ru:8080/hls/068/068.m3u8
+#EXTINF:-1 ,Наше кино
+http://iptv.rpk-rost.ru:8080/hls/060/060.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2402.png" ,Ретро
+http://iptv.rpk-rost.ru:8080/hls/059/059.m3u8
+#EXTINF:-1 ,Драйв
+http://iptv.rpk-rost.ru:8080/hls/048/048.m3u8
+#EXTINF:-1 ,Спас
+http://iptv.rpk-rost.ru:8080/hls/012/012.m3u8
+#EXTINF:-1 ,СТС Love
+http://iptv.rpk-rost.ru:8080/hls/062/062.m3u8
+#EXTINF:-1 ,СТС
+http://iptv.rpk-rost.ru:8080/hls/013/013.m3u8
+#EXTINF:-1 ,Супер
+http://iptv.rpk-rost.ru:8080/hls/083/083.m3u8
+#EXTINF:-1 ,Еврокино
+http://iptv.rpk-rost.ru:8080/hls/030/030.m3u8
+#EXTINF:-1 ,Наше новое кино
+http://iptv.rpk-rost.ru:8080/hls/097/097.m3u8
+#EXTINF:-1 ,Amedia 1 HD
+http://iptv.rpk-rost.ru:8080/hls/096/096.m3u8
+#EXTINF:-1 ,TV1000 Русское кино
+http://iptv.rpk-rost.ru:8080/hls/086/086.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2297.png" ,Продвижение
+http://iptv.rpk-rost.ru:8080/hls/087/087.m3u8
+#EXTINF:-1 ,Мужской
+http://iptv.rpk-rost.ru:8080/hls/082/082.m3u8
+#EXTINF:-1 ,Домашний
+http://iptv.rpk-rost.ru:8080/hls/014/014.m3u8
+#EXTINF:-1 ,ТВ3
+http://iptv.rpk-rost.ru:8080/hls/015/015.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2492.png" ,Amedia 2
+http://iptv.rpk-rost.ru:8080/hls/054/054.m3u8
+#EXTINF:-1 ,Пятница
+http://iptv.rpk-rost.ru:8080/hls/016/016.m3u8
+#EXTINF:-1 ,Звезда
+http://iptv.rpk-rost.ru:8080/hls/017/017.m3u8
+#EXTINF:-1 ,Мир
+http://iptv.rpk-rost.ru:8080/hls/018/018.m3u8
+#EXTINF:-1 ,Первый Ярославский
+http://iptv.rpk-rost.ru:8080/hls/021/021.m3u8
+#EXTINF:-1 ,РПК ТВ
+http://iptv.rpk-rost.ru:8080/hls/037/037.m3u8
+#EXTINF:-1 ,Ю
+http://iptv.rpk-rost.ru:8080/hls/028/028.m3u8
+#EXTINF:-1 ,9 Волна
+http://iptv.rpk-rost.ru:8080/hls/029/029.m3u8
+#EXTINF:-1 ,Открытый мир
+http://iptv.rpk-rost.ru:8080/hls/034/034.m3u8
+#EXTINF:-1 ,2x2
+http://iptv.rpk-rost.ru:8080/hls/023/023.m3u8
+#EXTINF:-1 ,Вместе-РФ
+http://iptv.rpk-rost.ru:8080/hls/039/039.m3u8
+#EXTINF:-1 ,Союз
+http://iptv.rpk-rost.ru:8080/hls/041/041.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2761.png" ,Калейдоскоп ТВ
+http://iptv.rpk-rost.ru:8080/hls/042/042.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2760.png" ,Анекдот ТВ
+http://iptv.rpk-rost.ru:8080/hls/035/035.m3u8
+#EXTINF:-1 ,8 Канал
+http://iptv.rpk-rost.ru:8080/hls/044/044.m3u8
+#EXTINF:-1 ,Че
+http://iptv.rpk-rost.ru:8080/hls/047/047.m3u8
+#EXTINF:-1 ,Раз ТВ
+http://iptv.rpk-rost.ru:8080/hls/049/049.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2265.png" ,360°
+http://iptv.rpk-rost.ru:8080/hls/052/052.m3u8
+#EXTINF:-1 ,Красная линия
+http://iptv.rpk-rost.ru:8080/hls/053/053.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2469.png" ,Три ангела
+http://iptv.rpk-rost.ru:8080/hls/063/063.m3u8
+#EXTINF:-1 ,7 ТВ
+http://iptv.rpk-rost.ru:8080/hls/078/078.m3u8
+#EXTINF:-1 ,Муз ТВ
+http://iptv.rpk-rost.ru:8080/hls/020/020.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2409.png" ,Russian MusicBox
+http://iptv.rpk-rost.ru:8080/hls/092/092.m3u8
+#EXTINF:-1 ,Шансон ТВ
+http://iptv.rpk-rost.ru:8080/hls/094/094.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/680.png" ,ТНТ MUSIC
+http://iptv.rpk-rost.ru:8080/hls/081/081.m3u8
+#EXTINF:-1 ,Bridge TV
+http://iptv.rpk-rost.ru:8080/hls/045/045.m3u8
+#EXTINF:-1 ,RU.TV
+http://iptv.rpk-rost.ru:8080/hls/046/046.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2477.png" ,ТНОМЕР
+http://iptv.rpk-rost.ru:8080/hls/084/084.m3u8
+#EXTINF:-1 ,Матч Арена
+http://iptv.rpk-rost.ru:8080/hls/match-arena/match-arena.m3u8
+#EXTINF:-1 ,Матч
+http://iptv.rpk-rost.ru:8080/hls/003/003.m3u8

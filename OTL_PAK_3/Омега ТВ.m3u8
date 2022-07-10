@@ -1,0 +1,293 @@
+#EXTM3U url-tvg="http://192.168.0.213:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/8f9601290e3ae72e8f4f339c50ca356d_high.png",Animal planet
+https://cdnua03.hls.tv/178/hls/r0g9mzylpavt53qwdb8jnx2oe6cfh7ks/174/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/baf824d2df31fd248c376df99b115955_high.png",Animal planet HD
+https://cdnua03.hls.tv/178/hls/b9yp4khocv2nuwxeari3dljg70q6m8ts/4706/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/354e2bdd11cb2ac477b4ca272e39985f_high.png",Da Vinci Learning UA
+https://cdnua03.hls.tv/178/hls/ozw47csv6purbqam9x1y32lej0ngdhit/201/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/2bd7fd4e058163bc23c92a7606ca20cc_high.png",Discovery Channel
+https://cdnua03.hls.tv/178/hls/imbnx1fa8o9ce7pzdl5qj2vr3uskygt6/210/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/70440b6189cee240f1095cd24618efb2_high.png",Discovery Channel HD
+https://cdnua03.hls.tv/178/hls/fihaxyom2t3c6ru8se0q4d75v1p9kngj/4709/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/0b8d4124294e1a3cc5cde6e39c1579c5_high.png",Discovery Science HD
+https://cdnua03.hls.tv/178/hls/eix69tzau0wro35gnb7sjchy4qlm2dvp/206/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/45aaa9b6158737714eafadccd8a9de09_high.png",DocuBox HD
+https://cdnua03.hls.tv/178/hls/mlwdv3pysbfnr152i0zcuq469x78jhag/211/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/01a440bbdf5d2cef43c2ddcc47b38ced_high.png",History HD
+https://cdnua03.hls.tv/178/hls/lq7deyu6rx9zb0m4o3v1tfas2pk8wci5/244/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/ed1e40f61ea446a9c73b8900fe48b20d_high.png",Investigation Discovery HD
+https://cdnua03.hls.tv/178/hls/k1dzin6l7u42vb5ap83yctgxhm9serjq/254/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/9b5a4ebb2f9cb9a8274ff0e563d639bf_high.png",SEA TV HD
+https://cdnua03.hls.tv/178/hls/ico1g89am45wubqezkl0j2yfxrp6n3ht/4251/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/c1e2ee21d3ca6df227a1c7e870072432_high.png",Travel channel HD
+https://cdnua03.hls.tv/178/hls/20ao53dm84xhf1bpw697ncvuzeirqlyj/307/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/998602ad19d7922be31e67b67ea1b07f_high.png",U-travel
+https://cdnua03.hls.tv/178/hls/n9cuayl6mf0kgpz7o38xje4w5i2qhrst/4777/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/03ac441dbd161f897c555bfab2b42e20_high.png",Viasat Explore
+https://cdnua03.hls.tv/178/hls/z28q463dau5f1jwpbev9six7htomly0g/322/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/d1d3ad9aea15f76d9f7d90b149aacbfc_high.png",Viasat History
+https://cdnua03.hls.tv/178/hls/usblmjg0icxh79f6v8ryqn3t5kzwo421/327/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/330647eaddeeef6aa034bee4a9214db4_high.png",Viasat Nature
+https://cdnua03.hls.tv/178/hls/f4lukem5x9dzbnsvh02j73wqoci6gtpa/328/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/57ac6af7faecc0ca11513a9b235165aa_high.png",AMC
+https://cdnua03.hls.tv/178/hls/kghp891b3njs6fxqm2olwzy4r7ei50td/4248/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/e62fc622aa2d5fddc41ac46fc16ea5ce_high.png",Enter-фільм
+https://cdnua03.hls.tv/178/hls/4poasxbmc1hy0unw69ei3tf5rljk78gd/56/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/51959d5b82c7743f42d1d7666f5a3238_high.png",Epic Drama
+https://cdnua03.hls.tv/178/hls/qovy8zj4cfdg7pstw2ierbm5x69nu3h0/3912/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/8853f3bda661d9cfefaacd33946f28fb_high.png",Film.Ua Drama
+https://cdnua03.hls.tv/178/hls/14kse7dvb3yjnogmxrz2phf568liuawq/71/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/29f6284209e2780b27ee4d9168de59ab_high.png",FilmBox
+https://cdnua03.hls.tv/178/hls/gf4b20oqzph3d5ax19nls6kyeuti78wv/400/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/2d8241a495b42729e88c5b8c845eb200_high.png",FilmBox ArtHouse
+https://cdnua03.hls.tv/178/hls/paegfwsyvkmt5nidrz403bx16uoc9l8j/231/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/3df28936cbb415af5ba0c08fb06035a6_high.png",Hollywood HD
+https://cdnua03.hls.tv/178/hls/z4vg2opbym76n538ucthx1ljraiw09qf/262/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/e34cca59238c70db5a0d14afd6212b2c_high.png",Paramount Channel
+https://cdnua03.hls.tv/178/hls/gvy2snk58qx4mi13z6eobd90wlrjut7c/4616/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/2808c5c6ae4cf6f025cef0ed48092320_high.png",Paramount Comedy
+https://cdnua03.hls.tv/178/hls/q6ug3bjwkm5d9onlts8yp7r2hzvxef0c/3910/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/f9b98b603460ebfc115c31616d632485_high.png",Star Cinema
+https://cdnua03.hls.tv/178/hls/gm3x6wj8zebl0qcyrtn2v479pkufi1da/3703/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/4b5535115a80da93f753de3cbaa3d627_high.png",Star Cinema HD
+https://cdnua03.hls.tv/178/hls/oz68adulvcqw1pey3g94tk5jnhxmfrs0/3925/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/b3dc5a18c758a4318f0ef3a3f80eca6d_high.png",Star Family HD
+https://cdnua03.hls.tv/178/hls/nt0rqz6h5lou2i1afykpjm3xe7d894wg/3996/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/539b18ae394c1cd3419686d597a3d272_high.png",TV1000 Action HD
+https://cdnua03.hls.tv/178/hls/6k5qwg1e34vch8xrt2zuspbmonldyai0/308/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/b69e82bae1a03e89f93dcf3d34d1cef2_high.png",TV1000 World kino
+https://cdnua03.hls.tv/178/hls/kfsnjgbmwuoxtdq7218lz5yv3ap6h9i4/4816/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/f327d3de63e9cfd7dc8765fb62d569f5_high.png",ViP Comedy HD
+https://cdnua03.hls.tv/178/hls/z2yud4kicp85sjeh61xmw0n9fogvrblq/309/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/166b6ab58faec047d5e470e19e9e4f37_high.png",ViP Megahit HD
+https://cdnua03.hls.tv/178/hls/3f8uve5ltk2pyw0rin9xo67js4g1hdma/3981/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/84b52c4f8271857af4816510a1c4a0e0_high.png",ViP Premiere HD
+https://cdnua03.hls.tv/178/hls/pahckw53v4ry76tmxbz0doe9gf1n8uq2/3980/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/f44d60b78fbe879d4612d895daf5e260_high.png",ZEE TV
+https://cdnua03.hls.tv/178/hls/2edo96i17whgblpjy5za3vxnrf8tuscm/577/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/0f1716f8b8a4d8486db871edc6a6fe1e_high.png",Болт HD
+https://cdnua03.hls.tv/178/hls/u0o1i8czl53q4xsnf2ykw76hav9germt/3963/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/139da53409095eae461f9baeddf88caf_high.png",Дорама HD
+https://cdnua03.hls.tv/178/hls/jmoz0gst617a3y9nk5bxr8ed4plcq2hi/4247/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/ea3cd3e1e718cc9637e70ca25d78ef8a_high.png",Дача HD
+https://cdnua03.hls.tv/178/hls/2ix8trv7e1q6klaoj9wyz4mc3dnbfush/454/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/cdbda309881c4a5d5aab0c4b190aea77_high.png",Епоха
+https://cdnua03.hls.tv/178/hls/5780njwqbzruhi2kopm4cyxt3gf9dsea/4216/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/92bb638412bd7ab85e79775e68c8a1fb_high.png",Кус Кус
+https://cdnua03.hls.tv/178/hls/1rz9dma8q3vbsolgxc0i6kf5u4jpte2w/4424/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/374d9b4facc79ec77bb4f52976ea2ede_high.png",Мега
+https://cdnua03.hls.tv/178/hls/drokac3ie6tyzpu97bsg40vnm852wljf/123/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/8ac83cd896dbcb6db448bc595da5ae73_high.png",Телеканал 36.6 HD
+https://cdnua03.hls.tv/178/hls/pezwf9g2k3a84onh1tbcjmd6y05vusqr/4721/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/ffe8cf7ed4e055cac5ce66df0a234f25_high.png",360TuneBox
+https://cdnua03.hls.tv/178/hls/fc7hpjzyuawq0sg3819l6e2nvktrdi54/166/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/6e27f84e51939995055db327fb84b8e3_high.png",EU Music HD
+https://cdnua03.hls.tv/178/hls/hebknpq7vyr6391ad2mfxgzoj4cwiu5l/570/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/4bc0168e8418f49e44df2efa252f2845_high.png",InRating HD
+https://cdnua03.hls.tv/178/hls/cvk9n7uihm1pzd04o2swqt5geay6lbr8/4751/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/0524cad7d32ebd742a42e8ab5e63fdf7_high.png",MTV Club
+https://cdnua03.hls.tv/178/hls/5ae48dxnf2lmgqkwc1tbruipyhv39zoj/264/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/2ac50c8a2e72bd58cc91a383f2f68c76_high.png",MTV Live HD
+https://cdnua03.hls.tv/178/hls/ski52ngpmt49qcfewo3yha10d8jzubrx/267/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/538e937a7fad3c1a8b43870d38417eae_high.png",Music 4EVER HD
+https://cdnua03.hls.tv/178/hls/q5swy21uptf4mce3b7lr89ai6vhgnxjk/3987/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/0903f2f620cb121530d8b72c55bd2722_high.png",Етно Канал HD
+https://cdnua03.hls.tv/178/hls/n9wrudvc10ejkmztpsqfgy2abi4h685x/456/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/42a5f27d43028bbfa0e52e1abf7b537b_high.png",М1 HD
+https://cdnua03.hls.tv/178/hls/0vesuplgd5ka1h4x73wbmnfritqcz2jy/4598/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/61213b906b32189d08bc034419ec313c_high.png",М2 HD
+https://cdnua03.hls.tv/178/hls/km98s2z0bc6xhpj45envf1wa3ydultri/4601/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/50fbbffd7b47a4e139dc8f81349f4ed1_high.png",НАШЕ HD
+https://cdnua03.hls.tv/178/hls/9wlzju6fx24pqeyhgktn30ic7mv8d5rb/3699/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/8744af4ab4e64f1790a43f10d0a9e2a5_high.png",НАШЕ Music HD
+https://cdnua03.hls.tv/178/hls/3okx6zresgumb2vdy5i19an0wlh874tc/550/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/c24b40da1e82524e8d392d6f3b3493fd_high.png",Duck TV HD
+https://cdnua03.hls.tv/178/hls/cirs4j3qkhlmt7oneuax2w9f1gybp650/214/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/a9575956d2ea4657b25650d34db311fa_high.png",Lale HD
+https://cdnua03.hls.tv/178/hls/fs02j3ux8paz71h5iybgdq6tr49wclmo/74/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/8f0ff7e5f9775ce78fd35ec7d562a4d0_high.png",Nick Jr
+https://cdnua03.hls.tv/178/hls/8va0xrkz5yecso79gfw1ijudq362pltb/277/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/c8c332417edff846838ebfeb6c76b5ec_high.png",Nickelodeon HD
+https://cdnua03.hls.tv/178/hls/695da472x1hlo0e8ubgrkycvqtnmpj3s/278/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/d415dcc8e200735af3a5b53df5c316ae_high.png",Nicktoons
+https://cdnua03.hls.tv/178/hls/r2ye1lbcsdoj0t4xz6w8hipk3vm9ugq5/4773/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/b2d57090e6c57ee8ebe59e56669d7460_high.png",NIKI Junior HD
+https://cdnua03.hls.tv/178/hls/ou67yv9a4kestjhg2ibcr3fqnd0m15xl/3621/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/8691d69e709b5f94d7df8324b9adb63a_high.png",NIKI Kids HD
+https://cdnua03.hls.tv/178/hls/f5g6oc2izdxnp3u8bs4velmqkr9hwjta/3624/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/3e13dbfd5baed3c147895e54a0350c1a_high.png",Піксель
+https://cdnua03.hls.tv/178/hls/0rbuqnve7fgdtjyl2x8a1pw4hmzis3c5/135/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/e7c819401be5a47ab2922886e24cf7c4_high.png",Плюс Плюс
+https://cdnua03.hls.tv/178/hls/f0umdgq26lz4r7xi1wvpkysn9c58oa3e/136/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/3466a8b5a0608bd1bdefec6a2b418dc8_high.png",Cars&Stars HD
+https://cdnua03.hls.tv/178/hls/6kzqe1ot7vfpwa8jhsul4rimg0byc59x/4781/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/6667ae84703e0ade1f2a74a9842d6efa_high.png",FashionBox HD
+https://cdnua03.hls.tv/178/hls/9uhneviwbra724pgt8qjf0y3cmo15kz6/228/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/724835004a6449cff21e868fd5e2d243_high.png",Genuine TV
+https://cdnua03.hls.tv/178/hls/si0345zdyebugrwxh7qmcoavlj869p21/4311/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/f3afdeec15361bf1ae46c8985fbceab3_high.png",ID FASHION
+https://cdnua03.hls.tv/178/hls/v75ifjnzpgycr21t463qd98kmsuhlxao/3642/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/49e6f6642cabcf99980a0cc5224da203_high.png",SONATA TV
+https://cdnua03.hls.tv/178/hls/0zakwxyhouitjbnrd8q45mvc23eps1gf/4770/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/45c81a3d13e6933632e6c229c1b39898_high.png",TLC
+https://cdnua03.hls.tv/178/hls/p32f9xsclkegjw8z0tnbvd5ahomr7qy4/301/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/15d11d61141ef907aa3ffade3a5faf3e_high.png",Zoom
+https://cdnua03.hls.tv/178/hls/cwfs6ekhb5iq814n0gvxt3ujzdy2o97l/94/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/68ea43d58f52c5763e917380f9174900_high.png",Вінтаж
+https://cdnua03.hls.tv/178/hls/sea1y5jolvkuwtz0h732dpm68bgiq4cn/97/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/ead883dc6a1cb261b843888244ab95d3_high.png",Глас
+https://cdnua03.hls.tv/178/hls/ous45vi80kdwegb2hmj69nly13xac7tz/101/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/fc8156d1984079eb448b6bf0989951b6_high.png",Дом
+https://cdnua03.hls.tv/178/hls/03kndtzv1swlbc94qa6fuher2p5o8jx7/4780/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/a8cf00c304ec5414d9f2e2427166ea4c_high.png",Еко ТБ
+https://cdnua03.hls.tv/178/hls/cn29ey4rx7dm51hjviqg8afz0w36bost/165/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/1729dac27659009b31cec875b1cb7ffd_high.png",Індиго TV HD
+https://cdnua03.hls.tv/178/hls/wcktfx4p86vamhb9gd3lzsu1orni02jy/4595/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/e0ed454a7e35f2f1293917460b61f8b8_high.png",Квартал TV
+https://cdnua03.hls.tv/178/hls/gtpzcdjs8w4e7lfq2v9n0kum5rb3yx1h/3603/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/fcc9f688c09a24292b277c20afe3cba9_high.png",Навігатор ТБ
+https://cdnua03.hls.tv/178/hls/i0hxeqpj8lbwgsc5v1ry6dkznuf2t497/4236/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/b50d5bdaa4b77da1ba01e1401c46b8ba_high.png",Надія
+https://cdnua03.hls.tv/178/hls/8lucio3s1jmd2x0fhkzgep64vyqrb7nw/125/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/baae04a0d728d4282d398f5d411660e3_high.png",НЛО TV
+https://cdnua03.hls.tv/178/hls/h0oq2xazevcmpwjl4ys13ni5r9ukb8gd/126/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/62420f40a47322cb57a0d0440b18cc39_high.png",Оце
+https://cdnua03.hls.tv/178/hls/facmvbriln7h4d83p2gws5yxq9jz160u/3593/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/667f71c4d50fc0132c550501e978bdb8_high.png",Правда ТУТ HD
+https://cdnua03.hls.tv/178/hls/x3esyg5palov96q8r0z7nk421utdwbfc/3985/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/1d0f613d863a26859509236390128192_high.png",Сварожичи
+https://cdnua03.hls.tv/178/hls/x8vmjwr1s07h9b4dt6i3ogn25fpecyqa/4406/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/dfeb91281c7bcadc67d2c889d89255af_high.png",Сонце
+https://cdnua03.hls.tv/178/hls/efrjzqpy2g47sum8ch6lo1wbitkxv5n3/141/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/d573ba55d5c0957c14768ff3e21a5dc7_high.png",ТЕТ
+https://cdnua03.hls.tv/178/hls/2rfswl4zndo8mq5hjicpya9b301xku67/150/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/5d8551953e7eb18fde8504b297ecf38e_high.png",1+1 HD
+https://cdnua03.hls.tv/178/hls/c42tzsgabr3imjq6ykow7uhl5pxevdfn/124/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/095f5e8ffa813f33b6035aadfbe0f833_high.png",2+2  HD
+https://cdnua03.hls.tv/178/hls/gmf3wrt0bhxpec715o9u6lq28snkjivd/3305/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/cc7d86351fdfbfc55cef35f70446731c_high.png",ICTV HD
+https://cdnua03.hls.tv/178/hls/uc6oeblkg4058vq9mrtyis1a7dfw2zhj/4305/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/fe603ef3349915feea6b197c298bb5f5_high.png",Бігуді
+https://cdnua03.hls.tv/178/hls/yzpab4m38uq9cgk5txnlhs1jdr2eov6w/96/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/729a5225684b6c486438c299c8e732e8_high.png",Інтер
+https://cdnua03.hls.tv/178/hls/qr4aw2kh86bovjey1uf3ncpdzs09gm7x/110/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/88b210237de6d09e1005bf8fbde5f390_high.png",К1
+https://cdnua03.hls.tv/178/hls/u0d6o95gcmk7pfnyvaew4itlsqh1zx2b/113/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/81070e4410be40f1719975062efb74e4_high.png",К2
+https://cdnua03.hls.tv/178/hls/luew0zm35qohxt12vpkjcis7r8aby46n/114/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/98c0f6dea4d2fbed3e66afce855bd406_high.png",Новий канал HD
+https://cdnua03.hls.tv/178/hls/k3jxu95vrb4pihteo70sfy1zl2agm8cn/4607/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/43217c11404de97a48367287c9d33b35_high.png",НТН
+https://cdnua03.hls.tv/178/hls/uv7jql38sicdrn14gmaxktbw50zf9py2/129/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/29af226ea5a7c5baba806a6ab57bde1a_high.png",Рада
+https://cdnua03.hls.tv/178/hls/5arbwxdeyq238p0oug79c6lfhtn1jvis/139/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/30ed8449dadc3cce429781c71eb58f96_high.png",СТБ HD
+https://cdnua03.hls.tv/178/hls/flezniq5r1vtswy7augpo4ch62jkb8d9/4592/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/afd777e775073ba387239f7362f3fb43_high.png",Україна HD
+https://cdnua03.hls.tv/178/hls/h5opy10nu9kgsc2l8qtwabezv3rmxj67/4613/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/aa1ca1322db37f752bbf74cb953e2e32_high.png",УНІАН
+https://cdnua03.hls.tv/178/hls/erh41w392ix05bcaouqmzd7kpt8lvf6j/159/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/170f2edb9c9a45fd8a628771fac6af3b_high.png",5 канал
+https://cdnua03.hls.tv/178/hls/swe8dmz73152yxbraptok4ql6jgcuivh/55/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/f1efc38fbc9a652130c5e16c2852e201_high.png",Deutsche Welle
+https://cdnua03.hls.tv/178/hls/nrs3ym6kcvq4x17duajgpw2to9iez5fb/204/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/83e3d2db04efe27b5c12105a8bfddd9d_high.png",Euronews
+https://cdnua03.hls.tv/178/hls/t0fenpxjvqg3uzsboarh752k64w8i9dm/215/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/6ff523c06154c0e078c29ae3e144f189_high.png",France 24
+https://cdnua03.hls.tv/178/hls/l49c183rb2vxam0t75nyiudkzefjqh6s/4783/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/a06a1089d7b58e646acf0190a8cbc7a3_high.png",English Club HD
+https://cdnua03.hls.tv/178/hls/ph4z3k5u9seliaw6f2nmc7v0xgtyrq81/3959/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/43e80273221505c3b1ef98fc05118a25_high.png",English Club TV
+https://cdnua03.hls.tv/178/hls/h6keptgab9im07ljry2wu8voxqc4z1nd/69/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/b11030e85bacc250a7a13f4f492116d7_high.png",Live
+https://cdnua03.hls.tv/178/hls/6l0vu2r8sbjfmhd517taeni3q49yzwok/572/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/1eef064ddb5c7bbbbd60024ca8511548_high.png",Oboz TV HD
+https://cdnua03.hls.tv/178/hls/2oa70nge4tl3d6ub8rchfx59mwp1szvq/3984/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/e502b5d9ce1daf2fe35f4026312b8d05_high.png",Ost West
+https://cdnua03.hls.tv/178/hls/hi6tdjofgp4qzlyn90ubw57vexr1s8am/4254/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/9287cf1ba66621bd237ccf81211a5c9a_high.png",TVP Info
+https://cdnua03.hls.tv/178/hls/6lis89jw4rmdp31xyovazk2cb7tg05hn/4415/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/ba5e5ff4c08ff49f7b3b73776c661861_high.png",TVP POLONIA
+https://cdnua03.hls.tv/178/hls/2o3v8czn796frmhlxiswyj1pgqtake0b/3678/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/badc3be0d3e551e771cef1e0eff3610c_high.png",Апостроф TV
+https://cdnua03.hls.tv/178/hls/4wkzivt2unpg5hmj36cyasod0197q8re/4730/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/8c508744259ac5ed53ff14170852765a_high.png",Еспресо HD
+https://cdnua03.hls.tv/178/hls/4w31hn8pcuqjfo6vdkxlm025ierzbagy/3968/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/f5e2237893adb177b326792511d280f1_high.png",Ісландія
+https://cdnua03.hls.tv/178/hls/93v8uq0aofp1gmx5h6wyrcinbzl4dsk2/4727/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/047b4ee39781d345bbf960e5bf685c04_high.png",Канал 24 HD
+https://cdnua03.hls.tv/178/hls/mn07re3lxyvasgqz54hpuifbc1kdj28w/3965/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/4e56979bc02263d90b7709e4fb63d3fd_high.png",Настоящее время HD
+https://cdnua03.hls.tv/178/hls/mfcd3i8nj59ah4gpzy7svteuqwklox1b/3932/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/b552e62b29d8ad2f945d9d4b2d76dcd5_high.png",Прямий HD
+https://cdnua03.hls.tv/178/hls/1rot89ewj5bpia3qdk4smxy67hlu2gvn/3615/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/41cfa6b1f3cc04d29538c9ad213ad2eb_high.png",Україна 24 HD
+https://cdnua03.hls.tv/178/hls/xlyus2j3dmrhe57qt6a1pk8zf4cognwi/396/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/19647470801d3b4a2b65b871cf06d197_high.png",4 канал
+https://cdnua03.hls.tv/178/hls/lt7q9abw36xgjico4ku5mvhs0zdnpr1f/86/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/7bd077c1c6db8526e2b6b248fea518f9_high.png",8 канал HD
+https://cdnua03.hls.tv/178/hls/1opflstr2mkdzaw5xqbvcue3yigh7908/4051/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/c895638440692f272e268b595e08dfce_high.png",ATR HD
+https://cdnua03.hls.tv/178/hls/gk2wdv9ef50ylbh3xinc6jp7mrtoszu4/3936/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/1cce7b1bad8950d268906c1449bbd9e6_high.png",UA: Культура
+https://cdnua03.hls.tv/178/hls/jruyd7ht01inlb9wxfvqpesga5mk6c3z/117/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/640cb11069caadc2c785e2b2c6d8f80b_high.png",UA:Перший
+https://cdnua03.hls.tv/178/hls/zm4rib8nq2f3exsljha0kp6571v9tcud/87/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/a28ffa8b9aa7a2620dc7c7824d1306b2_high.png",UA: Донбас
+https://cdnua03.hls.tv/178/hls/m2w6ayxzoi08h4efrtpjsbcg9u51kqdv/107/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/d08232d6aef8ebed373a08e678d6deff_high.png",UA: Київ
+https://cdnua03.hls.tv/178/hls/l2e8xsp6q1zubfiwt5cjd3a4myg0vhon/162/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/d2e945e79a63754346a29fb67ccb5834_high.png",UA:Буковина
+https://cdnua03.hls.tv/178/hls/uxfj18krqgsyen95m3piowhlb4t70cva/4790/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/d69b40080ee488c1d5fe3ac89fdec8b1_high.png",UA:Вінниця
+https://cdnua03.hls.tv/178/hls/7csk0wil13uxfbde9ghqjyz5rm8oa4pt/4785/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/e65f1306015ab009823b16e876ccb428_high.png",UA:Волинь
+https://cdnua03.hls.tv/178/hls/2miy7lbrw9uk4sv3d8xagzeo6j5ft0pc/4308/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/fd442e6fb6fe82d1534c274525a7ab3f_high.png",UA:Дніпро
+https://cdnua03.hls.tv/178/hls/ruk8sm13y0obgwq7vai95l6exf4dhc2p/4786/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/849271fcb39115764d0a23cc9787c8c7_high.png",UA:Житомир
+https://cdnua03.hls.tv/178/hls/p6bl8efkd7xc0m4hgtzqaj12w3u5y9nv/4787/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/5505de6116f6deb57b4df4548c4f1b46_high.png",UA:Закарпаття
+https://cdnua03.hls.tv/178/hls/v71admjrqch6s3wglif85n4tux2pk0oy/4244/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/f7699d9b0bec2d472adec529ef4ed1ff_high.png",UA:Запоріжжя
+https://cdnua03.hls.tv/178/hls/zods57vmcxj2u9wyr381ptklianeqgbf/4793/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/bf6e38d6cbec40ce5b4994af6cba7d05_high.png",UA:Крим
+https://cdnua03.hls.tv/178/hls/87kvr2upoj0e5zichsfnaqb36419tylg/3606/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/16b36bb8c3619bd3a70abd48f2aac137_high.png",UA:Кропивницький
+https://cdnua03.hls.tv/178/hls/ue3gh4mksd2yf850ibwpocztxv1njr7a/4788/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/76efd6ff49ec51f22ea4a53f3d5722c4_high.png",UA:Львів
+https://cdnua03.hls.tv/178/hls/iukx2qsv5rapc84befjl9zm07o1wdtgy/4794/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/09730d435d1086d904c158a8777de499_high.png",UA:Миколаїв
+https://cdnua03.hls.tv/178/hls/yesl7p5h4ntwjck9ar013udmofvxbg8z/4795/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/c4f07891032ecdd0e9bb31fb80f1b476_high.png",UA:Поділля
+https://cdnua03.hls.tv/178/hls/sm1qfzcabnpy3oui5gt2l4exwv78d9k0/4800/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/07aa3ba143fe087cca40551d8c282768_high.png",UA:Полтава
+https://cdnua03.hls.tv/178/hls/cixb1srfl28a5hm937wokd4vtqyz60pg/4796/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/c7a91a751e091ef786ae3a633261fdff_high.png",UA:Рівне
+https://cdnua03.hls.tv/178/hls/vpe84o7murzil6sf2ybj1x3antc0qd9h/4797/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/c0196433e396cb848452afb8cf449b65_high.png",UA:Суми
+https://cdnua03.hls.tv/178/hls/e0jpz4ifygmu8lno9b5x6th3arqsc7k2/4798/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/b35d0031cf2e7ccab7966b0506700f89_high.png",UA:Тернопіль
+https://cdnua03.hls.tv/178/hls/v4ot1b89egykmhjuix7q0l3wcnaz652r/4789/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/6ea79b5dddbb407e72a79af2b1650934_high.png",UA:Харків
+https://cdnua03.hls.tv/178/hls/nghdmtbfzka1i460elvx7qo58wc93ujp/4799/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/f6e23884c5e1ccad680371e1cbb7ca1b_high.png",UA:Херсон
+https://cdnua03.hls.tv/178/hls/msc3f0janbvxz4gl6r518odyuwi7kh2p/4801/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/ae39a9054119c7ad9f97006ee2ee30c6_high.png",UA:Черкаси
+https://cdnua03.hls.tv/178/hls/k9eosm7wn3hax12vyqb056gdl8f4rcuj/4802/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/bd9d60f2afb78e8d145b4f585a4ea47d_high.png",UA:Чернігів
+https://cdnua03.hls.tv/178/hls/xbd70vat2jcpqmkh4r5sgzluewi6319o/4791/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/48e4d1469c117fdacfeff913004b81aa_high.png",Зоряний
+https://cdnua03.hls.tv/178/hls/76suke20if9c4dt13gnmowvjpbr58qyh/4803/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/35fe5923caf3bdc02600ea000826b118_high.png",Рибалка ТВ
+https://cdnua03.hls.tv/178/hls/9o3p0n8m6h5rxdyiaw1bvj2kueqtgl47/4768/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/60c18e5dd031a789aa4f10b90594754e_high.png",Типовий Київ
+https://cdnua03.hls.tv/178/hls/8wfv1p7s5xicjgok0hqduerzmyb62ta9/4258/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/1f8967eb3a3e7b9817aac3d136922847_high.png",ТРК Київ
+https://cdnua03.hls.tv/178/hls/5xw9kjhntsoidugcb4a0z8l1e2qpyfmr/115/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/f5c020ec72e24b33b14e6e7bbd3a699f_high.png",Центральний
+https://cdnua03.hls.tv/178/hls/6q2v78plhegufb5043wdyizjksntcarx/4784/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/ef51d4326156faad40a7e0b85ed45a2d_high.png",EQUALYMPIC HD
+https://cdnua03.hls.tv/178/hls/qx2gz0o614dal5wb3p7reftjciyhsuk9/4779/stream.m3u8
+#EXTINF:-1 group-title="Омега ТВ"  tvg-logo="https://cdnua03.hls.tv/cdn/logo/0912f2d3b404a4bf33c9e7de8327500a_high.png",GameTOON
+https://cdnua03.hls.tv/178/hls/k97vho3lzmc5gn8we6yxd1uafjpsr20t/4778/stream.m3u8

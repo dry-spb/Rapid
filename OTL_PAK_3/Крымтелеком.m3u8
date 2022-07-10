@@ -1,0 +1,41 @@
+#EXTM3U url-tvg="http://192.168.0.213:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/146.png" ,Первый канал
+http://iptv.ktkru.ru:8001/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/711.png" ,Россия 1
+http://iptv.ktkru.ru:8002/index.m3u8
+#EXTINF:-1 ,РЕН ТВ
+http://iptv.ktkru.ru:8011/index.m3u8
+#EXTINF:-1 ,ТНТ
+http://iptv.ktkru.ru:8019/index.m3u8
+#EXTINF:-1 ,НТВ
+http://iptv.ktkru.ru:8004/index.m3u8
+#EXTINF:-1 ,Пятый канал
+http://iptv.ktkru.ru:8005/index.m3u8
+#EXTINF:-1 ,Россия К
+http://iptv.ktkru.ru:8006/index.m3u8
+#EXTINF:-1 ,Россия 24
+http://iptv.ktkru.ru:8007/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2474.png",КРЫМ 24
+http://iptv.ktkru.ru:8025/index.m3u8
+#EXTINF:-1 ,Карусель
+http://iptv.ktkru.ru:8008/index.m3u8
+#EXTINF:-1 ,ОТР
+http://iptv.ktkru.ru:8009/index.m3u8
+#EXTINF:-1 ,ТВ Центр
+http://iptv.ktkru.ru:8010/index.m3u8
+#EXTINF:-1 ,Спас
+http://iptv.ktkru.ru:8012/index.m3u8
+#EXTINF:-1 ,СТС
+http://iptv.ktkru.ru:8013/index.m3u8
+#EXTINF:-1 ,Домашний
+http://iptv.ktkru.ru:8014/index.m3u8
+#EXTINF:-1 ,ТВ 3
+http://iptv.ktkru.ru:8015/index.m3u8
+#EXTINF:-1 ,Пятница
+http://iptv.ktkru.ru:8016/index.m3u8
+#EXTINF:-1 ,Звезда
+http://iptv.ktkru.ru:8017/index.m3u8
+#EXTINF:-1 ,Мир
+http://iptv.ktkru.ru:8018/index.m3u8
+#EXTINF:-1 ,МузТВ
+http://iptv.ktkru.ru:8020/index.m3u8

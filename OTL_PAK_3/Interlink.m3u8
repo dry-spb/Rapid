@@ -1,0 +1,69 @@
+#EXTM3U url-tvg="http://192.168.0.213:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1,ТНТ
+http://185.223.125.136:1984/play/THT/index.m3u8
+#EXTINF:-1,.Black
+http://185.223.125.136:1984/play/Black/index.m3u8
+#EXTINF:-1,.Red HD
+http://185.223.125.136:1984/play/SonyHD/index.m3u8
+#EXTINF:-1,2X2
+http://185.223.125.136:1984/play/2X2/index.m3u8
+#EXTINF:-1,Amedia 1
+http://185.223.125.136:1984/play/Amedia/index.m3u8
+#EXTINF:-1,Disney
+http://185.223.125.136:1984/play/Disney/index.m3u8
+#EXTINF:-1,DTX
+http://185.223.125.136:1984/play/DTX/index.m3u8
+#EXTINF:-1,HD Life
+http://185.223.125.136:1984/play/HDL/index.m3u8
+#EXTINF:-1,History
+http://185.223.125.136:1984/play/History-2/index.m3u8
+#EXTINF:-1,FashionBOX
+http://185.223.125.136:1984/play/FashionBOX/index.m3u8
+#EXTINF:-1,FastNFunBOx
+http://185.223.125.136:1984/play/FastNFunBOx/index.m3u8
+#EXTINF:-1,FilmBOX
+http://185.223.125.136:1984/play/FilmBOX/index.m3u8
+#EXTINF:-1,Fox Life
+http://185.223.125.136:1984/play/a05f/index.m3u8
+#EXTINF:-1,Hollywood
+http://185.223.125.136:1984/play/Hollywood/index.m3u8
+#EXTINF:-1,iConcerts HD
+http://185.223.125.136:1984/play/iConcerts/index.m3u8
+#EXTINF:-1,Mezzo
+http://185.223.125.136:1984/play/Mezzo/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://185.223.125.136:1984/play/Nickelodeon/index.m3u8
+#EXTINF:-1,O2TV
+http://185.223.125.136:1984/play/O2TV/index.m3u8
+#EXTINF:-1,Star Cinema
+http://185.223.125.136:1984/play/StarCinema/index.m3u8
+#EXTINF:-1,TiJi
+http://185.223.125.136:1984/play/TiJi/index.m3u8
+#EXTINF:-1,TLC
+http://185.223.125.136:1984/play/TLC/index.m3u8
+#EXTINF:-1,TV1000
+http://185.223.125.136:1984/play/TV1000/index.m3u8
+#EXTINF:-1,Мир Увлечений
+http://185.223.125.136:1984/play/a05b/index.m3u8
+#EXTINF:-1,О!
+http://185.223.125.136:1984/play/O!/index.m3u8
+#EXTINF:-1,Поехали!
+http://185.223.125.136:1984/play/JimJam/index.m3u8
+#EXTINF:-1,Первый Вегетарианский
+http://185.223.125.136:1984/play/a05e/index.m3u8
+#EXTINF:-1,СТС Kids
+http://185.223.125.136:1984/play/a05d/index.m3u8
+#EXTINF:-1,СТС Love
+http://185.223.125.136:1984/play/a00z/index.m3u8
+#EXTINF:-1,BRIDGE TV Classic
+http://185.223.125.136:1984/play/a05n/index.m3u8
+#EXTINF:-1,Bridge TV Dance
+http://185.223.125.136:1984/play/a05o/index.m3u8
+#EXTINF:-1,ТНТ Music
+http://185.223.125.136:1984/play/a05g/index.m3u8
+#EXTINF:-1,KHL Prime
+http://185.223.125.136:1984/play/KHLP/index.m3u8
+#EXTINF:-1,Матч! Планета
+http://185.223.125.136:1984/play/a05j/index.m3u8
+#EXTINF:-1,Eurosport 2
+http://185.223.125.136:1984/play/Eurosport2/index.m3u8

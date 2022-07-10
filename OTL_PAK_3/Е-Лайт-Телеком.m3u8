@@ -1,0 +1,25 @@
+#EXTM3U url-tvg="http://192.168.0.213:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1 group-title="Е-Лайт-Телеком (VPN)" ,Первый канал
+http://176.197.223.26:49315/play/103/index.m3u8
+#EXTINF:-1 group-title="Е-Лайт-Телеком (VPN)" ,НТВ
+http://176.197.223.26:49315/play/104/index.m3u8
+#EXTINF:-1 group-title="Е-Лайт-Телеком (VPN)" ,Россия 1
+http://176.197.223.26:49315/play/102/index.m3u8
+#EXTINF:-1 group-title="Е-Лайт-Телеком (VPN)" ,ТНТ
+http://176.197.223.26:49315/play/119/index.m3u8
+#EXTINF:-1 group-title="Е-Лайт-Телеком (VPN)" ,РЕН ТВ
+http://176.197.223.26:49315/play/111/index.m3u8
+#EXTINF:-1 group-title="Е-Лайт-Телеком (VPN)" ,СТС
+http://176.197.223.26:49315/play/113/index.m3u8
+#EXTINF:-1 group-title="Е-Лайт-Телеком (VPN)" ,ТВН
+http://176.197.223.26:49315/play/a002/index.m3u8
+#EXTINF:-1 group-title="Е-Лайт-Телеком (VPN)" ,5 канал
+http://176.197.223.26:49315/play/105/index.m3u8
+#EXTINF:-1 group-title="Е-Лайт-Телеком (VPN)" ,ТВЦ
+http://176.197.223.26:49315/play/110/index.m3u8
+#EXTINF:-1 group-title="Е-Лайт-Телеком (VPN)" ,Пятница
+http://176.197.223.26:49315/play/116/index.m3u8
+#EXTINF:-1 group-title="Е-Лайт-Телеком (VPN)" ,Домашний
+http://176.197.223.26:49315/play/114/index.m3u8
+#EXTINF:-1 group-title="Е-Лайт-Телеком (VPN)" ,10 канал
+http://176.197.223.26:49315/play/211/index.m3u8

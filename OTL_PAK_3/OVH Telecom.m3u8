@@ -1,0 +1,285 @@
+#EXTM3U url-tvg="http://192.168.0.213:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1 ,Первый HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5129
+#EXTINF:-1 ,Первый канал
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5202
+#EXTINF:-1 ,РЕН ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5130
+#EXTINF:-1 ,Россия HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5126
+#EXTINF:-1 ,ТНТ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5124
+#EXTINF:-1 ,НТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5123
+#EXTINF:-1 ,НТВ ПРАВО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5147
+#EXTINF:-1 ,НТВ СЕРИАЛ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5096
+#EXTINF:-1 ,НТВ ХИТ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5095
+#EXTINF:-1 ,ANIMAL PLANET
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5532
+#EXTINF:-1 ,DTX
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5582
+#EXTINF:-1 ,Viasat Explore HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5542
+#EXTINF:-1 ,Viasat History HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5541
+#EXTINF:-1 ,Viasat Nature HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5540
+#EXTINF:-1 ,National Geographic HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5530
+#EXTINF:-1 ,NAT GEO WILD HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5529
+#EXTINF:-1 ,Travel+Adventure
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5560
+#EXTINF:-1 ,RTG
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5556
+#EXTINF:-1 ,ДИКАЯ РЫБАЛКА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5563
+#EXTINF:-1 ,ДИКИЙ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5558
+#EXTINF:-1 ,Discovery Channel HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5533
+#EXTINF:-1 ,ТЕХНО 24
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5176
+#EXTINF:-1 ,НАУКА HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5578
+#EXTINF:-1 ,МОЯ ПЛАНЕТА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5523
+#EXTINF:-1 ,МОЯ СТИХИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5548
+#EXTINF:-1 ,МОРСКОЙ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5545
+#EXTINF:-1 ,ИСТОРИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5522
+#EXTINF:-1 ,ЖИВАЯ ПЛАНЕТА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5575
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2472.png" ,Первый Крымский
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5167
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png" ,TV XXI
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5069
+#EXTINF:-1 ,2X2
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5085
+#EXTINF:-1 ,365 ДНЕЙ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5566
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" ,.black
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5086
+#EXTINF:-1 ,DA VINCI KIDS
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5135
+#EXTINF:-1 ,FAN
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5094
+#EXTINF:-1 ,FILMBOX
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5099
+#EXTINF:-1 ,FLIX SNIP
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5544
+#EXTINF:-1 ,FOX
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5075
+#EXTINF:-1 ,FOX LIFE
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5076
+#EXTINF:-1 ,GALAXY
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5562
+#EXTINF:-1 ,Киносат
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5108
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/311.png" ,.red
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5084
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/311.png" ,.red HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5107
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" ,.sci-fi
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5061
+#EXTINF:-1 ,TV 1000 ACTION HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5065
+#EXTINF:-1 ,TV 1000 HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5081
+#EXTINF:-1 ,TV 1000 WORLD KINO
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5101
+#EXTINF:-1 ,TV 1000 РУССКОЕ КИНО HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5058
+#EXTINF:-1 ,ZEE TV
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5098
+#EXTINF:-1 ,АВТО 24
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5528
+#EXTINF:-1 ,Amedia 1
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5078
+#EXTINF:-1 ,Amedia 2 HD
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5067
+#EXTINF:-1 ,Amedia Hit
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5079
+#EXTINF:-1 ,АРМЕНИЯ РАЗВЛЕКАТЕЛЬНЫЙ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5366
+#EXTINF:-1 ,Бобёр
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5546
+#EXTINF:-1 ,БСТ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5159
+#EXTINF:-1 ,ВОЛГА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5163
+#EXTINF:-1 ,ВРЕМЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5536
+#EXTINF:-1 ,Hollywood
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5083
+#EXTINF:-1 ,ДОКТОР
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5527
+#EXTINF:-1 ,ДОМ КИНО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5077
+#EXTINF:-1 ,ДОМАШНИЕ ЖИВОТНЫЕ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5537
+#EXTINF:-1 ,ДОМАШНИЙ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5132
+#EXTINF:-1 ,ДОРАМА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5100
+#EXTINF:-1 ,ЕВРОКИНО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5074
+#EXTINF:-1 ,ЖИВИ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5145
+#EXTINF:-1 ,ЗАГОРОДНЫЙ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5158
+#EXTINF:-1 ,ЗВЕЗДА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5136
+#EXTINF:-1 ,ЗОО ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5574
+#EXTINF:-1 ,ЗООПАРК
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5547
+#EXTINF:-1 ,ИЛЛЮЗИОН+
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5104
+#EXTINF:-1 ,КВН ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5138
+#EXTINF:-1 ,КИНО ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5092
+#EXTINF:-1 ,ИНДИЙСКОЕ КИНО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5071
+#EXTINF:-1 ,РОДНОЕ КИНО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5064
+#EXTINF:-1 ,КИНОКОМЕДИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5070
+#EXTINF:-1 ,КИНОМИКС
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5062
+#EXTINF:-1 ,КИНОМИКС
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5063
+#EXTINF:-1 ,КИНОСВИДАНИЕ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5091
+#EXTINF:-1 ,КИНОСЕРИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5072
+#EXTINF:-1 ,КИНОХИТ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5066
+#EXTINF:-1 ,МУЖСКОЕ КИНО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5082
+#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5068
+#EXTINF:-1 ,КРАСНАЯ ЛИНИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5171
+#EXTINF:-1 ,КРЫМ 24
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5169
+#EXTINF:-1 ,КТО ЕСТЬ КТО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5152
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2465.png" ,ЛДПР ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5160
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5810.png" ,Липецкое время
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5177
+#EXTINF:-1 ,МАМА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5139
+#EXTINF:-1 ,МИР
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5122
+#EXTINF:-1 ,МИР 24
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5174
+#EXTINF:-1 ,МИР СЕРИАЛА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5102
+#EXTINF:-1 ,МОСКВА 24
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5141
+#EXTINF:-1 ,МУЛЬТ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5559
+#EXTINF:-1 ,НАША ТЕМА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5576
+#EXTINF:-1 ,НАШЕ ЛЮБИМОЕ КИНО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5090
+#EXTINF:-1 ,НОСТАЛЬГИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5059
+#EXTINF:-1 ,НСТ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5097
+#EXTINF:-1 ,НТК
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5154
+#EXTINF:-1 ,ОРУЖИЕ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5573
+#EXTINF:-1 ,ОТКРЫТЫЙ МИР
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5157
+#EXTINF:-1 ,ОТР
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5140
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/5992.png" ,VF Охота
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5553
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2405.png" ,Paramount Channel
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5106
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2350.png" ,Поехали!
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5561
+#EXTINF:-1 ,ПЯТНИЦА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5125
+#EXTINF:-1 ,РАТНИК
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5165
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2477.png" ,ТНОМЕР
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5172
+#EXTINF:-1 ,РЕТРО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5103
+#EXTINF:-1 ,РЖД
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5166
+#EXTINF:-1 ,РУССКИЙ БЕСТСЕЛЛЕР
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5087
+#EXTINF:-1 ,РУССКИЙ ДЕТЕКТИВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5089
+#EXTINF:-1 ,РУССКИЙ ИЛЛЮЗИОН
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5073
+#EXTINF:-1 ,РУССКИЙ РОМАН
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5088
+#EXTINF:-1 ,САРАФАН
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5149
+#EXTINF:-1 ,Cinema
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5109
+#EXTINF:-1 ,СТС
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5127
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1322.png" ,СТС Love
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5060
+#EXTINF:-1 ,ТАЙНА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5569
+#EXTINF:-1 ,ТВЦ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5134
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/933.png" ,ТНВ-Планета
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5133
+#EXTINF:-1 ,ТОЛК
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5168
+#EXTINF:-1 tvg-id="2425" tvg-logo="http://epg.it999.ru/img/2425.png" ,Тонус ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5568
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/275.png" ,Совершенно секретно
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5525
+#EXTINF:-1 ,ТОЧКА ОТРЫВА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5538
+#EXTINF:-1 ,ТОЧКА ТВ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5567
+#EXTINF:-1 ,ТОЧКА УСПЕХА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5151
+#EXTINF:-1 ,ТРИ АНГЕЛА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5164
+#EXTINF:-1 ,УСАДЬБА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5549
+#EXTINF:-1 ,ФЕНИКС+КИНО
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5105
+#EXTINF:-1 ,Ю
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5137
+#EXTINF:-1 ,ЧЕ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5131
+#EXTINF:-1 ,МУЗЫКА АРМЕНИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5375
+#EXTINF:-1 ,ШАНТ МУЗЫКА
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5370
+#EXTINF:-1 ,ШАРМ АРМЕНИЯ КВН
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5364
+#EXTINF:-1 ,КУХНЯ АРМЕНИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5367
+#EXTINF:-1 ,КИНО 2 АРМЕНИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5363
+#EXTINF:-1 ,КИНО 3 АРМЕНИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5365
+#EXTINF:-1 ,КИНО 4 АРМЕНИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5369
+#EXTINF:-1 ,КИНО 5 АРМЕНИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5368
+#EXTINF:-1 ,КИНО АРМЕНИЯ
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5362
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3706.png" ,Extreme Sport
+http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5465

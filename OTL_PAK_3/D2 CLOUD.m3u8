@@ -1,0 +1,199 @@
+#EXTM3U url-tvg="http://192.168.0.213:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1 group-title="D2 CLOUD" ,Nat Geo Wild HD
+http://185.235.187.10:8888/play/a025/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,National Geographic
+http://185.235.187.10:8888/play/a01p/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Viasat Explore
+http://185.235.187.10:8888/play/a043/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Viasat History
+http://185.235.187.10:8888/play/a04x/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Viasat Nature HD
+http://185.235.187.10:8888/play/a05w/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,История
+http://185.235.187.10:8888/play/a01f/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Мега
+http://185.235.187.10:8888/play/mega/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Моя стихия
+http://185.235.187.10:8888/play/moya_planeta/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Наука 2.0
+http://185.235.187.10:8888/play/nauka/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,NASA UHD
+http://185.235.187.10:8888/play/a044/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,.red
+http://185.235.187.10:8888/play/a04t/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,2x2
+http://185.235.187.10:8888/play/2x2/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,365 Дней
+http://185.235.187.10:8888/play/365_dney/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Amedia 1
+http://185.235.187.10:8888/play/a01t/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Amedia 2
+http://185.235.187.10:8888/play/a01s/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Amedia HIT
+http://185.235.187.10:8888/play/a064/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Amedia Premium
+http://185.235.187.10:8888/play/a00f/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Amedia Premium HD
+http://185.235.187.10:8888/play/a005/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Bollywood HD
+http://185.235.187.10:8888/play/a073/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Enter-фільм
+http://185.235.187.10:8888/play/a03h/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Equalympic HD
+http://185.235.187.10:8888/play/a03o/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,EU.Music HD
+http://185.235.187.10:8888/play/a012/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Europa Plus TV
+http://185.235.187.10:8888/play/a058/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Fox
+http://185.235.187.10:8888/play/a03s/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Fox Life
+http://185.235.187.10:8888/play/a03w/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Hollywood
+http://185.235.187.10:8888/play/a016/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,MCM Top
+http://185.235.187.10:8888/play/a023/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,MTV Hits
+http://185.235.187.10:8888/play/a050/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Paramount Comedy
+http://185.235.187.10:8888/play/a060/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Shot TV
+http://185.235.187.10:8888/play/a01a/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,TV1000
+http://185.235.187.10:8888/play/tv1000/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,TV1000 Action
+http://185.235.187.10:8888/play/tv1000_action/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,TV1000 Русское кино
+http://185.235.187.10:8888/play/tv1000_rus_kino/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Viasat Sport HD
+http://185.235.187.10:8888/play/a07s/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,VIP Comedy HD
+http://185.235.187.10:8888/play/tv1000_comedy_hd/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,VIP Megahit HD
+http://185.235.187.10:8888/play/tv1000_megahit/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,VIP Premiere HD
+http://185.235.187.10:8888/play/tv1000_premium_hd/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Авто 24
+http://185.235.187.10:8888/play/avto24/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Бобер
+http://185.235.187.10:8888/play/bober/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Доктор
+http://185.235.187.10:8888/play/dok/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Дом Кино Премиум HD
+http://185.235.187.10:8888/play/a017/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Домашний
+http://185.235.187.10:8888/play/domashniy/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Еврокино
+http://185.235.187.10:8888/play/a00c/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Караван ТВ
+http://185.235.187.10:8888/play/a00k/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Disney
+http://185.235.187.10:8888/play/a01l/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Gulli Girl
+http://185.235.187.10:8888/play/a006/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Nick Jr
+http://185.235.187.10:8888/play/a06c/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Пиксель
+http://185.235.187.10:8888/play/pixel/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Малятко ТВ
+http://185.235.187.10:8888/play/malyatko_tv/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Мама
+http://185.235.187.10:8888/play/mama/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Плюс Плюс
+http://185.235.187.10:8888/play/a00t/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Сонце
+http://185.235.187.10:8888/play/a05p/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,TiJi
+http://185.235.187.10:8888/play/a04d/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Карусель
+http://185.235.187.10:8888/play/a01g/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Квартал ТВ
+http://185.235.187.10:8888/play/kvartal_tv/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Кино ТВ
+http://185.235.187.10:8888/play/a01o/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Индийское кино
+http://185.235.187.10:8888/play/indiyskoe_kino/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Кинокомедия
+http://185.235.187.10:8888/play/kinikomedia/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Мужское Кино
+http://185.235.187.10:8888/play/muzhskoe_kino/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Родное кино
+http://185.235.187.10:8888/play/a019/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Киномикс
+http://185.235.187.10:8888/play/kinomix/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Кинопремьера HD
+http://185.235.187.10:8888/play/kinopremera_hd/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Киносемья
+http://185.235.187.10:8888/play/kinosemya/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Киносерия
+http://185.235.187.10:8888/play/kinoseria/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Кинохит
+http://185.235.187.10:8888/play/kinohit/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Комедийное
+http://185.235.187.10:8888/play/a020/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Культура
+http://185.235.187.10:8888/play/kultura/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Кухня ТВ
+http://185.235.187.10:8888/play/kuhnya_tv/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Ля-Минор
+http://185.235.187.10:8888/play/lya_minor/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,М1
+http://185.235.187.10:8888/play/m1/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,М2
+http://185.235.187.10:8888/play/m2/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,МузТВ
+http://185.235.187.10:8888/play/muz_tv/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Наше кино
+http://185.235.187.10:8888/play/a01j/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,НСТ
+http://185.235.187.10:8888/play/a015/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,О!
+http://185.235.187.10:8888/play/a02a/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,ОТР
+http://185.235.187.10:8888/play/mir_serialov/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,ПравдаТУТ
+http://185.235.187.10:8888/play/a007/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Русский бестселлер
+http://185.235.187.10:8888/play/a01e/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,СТС Love
+http://185.235.187.10:8888/play/a06g/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Танцуй!
+http://185.235.187.10:8888/play/a04f/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,ТВЦ
+http://185.235.187.10:8888/play/a022/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Телевсесвіт
+http://185.235.187.10:8888/play/a063/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Телевсесвіт HD
+http://185.235.187.10:8888/play/a00e/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Че
+http://185.235.187.10:8888/play/a01w/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Моторспорт ТВ
+http://185.235.187.10:8888/play/a03l/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Футбол 1 HD
+http://185.235.187.10:8888/play/a07x/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Футбол 2 HD
+http://185.235.187.10:8888/play/a05b/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Бокс ТВ
+http://185.235.187.10:8888/play/boks_tv/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,MMA-TV
+http://185.235.187.10:8888/play/a07v/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Матч! HD
+http://185.235.187.10:8888/play/match_HD/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Матч! Арена HD
+http://185.235.187.10:8888/play/match_arena_HD/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Матч! Боец
+http://185.235.187.10:8888/play/boec/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Матч! Игра HD
+http://185.235.187.10:8888/play/match_igra_HD/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Матч! ТВ
+http://185.235.187.10:8888/play/a001/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Матч! Футбол 1
+http://185.235.187.10:8888/play/match_futbol1/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Матч! Футбол 1 HD
+http://185.235.187.10:8888/play/match_futbol_1HD/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Матч! Футбол 2
+http://185.235.187.10:8888/play/match_futbol2/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Матч! Футбол 2 HD
+http://185.235.187.10:8888/play/match_futbol2_HD/index.m3u8
+#EXTINF:-1 group-title="D2 CLOUD" ,Матч! Футбол 3 HD
+http://185.235.187.10:8888/play/match_futbol3_HD/index.m3u8

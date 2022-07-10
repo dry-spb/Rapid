@@ -1,0 +1,205 @@
+#EXTM3U url-tvg="http://192.168.0.213:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1,Россия HD
+http://178.217.72.66:8080/Rossiya_HD/video.m3u8
+#EXTINF:-1,НТВ HD
+http://178.217.72.66:8080/NTV_HD/video.m3u8
+#EXTINF:-1,РЕН ТВ
+http://178.217.72.66:8080/REN_TV/video.m3u8
+#EXTINF:-1,Россия 24
+http://178.217.72.66:8080/Rossiya_24/index.m3u8
+#EXTINF:-1,ТНТ4
+http://178.217.72.66:8080/TNT4/video.m3u8
+#EXTINF:-1,Animal Planet HD
+http://178.217.72.66:8080/Animal_Planet_HD/video.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://178.217.72.66:8080/Nat_Geo_Wild/video.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://178.217.72.66:8080/Nat_Geo_Wild_HD/index.m3u8
+#EXTINF:-1,National Geographic HD
+http://178.217.72.66:8080/National_Geographic_HD/index.m3u8
+#EXTINF:-1,Discovery HD
+http://178.217.72.66:8080/Discovery_HD/video.m3u8
+#EXTINF:-1,Discovery Science
+http://178.217.72.66:8080/Discovery_Science/index.m3u8
+#EXTINF:-1,Travel Channel HD
+http://178.217.72.66:8080/Travel_Channel/video.m3u8
+#EXTINF:-1,HD Life
+http://178.217.72.66:8080/HDL/video.m3u8
+#EXTINF:-1,ДИКИЙ
+http://178.217.72.66:8080/Dikiy/video.m3u8
+#EXTINF:-1,МОЯ ПЛАНЕТА
+http://178.217.72.66:8080/Moya_Planeta/video.m3u8
+#EXTINF:-1,RTG HD
+http://178.217.72.66:8080/RTG_HD/video.m3u8
+#EXTINF:-1,НАУКА 2.0
+http://178.217.72.66:8080/Nauka_2_0/video.m3u8
+#EXTINF:-1,ГЛАЗАМИ ТУРИСТА HD
+http://178.217.72.66:8080/glazamiturista/video.m3u8
+#EXTINF:-1,ЖИВАЯ ПЛАНЕТА
+http://178.217.72.66:8080/Zhivaya_Planeta/video.m3u8
+#EXTINF:-1,Ocean TV
+http://178.217.72.66:8080/Ocean_TV/index.m3u8
+#EXTINF:-1,Viasat Explore
+http://178.217.72.66:8080/Viasat_Explorer/video.m3u8
+#EXTINF:-1,Viasat History
+http://178.217.72.66:8080/Viasat_History/video.m3u8
+#EXTINF:-1,Viasat Nature
+http://178.217.72.66:8080/Viasat_Nature/video.m3u8
+#EXTINF:-1,ИСТОРИЯ
+http://178.217.72.66:8080/Istoriya/video.m3u8
+#EXTINF:-1,Bollywood HD
+http://178.217.72.66:8080/Bollywood_HD/video.m3u8
+#EXTINF:-1,Мосфильм. Золотая коллекция
+http://178.217.72.66:8080/mosfilm/video.m3u8
+#EXTINF:-1,Bolt HD
+http://178.217.72.66:8080/bolt/video.m3u8
+#EXTINF:-1,TV XXI
+http://178.217.72.66:8080/TV_XXI/index.m3u8
+#EXTINF:-1,TV1000 HD
+http://178.217.72.66:8080/TV_1000/index.m3u8
+#EXTINF:-1,TV1000 Action
+http://178.217.72.66:8080/TV_1000_Action/index.m3u8
+#EXTINF:-1,Fox
+http://178.217.72.66:8080/Fox/video.m3u8
+#EXTINF:-1,Sony Turbo
+http://178.217.72.66:8080/Sony_Turbo/video.m3u8
+#EXTINF:-1,НАШЕ НОВОЕ КИНО
+http://178.217.72.66:8080/Nashe_Novoe_Kino/video.m3u8
+#EXTINF:-1,РОДНОЕ КИНО
+http://178.217.72.66:8080/Rodnoe_Kino/video.m3u8
+#EXTINF:-1,Киноужас
+http://178.217.72.66:8080/kinoujas/video.m3u8
+#EXTINF:-1,Дом кино
+http://178.217.72.66:8080/Dom_Kino/video.m3u8
+#EXTINF:-1,Дом Кино Премиум HD
+http://178.217.72.66:8080/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1,ВРЕМЯ
+http://178.217.72.66:8080/Vremya/video.m3u8
+#EXTINF:-1,ПОБЕДА
+http://178.217.72.66:8080/pobeda/video.m3u8
+#EXTINF:-1,СУПЕР
+http://178.217.72.66:8080/super/video.m3u8
+#EXTINF:-1,FAN
+http://178.217.72.66:8080/fan/video.m3u8
+#EXTINF:-1,A1 HD
+http://178.217.72.66:8080/A1/video.m3u8
+#EXTINF:-1,A2 HD
+http://178.217.72.66:8080/A2/video.m3u8
+#EXTINF:-1,Amedia Premium HD
+http://178.217.72.66:8080/Amedia_Premium_HD/index.m3u8
+#EXTINF:-1,Cinema
+http://178.217.72.66:8080/cinema/video.m3u8
+#EXTINF:-1,VIP Megahit HD
+http://178.217.72.66:8080/vip_megahit/video.m3u8
+#EXTINF:-1,КОМЕДИЯ
+http://178.217.72.66:8080/Komediya/video.m3u8
+#EXTINF:-1,РЕТРО
+http://178.217.72.66:8080/Retro/video.m3u8
+#EXTINF:-1,КИНО ТВ
+http://178.217.72.66:8080/Kino_TV/video.m3u8
+#EXTINF:-1,РУССКИЙ ИЛЛЮЗИОН HD
+http://178.217.72.66:8080/Russkiy_Illyuzion/video.m3u8
+#EXTINF:-1,САРАФАН
+http://178.217.72.66:8080/Sarafan/video.m3u8
+#EXTINF:-1,АВТО 24 HD
+http://178.217.72.66:8080/Avto_24/video.m3u8
+#EXTINF:-1,НОСТАЛЬГИЯ
+http://178.217.72.66:8080/Nostalgiya/video.m3u8
+#EXTINF:-1,ЖИВИ
+http://178.217.72.66:8080/Zhivi/video.m3u8
+#EXTINF:-1,СТС Love
+http://178.217.72.66:8080/STS_Love/video.m3u8
+#EXTINF:-1,СТС HD
+http://178.217.72.66:8080/STS/video.m3u8
+#EXTINF:-1,Gulli
+http://178.217.72.66:8080/Gulli/video.m3u8
+#EXTINF:-1,TIJI
+http://178.217.72.66:8080/TiJi/video.m3u8
+#EXTINF:-1,JimJam
+http://178.217.72.66:8080/JimJam/video.m3u8
+#EXTINF:-1,МУЗ ТВ
+http://178.217.72.66:8080/MUZ_TV/video.m3u8
+#EXTINF:-1,RU.TV
+http://178.217.72.66:8080/RU_TV/video.m3u8
+#EXTINF:-1,ТНТ Music
+http://178.217.72.66:8080/TNT_Music/video.m3u8
+#EXTINF:-1,КАРУСЕЛЬ
+http://178.217.72.66:8080/Karusel/video.m3u8
+#EXTINF:-1,DUCK TV
+http://178.217.72.66:8080/ducktv/video.m3u8
+#EXTINF:-1,МУЛЬТ HD
+http://178.217.72.66:8080/Mult/video.m3u8
+#EXTINF:-1,ДЕТСКИЙ МИР
+http://178.217.72.66:8080/Detskiy_Mir/video.m3u8
+#EXTINF:-1,ДЕТСКИЙ
+http://178.217.72.66:8080/Detskiy/video.m3u8
+#EXTINF:-1,МАМА
+http://178.217.72.66:8080/Mama/video.m3u8
+#EXTINF:-1,ЗДОРОВОЕ ТВ
+http://178.217.72.66:8080/Zdorovoe_TV/video.m3u8
+#EXTINF:-1,Nickelodeon
+http://178.217.72.66:8080/Nickelodeon/video.m3u8
+#EXTINF:-1,УСАДЬБА
+http://178.217.72.66:8080/Usadba/video.m3u8
+#EXTINF:-1,ОТР
+http://178.217.72.66:8080/OTR/video.m3u8
+#EXTINF:-1,ЗООПАРК
+http://178.217.72.66:8080/Zoopark/video.m3u8
+#EXTINF:-1,МИР 24
+http://178.217.72.66:8080/Mir_24/video.m3u8
+#EXTINF:-1,МИР
+http://178.217.72.66:8080/Mir/video.m3u8
+#EXTINF:-1,ЗВЕЗДА
+http://178.217.72.66:8080/Zvezda/video.m3u8
+#EXTINF:-1,ЧЕ
+http://178.217.72.66:8080/Che/video.m3u8
+#EXTINF:-1,ДОМАШНИЙ HD
+http://178.217.72.66:8080/Domashniy/video.m3u8
+#EXTINF:-1,ТОНУС
+http://178.217.72.66:8080/tonus/video.m3u8
+#EXTINF:-1,БОБЕР
+http://178.217.72.66:8080/Bober/video.m3u8
+#EXTINF:-1,РБК
+http://178.217.72.66:8080/RBK/video.m3u8
+#EXTINF:-1,ТНОМЕР
+http://178.217.72.66:8080/tnomer/video.m3u8
+#EXTINF:-1,2x2
+http://178.217.72.66:8080/2x2/video.m3u8
+#EXTINF:-1,УСПЕХ
+http://178.217.72.66:8080/uspeh/video.m3u8
+#EXTINF:-1,БЕЛАРУСЬ 24
+http://178.217.72.66:8080/belarus24/video.m3u8
+#EXTINF:-1,ЗОО ТВ
+http://178.217.72.66:8080/zootv/video.m3u8
+#EXTINF:-1,Совершенно секретно
+http://178.217.72.66:8080/Sovershenno_Sekretno/video.m3u8
+#EXTINF:-1,5 КАНАЛ
+http://178.217.72.66:8080/5_Kanal/video.m3u8
+#EXTINF:-1,Ani
+http://178.217.72.66:8080/Ani/video.m3u8
+#EXTINF:-1,Спас
+http://178.217.72.66:8080/Spas/video.m3u8
+#EXTINF:-1,ТВ3
+http://178.217.72.66:8080/TV3/video.m3u8
+#EXTINF:-1,Телекафе
+http://178.217.72.66:8080/Telekafe/video.m3u8
+#EXTINF:-1,Пятница!
+http://178.217.72.66:8080/Pyatnitsa/video.m3u8
+#EXTINF:-1,FightBox
+http://178.217.72.66:8080/fightbox/video.m3u8
+#EXTINF:-1,Extreme Sports
+http://178.217.72.66:8080/Extreme_Sports/video.m3u8
+#EXTINF:-1,БОКС ТВ
+http://178.217.72.66:8080/Boks_TV/video.m3u8
+#EXTINF:-1,Матч! HD
+http://178.217.72.66:8080/Match_HD/video.m3u8
+#EXTINF:-1,МАТЧ АРЕНА HD
+http://178.217.72.66:8080/Match_Arena_HD/video.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://178.217.72.66:8080/Eurosport_HD/video.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD
+http://178.217.72.66:8080/Match_Futbol_1_HD/video.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD
+http://178.217.72.66:8080/Match_Futbol_2_HD/video.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD
+http://178.217.72.66:8080/Match_Futbol_3_HD/video.m3u8

@@ -1,0 +1,45 @@
+#EXTM3U url-tvg="http://192.168.0.213:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1,Первый канал
+http://188.191.160.238:9099/channel/1_Kanal.ts
+#EXTINF:-1,Россия 1
+http://188.191.160.238:9099/channel/Rossiya.ts
+#EXTINF:-1,НТВ
+http://188.191.160.238:9099/channel/NTV.ts
+#EXTINF:-1,ТНТ
+http://188.191.160.238:9099/channel/TNT.ts
+#EXTINF:-1,ТНТ4
+http://188.191.160.238:9099/channel/TNT4.ts
+#EXTINF:-1,РЕН ТВ
+http://188.191.160.238:9099/channel/REN_TV.ts
+#EXTINF:-1,5 канал
+http://188.191.160.238:9099/channel/5_Kanal.ts
+#EXTINF:-1,360°
+http://188.191.160.238:9099/channel/360_Podmoskovie_HD.ts
+#EXTINF:-1,Москва доверие
+http://188.191.160.238:9099/channel/Doverie.ts
+#EXTINF:-1,Домашний
+http://188.191.160.238:9099/channel/Domashniy.ts
+#EXTINF:-1,Калейдоскоп ТВ
+http://188.191.160.238:9099/channel/Kaleydoskop_TV.ts
+#EXTINF:-1,Москва 24
+http://188.191.160.238:9099/channel/Moskva_24.ts
+#EXTINF:-1,Лен ТВ 24
+http://188.191.160.238:9099/channel/LOT.ts
+#EXTINF:-1,RU.TV
+http://188.191.160.238:9099/channel/RU_TV.ts
+#EXTINF:-1,Санкт-Петербург
+http://188.191.160.238:9099/channel/Sankt-Peterburg.ts
+#EXTINF:-1,Точка ТВ
+http://188.191.160.238:9099/channel/Tochka_TV.ts
+#EXTINF:-1,СТС
+http://188.191.160.238:9099/channel/STS.ts
+#EXTINF:-1,ОТР
+http://188.191.160.238:9099/channel/OTR.ts
+#EXTINF:-1,Три ангела
+http://188.191.160.238:9099/channel/Tri_Angela.ts
+#EXTINF:-1,ТВ3
+http://188.191.160.238:9099/channel/TV3.ts
+#EXTINF:-1,Ямал регион
+http://188.191.160.238:9099/channel/Yamal-Region.ts
+#EXTINF:-1,Звезда
+http://188.191.160.238:9099/channel/Zvezda.ts

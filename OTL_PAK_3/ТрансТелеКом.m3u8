@@ -1,0 +1,133 @@
+#EXTM3U url-tvg="http://192.168.0.213:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1,Первый канал
+http://83.234.104.142/perviy/playlist.m3u8
+#EXTINF:-1,Россия 1
+http://83.234.104.142/rossia1/playlist.m3u8
+#EXTINF:-1,Россия К
+http://83.234.104.142/rossiak/playlist.m3u8
+#EXTINF:-1,Россия 24
+http://83.234.104.142/rossia24/playlist.m3u8
+#EXTINF:-1,Рен ТВ
+http://83.234.104.142/rentv/playlist.m3u8
+#EXTINF:-1,ТНТ 4
+http://83.234.104.142/tnt4/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://83.234.104.142/tnt/playlist.m3u8
+#EXTINF:-1,НТВ
+http://83.234.104.142/ntv/playlist.m3u8
+#EXTINF:-1,НТВ-Хит
+http://83.234.104.142/ntvhit/playlist.m3u8
+#EXTINF:-1,НТВ-Стиль
+http://83.234.104.142/ntvstyle/playlist.m3u8
+#EXTINF:-1,НТВ-Сериал
+http://83.234.104.142/ntvserial/playlist.m3u8
+#EXTINF:-1,НТВ-Право
+http://83.234.104.142/ntvpravo/playlist.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://83.234.104.142/ohotairibalka/playlist.m3u8
+#EXTINF:-1,Travel+Adventure
+http://83.234.104.142/traveladventure/playlist.m3u8
+#EXTINF:-1,RTG TV
+http://83.234.104.142/rtg/playlist.m3u8
+#EXTINF:-1,National Geographic
+http://83.234.104.142/natgeo/playlist.m3u8
+#EXTINF:-1,Ю
+http://83.234.104.142/utv/playlist.m3u8
+#EXTINF:-1,Че
+http://83.234.104.142/che/playlist.m3u8
+#EXTINF:-1,Усадьба
+http://83.234.104.142/usadba/playlist.m3u8
+#EXTINF:-1,Уникум
+http://83.234.104.142/detskiy/playlist.m3u8
+#EXTINF:-1,Телекафе
+http://83.234.104.142/telecafe/playlist.m3u8
+#EXTINF:-1,ТДК
+http://83.234.104.142/tdk/playlist.m3u8
+#EXTINF:-1,ТВ3
+http://83.234.104.142/tv3/playlist.m3u8
+#EXTINF:-1,Суббота
+http://83.234.104.142/super/playlist.m3u8
+#EXTINF:-1,СТС Love
+http://83.234.104.142/stslove/playlist.m3u8
+#EXTINF:-1,СТС
+http://83.234.104.142/sts/playlist.m3u8
+#EXTINF:-1,Спас
+http://83.234.104.142/spas/playlist.m3u8
+#EXTINF:-1,Рыжий
+http://83.234.104.142/ryzhiy/playlist.m3u8
+#EXTINF:-1,Русский иллюзион
+http://83.234.104.142/russkiyillusion/playlist.m3u8
+#EXTINF:-1,Пятница
+http://83.234.104.142/pyatnitsa/playlist.m3u8
+#EXTINF:-1,Поехали!
+http://83.234.104.142/poehali/playlist.m3u8
+#EXTINF:-1,Победа
+http://83.234.104.142/pobeda/playlist.m3u8
+#EXTINF:-1,ОТР
+http://83.234.104.142/otr/playlist.m3u8
+#EXTINF:-1,О!
+http://83.234.104.142/o/playlist.m3u8
+#EXTINF:-1,НСТ
+http://83.234.104.142/nstv/playlist.m3u8
+#EXTINF:-1,Ностальгия
+http://83.234.104.142/nostalgia/playlist.m3u8
+#EXTINF:-1,Мульт
+http://83.234.104.142/mult/playlist.m3u8
+#EXTINF:-1,МузТВ
+http://83.234.104.142/muztv/playlist.m3u8
+#EXTINF:-1,Мужской
+http://83.234.104.142/muzhskoy/playlist.m3u8
+#EXTINF:-1,Мир 24
+http://83.234.104.142/mir24/playlist.m3u8
+#EXTINF:-1,Мир
+http://83.234.104.142/mir/playlist.m3u8
+#EXTINF:-1,Киносемья
+http://83.234.104.142/kinosemya/playlist.m3u8
+#EXTINF:-1,Наше новое кино
+http://83.234.104.142/nashenovoekino/playlist.m3u8
+#EXTINF:-1,Киносвидание
+http://83.234.104.142/kinosvidanie/playlist.m3u8
+#EXTINF:-1,Кинопоказ
+http://83.234.104.142/kinopokaz/playlist.m3u8
+#EXTINF:-1,Карусель
+http://83.234.104.142/karusel/playlist.m3u8
+#EXTINF:-1,Калейдоскоп ТВ
+http://83.234.104.142/kaleydoskop/playlist.m3u8
+#EXTINF:-1,Иллюзион+
+http://83.234.104.142/illusionplus/playlist.m3u8
+#EXTINF:-1,Здоровое тв
+http://83.234.104.142/zdorovoetv/playlist.m3u8
+#EXTINF:-1,Звезда
+http://83.234.104.142/zvezda/playlist.m3u8
+#EXTINF:-1,Еврокино
+http://83.234.104.142/evrokino/playlist.m3u8
+#EXTINF:-1,Домашний
+http://83.234.104.142/domashniy/playlist.m3u8
+#EXTINF:-1,Дом кино
+http://83.234.104.142/domkino/playlist.m3u8
+#EXTINF:-1,Время
+http://83.234.104.142/vremya/playlist.m3u8
+#EXTINF:-1,Вместе-РФ
+http://83.234.104.142/vmesterf/playlist.m3u8
+#EXTINF:-1,Zooпарк
+http://83.234.104.142/zoopark/playlist.m3u8
+#EXTINF:-1,ZEE TV
+http://83.234.104.142/zeetv/playlist.m3u8
+#EXTINF:-1,TV XXI
+http://83.234.104.142/tvxxi/playlist.m3u8
+#EXTINF:-1,RU.TV
+http://83.234.104.142/rutv/playlist.m3u8
+#EXTINF:-1,Mezzo
+http://83.234.104.142/mezzo/playlist.m3u8
+#EXTINF:-1,Disney
+http://83.234.104.142/disney/playlist.m3u8
+#EXTINF:-1,Da vinci
+http://83.234.104.142/davinci/playlist.m3u8
+#EXTINF:-1,8 канал
+http://83.234.104.142/8kanal/playlist.m3u8
+#EXTINF:-1,2x2
+http://83.234.104.142/2x2/playlist.m3u8
+#EXTINF:-1,Телеканал футбол
+http://83.234.104.142/futbol/playlist.m3u8
+#EXTINF:-1,КХЛ
+http://83.234.104.142/khl/playlist.m3u8

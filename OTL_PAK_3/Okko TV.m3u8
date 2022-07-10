@@ -1,0 +1,90 @@
+#EXTM3U url-tvg="http://192.168.0.213:38050/epg.xml.gz" description="Medium" size="Medium" background="#11609e"
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png" ,Россия HD
+http://okkotv-live.cdnvideo.ru/channel/Russia1HD/1080p.m3u8
+
+#EXTINF:-1 group-title="Okko TV (VPN 🇷🇺)",Рен ТВ HD
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
+
+#EXTINF:-1 group-title="Okko TV (VPN 🇷🇺)",Viasat Explore HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
+
+#EXTINF:-1 group-title="Okko TV (VPN 🇷🇺)",Viasat History HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+
+#EXTINF:-1 group-title="Okko TV (VPN 🇷🇺)",Viasat Nature HD
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2823.png" ,VIP Comedy HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png" ,VIP Megahit HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png" ,VIP Premiere HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png" ,VIP Serial HD
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/hGgj76W4/image.png" ,START Air
+https://okkotv-live.cdnvideo.ru/channel/START_Air_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Y9DqZS4j/1.png" ,START World
+https://okkotv-live.cdnvideo.ru/channel/START_World_HD/1080p.m3u8
+
+#EXTINF:-1 group-title="Okko TV (VPN 🇷🇺)",TV1000 Action HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
+
+#EXTINF:-1 group-title="Okko TV (VPN 🇷🇺)",TV1000 HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+
+#EXTINF:-1 group-title="Okko TV (VPN 🇷🇺)",TV1000 Русское кино HD
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png" ,Sony Sci-Fi
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png" ,Sony Turbo
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo/480p.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/311.png" ,Sony Channel
+http://okkotv-live.cdnvideo.ru/channel/Sony_ET/480p.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png" ,Amedia 1
+http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/918.png" ,Amedia 2
+http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3069.png" ,Amedia Hit HD
+http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/79.png" ,СТС HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1322.png" ,СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2/480p.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1598.png" ,Че
+http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
+
+#EXTINF:-1 group-title="Okko TV (VPN 🇷🇺)",Пятый канал
+http://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
+
+#EXTINF:-1 group-title="Okko TV (VPN 🇷🇺)",Ю
+https://okkotv-live.cdnvideo.ru/channel/Yu_OTT/480p.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2271.png" ,Известия HD
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
+
+#EXTINF:-1 ,Домашний HD
+http://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2761.png" ,Калейдоскоп ТВ
+https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
+
+#EXTINF:-1 group-title="Okko TV (VPN 🇷🇺)",Канал Disney
+https://okkotv-live.cdnvideo.ru/channel/Disney/480p.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2757.png" ,Мультиландия
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD/1080p.m3u8
