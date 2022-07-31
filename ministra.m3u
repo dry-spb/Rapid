@@ -1,0 +1,1240 @@
+#EXTM3U
+#EXTINF:tvg-id="hlsproxy-51082" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/209.png",Настоящее время
+#EXTGRP:Информационные
+http://50.7.188.186/Nast_vremya/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-243" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/215.png",Дождь
+#EXTGRP:Информационные
+http://50.7.188.186/Dozhd/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-5013" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/570.jpg",БелСат
+#EXTGRP:Информационные
+http://f1.stream.devkom.pro:1063/ramowka/video.m3u8
+#EXTINF:tvg-id="hlsproxy-5013" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/512.png",БЕЛСАТ
+#EXTGRP:Информационные
+http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
+#EXTINF:tvg-id="hlsproxy-70" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/410.png",EURONEWS
+#EXTGRP:Информационные
+http://194.39.101.249:7777/9/index.m3u8
+#EXTINF:tvg-id="hlsproxy-20151" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/411.png",Известия
+#EXTGRP:Информационные
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2/1080p.m3u8
+#EXTINF:tvg-id="hlsproxy-393" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/214.png",Россия 24
+#EXTGRP:Информационные
+http://194.39.101.249:7777/7/index.m3u8
+#EXTINF:tvg-id="hlsproxy-310" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/408.png",Москва 24
+#EXTGRP:Информационные
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_OTT_MOSKOV24/variant.m3u8?version=2
+#EXTINF:tvg-id="hlsproxy-219" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/510.png",Беларусь 24 HD
+#EXTGRP:Информационные
+http://serv30.vintera.tv:8081/belarus24/belarus24/playlist.m3u8
+#EXTINF:tvg-id="hlsproxy-380" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/418.png",РБК-ТВ HD
+#EXTGRP:Информационные
+http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
+#EXTINF:tvg-id="hlsproxy-300" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/412.png",МИР 24 HD
+#EXTGRP:Информационные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:tvg-id="hlsproxy-210" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/413.png",ЛЕН ТВ 24
+#EXTGRP:Информационные
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
+#EXTINF:tvg-id="hlsproxy-410" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/414.png",Санкт-Петербург HD
+#EXTGRP:Информационные
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+#EXTINF:tvg-id="hlsproxy-51166" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/415.png",360 Новости HD
+#EXTGRP:Информационные
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:tvg-id="hlsproxy-377" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/217.png",Пятница!
+#EXTGRP:Эфирные
+http://50.7.92.90/Pyatnitsa/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-680" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/226.png",Перец International
+#EXTGRP:Эфирные
+http://okkotv-live.cdnvideo.ru/channel/Che_OTT_2/480p.m3u8
+#EXTINF:tvg-id="hlsproxy-680" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/421.png",Че
+#EXTGRP:Эфирные
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_PERETZ/variant.m3u8
+#EXTINF:tvg-id="hlsproxy-13" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/219.png",365 дней
+#EXTGRP:Эфирные
+http://50.7.188.186/365_dney/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-227" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/220.png",Время
+#EXTGRP:Эфирные
+http://50.7.188.186/Vremya/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-246" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/221.png",Домашний
+#EXTGRP:Эфирные
+http://50.7.92.90/Domashniy/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-362" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/225.png",Первый канал
+#EXTGRP:Эфирные
+http://194.39.101.249:7777/2217/index.m3u8
+#EXTINF:tvg-id="hlsproxy-378" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/228.png",Пятый Канал
+#EXTGRP:Эфирные
+http://okkotv-live.cdnvideo.ru/channel/5_OTT/480p.m3u8
+#EXTINF:tvg-id="hlsproxy-391" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/229.png",Россия 1
+#EXTGRP:Эфирные
+http://50.7.188.186/Planeta_RTR/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-391" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/230.png",Россия HD
+#EXTGRP:Эфирные
+http://50.7.188.186/Rossiya_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-319" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/424.png",НТВ
+#EXTGRP:Эфирные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/bw2000000/variant.m3u8?version=2
+#EXTINF:tvg-id="hlsproxy-382" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/432.png",РенТВ HD
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
+#EXTINF:tvg-id="hlsproxy-407" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/430.png",СТС HD
+#EXTGRP:Эфирные
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT/1080p.m3u8
+#EXTINF:tvg-id="hlsproxy-439" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/234.png",ТНТ HD
+#EXTGRP:Эфирные
+http://50.7.188.186/TNTHD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-434" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/422.png",ТВ Центр
+#EXTGRP:Эфирные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/bw2000000/variant.m3u8?version=2
+#EXTINF:tvg-id="hlsproxy-325" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/425.png",ОТР
+#EXTGRP:Эфирные
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/bw2000000/variant.m3u8?version=2
+#EXTINF:tvg-id="hlsproxy-395" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/264.png",Россия К
+#EXTGRP:Эфирные
+http://50.7.92.90/Rossiya_K/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-259" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/336.png",Звезда
+#EXTGRP:Эфирные
+http://50.7.188.186/Zvezda/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-349" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/227.png",Ностальгия
+#EXTGRP:Эфирные
+http://50.7.188.186/Nostalgiya/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-8191" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/261.png",НТВ Стиль
+#EXTGRP:Эфирные
+http://50.7.188.186/ntvstyle/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-8349" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/262.png",НТВ Право
+#EXTGRP:Эфирные
+http://50.7.188.186/ntvpravo/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-151" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/266.png",RTVi
+#EXTGRP:Эфирные
+http://50.7.188.186/RTVi/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-437" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/267.png",TET UA
+#EXTGRP:Эфирные
+http://50.7.188.186/TET/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-204" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/268.png",ZEE TV
+#EXTGRP:Эфирные
+http://50.7.188.186/ZeeTV/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-51057" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/571.jpg",Оплот ТВ
+#EXTGRP:Эфирные
+http://ott.inmart.tv:8081/54/index.m3u8
+#EXTINF:tvg-id="hlsproxy-518" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/416.png",Точка ТВ
+#EXTGRP:Эфирные
+http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
+#EXTINF:tvg-id="hlsproxy-288" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/417.png",Вместе РФ
+#EXTGRP:Эфирные
+http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
+#EXTINF:tvg-id="hlsproxy-2584" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",ТВ Экстра
+#EXTGRP:Эфирные
+http://194.190.78.91:8080/tvextra720b/index.m3u8
+#EXTINF:tvg-id="hlsproxy-10071" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/428.png",Первый Российский Национальный
+#EXTGRP:Эфирные
+http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:tvg-id="hlsproxy-299" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/429.png",МИР HD
+#EXTGRP:Эфирные
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:tvg-id="hlsproxy-19" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/431.png",8 КАНАЛ
+#EXTGRP:Эфирные
+http://v4.proofix.ru:80/8tv-russia/index.m3u8
+#EXTINF:tvg-id="hlsproxy-100022" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/238.png",Discovery Channel HD
+#EXTGRP:Познавательные
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discovery
+#EXTINF:tvg-id="hlsproxy-62" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/239.png",Discovery Science HD
+#EXTGRP:Познавательные
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryscience
+#EXTINF:tvg-id="hlsproxy-100024" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/240.png",DTX HD
+#EXTGRP:Познавательные
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoverydtx
+#EXTINF:tvg-id="hlsproxy-99" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/241.png",ID Xtra HD
+#EXTGRP:Познавательные
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=discoveryxtra
+#EXTINF:tvg-id="hlsproxy-322" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/242.png",TLC HD
+#EXTGRP:Познавательные
+http://193.111.244.35:8001/tlc/index.m3u8
+#EXTINF:tvg-id="hlsproxy-100031" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/251.png",Наука HD
+#EXTGRP:Познавательные
+http://50.7.188.186/Nauka_2.0/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-100025" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/235.png",Animal Family HD
+#EXTGRP:Познавательные
+http://50.7.92.90/Animal_Family_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-34" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/236.png",Animal Planet HD
+#EXTGRP:Познавательные
+http://193.111.244.35:8001/animalplanet/index.m3u8
+#EXTINF:tvg-id="hlsproxy-128" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/243.png",Nat Geo Wild
+#EXTGRP:Познавательные
+http://50.7.92.90/Nat_Geo_Wild/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-130" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/244.png",National Geographic HD
+#EXTGRP:Познавательные
+http://193.111.244.35:8001/natgeo/index.m3u8
+#EXTINF:tvg-id="hlsproxy-194" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/245.png",Viasat Explore HD
+#EXTGRP:Познавательные
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD/1080p.m3u8
+#EXTINF:tvg-id="hlsproxy-196" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/246.png",Viasat History HD
+#EXTGRP:Познавательные
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD/1080p.m3u8
+#EXTINF:tvg-id="hlsproxy-197" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/438.png",Viasat Nature HD
+#EXTGRP:Познавательные
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD/1080p.m3u8
+#EXTINF:tvg-id="hlsproxy-421" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/255.png",Живая планета
+#EXTGRP:Познавательные
+http://50.7.188.186/Zhivaya_planeta/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-21062" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",World HD
+#EXTGRP:Познавательные
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:tvg-id="hlsproxy-184" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/253.png",Travel+Adventure
+#EXTGRP:Познавательные
+http://50.7.188.186/Travel_Adventure_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-95" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/247.png",History HD
+#EXTGRP:Познавательные
+http://50.7.92.90/History_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-326" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/248.png",История
+#EXTGRP:Познавательные
+http://194.39.101.249:7777/2039/index.m3u8
+#EXTINF:tvg-id="hlsproxy-572" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/252.png",DocuBox HD
+#EXTGRP:Познавательные
+http://50.7.188.186/DocuBoxHD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-1131" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/254.png",Глазами туриста HD
+#EXTGRP:Познавательные
+http://50.7.92.90/Glazami_turista_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-311" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/256.png",Планета HD
+#EXTGRP:Познавательные
+http://50.7.92.90/IQ_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-417" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/257.png",Совершенно секретно
+#EXTGRP:Познавательные
+http://50.7.188.186/Sovershenno_sekretno/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-454" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/258.png",Телепутешествия
+#EXTGRP:Познавательные
+http://50.7.188.186/Teleputeshestviya/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-100032" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/249.png",H2 HD
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/H2HD_36_37.m3u8
+#EXTINF:tvg-id="hlsproxy-90" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/250.png",HD Life
+#EXTGRP:Познавательные
+http://50.7.188.186/HD_Life/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-156" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/440.png",RTД HD
+#EXTGRP:Познавательные
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:tvg-id="hlsproxy-54514" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/442.png",Нано HD
+#EXTGRP:Познавательные
+http://192.166.144.111:8008/play/a003/index.m3u8
+#EXTINF:tvg-id="hlsproxy-54643" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/443.png",Наша Сибирь 4K HD
+#EXTGRP:Познавательные
+https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/bw6000000/variant.m3u8?version=2
+#EXTINF:tvg-id="hlsproxy-867" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/444.png",Поехали!
+#EXTGRP:Познавательные
+https://sc.id-tv.kz/poehali_34_35.m3u8
+#EXTINF:tvg-id="hlsproxy-262" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/445.png",Зоопарк
+#EXTGRP:Познавательные
+http://46.174.83.66/Zoopark/index.m3u8
+#EXTINF:tvg-id="hlsproxy-53987" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/446.png",Тайна
+#EXTGRP:Познавательные
+http://192.166.144.111:8008/play/a01h/index.m3u8
+#EXTINF:tvg-id="hlsproxy-54503" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/449.png",Sochi Live HD
+#EXTGRP:Познавательные
+http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+#EXTINF:tvg-id="hlsproxy-54710" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/451.png",Рифей-ТВ
+#EXTGRP:Познавательные
+http://rt-ural-perm-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_REFEY_PERM/variant.m3u8?version=2
+#EXTINF:tvg-id="hlsproxy-409" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/232.png",СТС Love
+#EXTGRP:Развлекательные
+http://50.7.188.186/STS_Love/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-431" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/259.png",Суббота
+#EXTGRP:Развлекательные
+http://50.7.188.186/super_tv/tracks-v1a1/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-431" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/452.png",СУББОТА HD
+#EXTGRP:Развлекательные
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=subbota
+#EXTINF:tvg-id="hlsproxy-431" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/453.png",СУББОТА!
+#EXTGRP:Развлекательные
+https://bl.uma.media/live/317845/HLS/4614144_3/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:tvg-id="hlsproxy-431" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/454.png",СУББОТА! HD
+#EXTGRP:Развлекательные
+https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
+#EXTINF:tvg-id="hlsproxy-411" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/260.png",Сарафан
+#EXTGRP:Развлекательные
+http://50.7.188.186/Sarafan/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-186" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/263.png",О!
+#EXTGRP:Развлекательные
+http://50.7.188.186/O!/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-22072" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/269.png",Квартал ТВ
+#EXTGRP:Развлекательные
+http://192.168.0.213:7777/2061/index.m3u8
+#EXTINF:tvg-id="hlsproxy-472" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/270.png",Эгоист
+#EXTGRP:Развлекательные
+http://50.7.188.186/Egoist_TV/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-255" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/271.png",Эспресо TV UA
+#EXTGRP:Развлекательные
+http://50.7.188.186/EspresoTVUA/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-409" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/448.png",CTC LOVE
+#EXTGRP:Развлекательные
+http://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:tvg-id="hlsproxy-336" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/456.png",ТНТ4
+#EXTGRP:Развлекательные
+http://a3569456020-zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/bw2000000/variant.m3u8?version=2
+#EXTINF:tvg-id="hlsproxy-336" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/457.png",ТНТ4 HD
+#EXTGRP:Развлекательные
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tnt4
+#EXTINF:tvg-id="hlsproxy-474" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/458.png",Ю
+#EXTGRP:Развлекательные
+https://okkotv-live.cdnvideo.ru/channel/Yu_OTT/480p.m3u8
+#EXTINF:tvg-id="hlsproxy-611" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/477.png",UNIVER TV HD
+#EXTGRP:Развлекательные
+http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
+#EXTINF:tvg-id="hlsproxy-54686" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/501.png",ТВОЁ ТВ HD
+#EXTGRP:Развлекательные
+http://stream-norst.cf:8080/tvoetv/index.m3u8
+#EXTINF:tvg-id="hlsproxy-432" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/233.png",ТВ3
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/TV_3/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-55224" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/272.png",Победа HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Pobeda/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-163" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/273.png",.black
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Sony_Turbo/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-159" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/274.png",.red
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/SET/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-5107" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/275.png",.sci-fi
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Sony_Sci-Fi/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-25" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/276.png",Amedia 1
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Amedia_1/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-26" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/277.png",Amedia 2
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Amedia_2/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-25" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/462.png",A1 HD
+#EXTGRP:Кино и сериалы
+https://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
+#EXTINF:tvg-id="hlsproxy-26" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/463.png",A2 HD
+#EXTGRP:Кино и сериалы
+https://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
+#EXTINF:tvg-id="hlsproxy-25" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/464.png",AMEDIA 1 HD
+#EXTGRP:Кино и сериалы
+https://okkotv-live.cdnvideo.ru/channel/A1_HD/720p.m3u8
+#EXTINF:tvg-id="hlsproxy-26" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/465.png",AMEDIA 2 HD
+#EXTGRP:Кино и сериалы
+https://okkotv-live.cdnvideo.ru/channel/A2_HD/720p.m3u8
+#EXTINF:tvg-id="hlsproxy-578" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/278.png",Amedia Hit HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Amedia_Hit_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-31" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/279.png",Amedia Premium HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Amedia_premium_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-51106" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/280.png",Bollywood HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Bollywood_HD/mono.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",BESTFILM
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/BESTFILM_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-361" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/281.png",Cinema HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/cinema/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-1478" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/282.png",FilmBox
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/FilmBox/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-5050" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/283.png",Filmbox Arthouse
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/FilmBoxArthouse/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-82" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/284.png",Fox HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/FOX_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-83" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/285.png",Fox Life
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Fox_Life_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-91" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/286.png",HD media
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/HDMedia/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-143" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/287.png",Paramount Channel
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Paramount_Channel/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-144" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/288.jpg",Paramount Comedy Russia
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Paramount_Comedy/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-170" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/289.png",TV XXI
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/TV-XXI/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-171" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/290.png",TV1000
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/TV1000/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-172" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/292.png",TV1000 Action HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/TV1000ActionHD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-172" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/291.png",TV1000 Action
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/TV1000_Action/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-171" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/293.png",TV1000 HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/TV1000_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-172" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/473.png",TV 1000 ACTION HD
+#EXTGRP:Кино и сериалы
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tv1000action
+#EXTINF:tvg-id="hlsproxy-172" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/486.png",TV1000 ACTION HD.
+#EXTGRP:Кино и сериалы
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
+#EXTINF:tvg-id="hlsproxy-171" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/474.png",TV 1000 HD
+#EXTGRP:Кино и сериалы
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=tv1000
+#EXTINF:tvg-id="hlsproxy-429" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/294.png",TV1000 Русское кино
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/TV1000russkoekino/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-429" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/295.png",TV1000 Русское кино HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/TV1000RusskoeHD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-173" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/296.png",ViP Comedy HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/TV1000_Comedy_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-174" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/297.png",ViP Megahit HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/TV1000_Megahit_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-175" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/298.png",ViP Premium HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/TV1000_Premium_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-55135" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/299.png",VIP Serial HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/VIP_Serial_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-173" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/478.png",VIP COMEDY
+#EXTGRP:Кино и сериалы
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=vip_comedy
+#EXTINF:tvg-id="hlsproxy-174" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/479.png",VIP MEGAHIT HD.
+#EXTGRP:Кино и сериалы
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
+#EXTINF:tvg-id="hlsproxy-174" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/480.png",VIP MEGAHIT.
+#EXTGRP:Кино и сериалы
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:tvg-id="hlsproxy-175" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/481.png",VIP PREMIERE
+#EXTGRP:Кино и сериалы
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=vip_premiere
+#EXTINF:tvg-id="hlsproxy-175" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/482.png",VIP PREMIERE HD.
+#EXTGRP:Кино и сериалы
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
+#EXTINF:tvg-id="hlsproxy-55135" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/483.png",VIP SERIAL
+#EXTGRP:Кино и сериалы
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=vip_serial
+#EXTINF:tvg-id="hlsproxy-55135" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/484.png",VIP SERIAL.
+#EXTGRP:Кино и сериалы
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:tvg-id="hlsproxy-51107" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/485.png",Дом кино премиум
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/domkino_hd.m3u8
+#EXTINF:tvg-id="hlsproxy-244" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Дом Кино
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Dom_kino/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-253" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/301.jpg",Еврокино
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Evrokino/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-263" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/302.png",Иллюзион+
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Illyuzion/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-265" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/303.png",Индийское Кино
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Indiya_TV/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-2507" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/304.png",Камеди HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Kinopokaz_HD2/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-51109" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/305.png",Капитан Фантастика
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Ginger_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-279" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/306.png",Кино ТВ HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Kino_TV_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-279" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/407.png",КиноТВ HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Kino_TV_HD/mono.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Кинозал! СССР
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/sssr_kino/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-290" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/307.png",Кинокомедия HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Komediya_TV/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-290" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/489.png",КИНОКОМЕДИЯ
+#EXTGRP:Кино и сериалы
+http://46.174.83.66/Kinokomedia/index.m3u8
+#EXTINF:tvg-id="hlsproxy-323" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/308.png",Киномикс HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Kino_plyus/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-331" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/309.png",Кинопремьера HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/HD_Kino/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-331" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/492.png",КИНОПРЕМЬЕРА
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/Kinopremiera_hd_34_35.m3u8
+#EXTINF:tvg-id="hlsproxy-324" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/310.png",Киносвидание HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Kinoklub/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-92" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/311.png",Киносемья HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Premera/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-309" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/312.png",Киносерия
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Mnogo_TV/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-1796" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/313.png",Киноужас HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/kinoujas_tv/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-1796" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/493.png",КИНОУЖАС
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz:443/Kinouzhas_hd_34_35.m3u8
+#EXTINF:tvg-id="hlsproxy-327" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/314.png",Кинохит
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Kinohit/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-604" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/495.png",КОМЕДИЯ.
+#EXTGRP:Кино и сериалы
+http://myott.top/stream/1VGPHYLZTH/68.m3u8
+#EXTINF:tvg-id="hlsproxy-283" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/494.png",КОМЕДИЙНОЕ
+#EXTGRP:Кино и сериалы
+http://myott.top/stream/1VGPHYLZTH/74.m3u8
+#EXTINF:tvg-id="hlsproxy-281" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/490.png",КИНОПОКАЗ
+#EXTGRP:Кино и сериалы
+http://myott.top/stream/1VGPHYLZTH/64.m3u8
+#EXTINF:tvg-id="hlsproxy-324" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/491.png",КИНОСВИДАНИЕ
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/Kinosvidanie_hd.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",КИНОЗАЛ-VHS 90S
+#EXTGRP:Кино и сериалы
+http://v2.catcast.me/content/37925/index.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",КИНОЛЮКС
+#EXTGRP:Кино и сериалы
+http://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:tvg-id="hlsproxy-268" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/315.png",Мужское Кино HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Muzhskoe_kino/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-268" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/496.png",МУЖСКОЕ КИНО
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/Mujskoe_kino_hd.m3u8
+#EXTINF:tvg-id="hlsproxy-2503" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/316.png",Наш Кинопоказ HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Semeynoe_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-577" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/317.png",Наше крутое HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Nashe_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-344" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/318.png",НСТ
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/NST/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-8194" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/319.png",НТВ Сериал
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/ntvserial/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-576" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/320.png",Остросюжетное HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Ostrosyuzhetnoe_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-574" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/321.png",Премиальное HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Kino_premium_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-455" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/322.png",Приключения HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Teletravel_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-330" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/323.png",РодноеКино
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Nashe_kino/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-399" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/324.png",Русский бестселлер
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Russkibesteller/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-397" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/325.png",Русский Иллюзион
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Russkiy_illyuzion/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-401" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/326.png",Русский роман
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Russkiy_roman/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-401" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/327.png",Русский роман HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Russkiy_roman_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-52652" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/328.png",Русский экстрим HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Russkiy_ekstrim/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-400" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/497.png",РУССКИЙ ДЕТЕКТИВ
+#EXTGRP:Кино и сериалы
+http://st1.astra-uk.ru:81/af8898730d92ba60aa3f1835e7853533/playlist.m3u8
+#EXTINF:tvg-id="hlsproxy-863" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/329.png",СТРАХ HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/strah_hd/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-624" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/330.png",Страшное HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/StrashnoeHD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-864" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/331.png",Фантастика HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/FANTASTIKA_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-282" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/332.png",Шокирующее HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/Kinopokaz_HD1/mono.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Sky2000 Индия HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Sky1000_India/mono.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Sky2000 VHS HD
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/sky2000_VHS/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-53912" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/333.png",Star Family HD UA
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/112Ukraina/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-190" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/334.png",VH-1 Classic
+#EXTGRP:Кино и сериалы
+http://50.7.92.90/VH-1_Classic/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-191" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/335.png",VH1 European
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/VH1_Europe/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-312" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/339.png",Мужской
+#EXTGRP:Кино и сериалы
+http://50.7.188.186/Muzhskoy/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-163" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/459.png",.BLACK HD
+#EXTGRP:Кино и сериалы
+http://st1.astra-uk.ru:81/cc719f0f30037279d03bf2fd542a8088/playlist.m3u8?ts
+#EXTINF:tvg-id="hlsproxy-5107" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/460.png",.SCI-FI.
+#EXTGRP:Кино и сериалы
+http://st1.astra-uk.ru:81/4a5d4b8543f34cadc7eb9ea8fcbf88a0/playlist.m3u8?ts
+#EXTINF:tvg-id="hlsproxy-8076" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/461.png",1 INTERNATIONAL
+#EXTGRP:Кино и сериалы
+https://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:tvg-id="hlsproxy-672" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/466.png",BACKUSTV
+#EXTGRP:Кино и сериалы
+http://stream.backustv.ru/live/btv/index.m3u8
+#EXTINF:tvg-id="hlsproxy-672" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/467.png",BACKUSTV СТРАШНОЕ
+#EXTGRP:Кино и сериалы
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:tvg-id="hlsproxy-361" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/468.png",CINEMA
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz:443/Cinema_36_37.m3u8
+#EXTINF:tvg-id="hlsproxy-81" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/469.png",FOX
+#EXTGRP:Кино и сериалы
+http://109.200.130.124:15500/fox
+#EXTINF:tvg-id="hlsproxy-144" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/470.jpg",PARAMOUNT COMEDY РОССИЯ
+#EXTGRP:Кино и сериалы
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=paramount_comedy
+#EXTINF:tvg-id="hlsproxy-159" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/471.png",SONY
+#EXTGRP:Кино и сериалы
+http://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:tvg-id="hlsproxy-159" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/472.png",SONY CHANNEL
+#EXTGRP:Кино и сериалы
+http://myott.top/stream/1VGPHYLZTH/69.m3u8
+#EXTINF:tvg-id="hlsproxy-2238" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/475.png",TV RUS
+#EXTGRP:Кино и сериалы
+http://217.79.179.127:8081/RuOIYxwHD7sQiL2MnAnBaWaJsoF2Q4f9m0D43wVo2Wso/live/tvrus/stream0.m3u8
+#EXTINF:tvg-id="hlsproxy-2494" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/476.png",TRASH
+#EXTGRP:Кино и сериалы
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=trash
+#EXTINF:tvg-id="hlsproxy-53747" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/487.png",ДОРАМА
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz/dorama_hd_34_35.m3u8
+#EXTINF:tvg-id="hlsproxy-53747" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/488.png",ДОРАМА HD
+#EXTGRP:Кино и сериалы
+https://sc.id-tv.kz:443/dorama_hd_34_35.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",УЖАСТИК
+#EXTGRP:Кино и сериалы
+https://v2.catcast.tv/content/38896/index.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",ФАНТАСТИКА SCI-FI
+#EXTGRP:Кино и сериалы
+https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:tvg-id="hlsproxy-464" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/498.png",ФЕНИКС+КИНО
+#EXTGRP:Кино и сериалы
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=fenixkino
+#EXTINF:tvg-id="hlsproxy-282" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/499.png",ШОКИРУЮЩЕЕ
+#EXTGRP:Кино и сериалы
+http://myott.top/stream/1VGPHYLZTH/75.m3u8
+#EXTINF:tvg-id="hlsproxy-432" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/500.png",ТВ3 HD
+#EXTGRP:Кино и сериалы
+https://bl.uma.media/live/407373/HLS/6307840_7/1613013859/5fdc4b8080160a4e56933b0402133da4/playlist.m3u8
+#EXTINF:tvg-id="hlsproxy-93" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/337.png",Авто 24
+#EXTGRP:Мужские
+http://50.7.188.186/Avto_24/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-209" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/338.png",Авто Плюс
+#EXTGRP:Мужские
+http://50.7.92.90/Avto_Plyus/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-357" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/505.png",ОРУЖИЕ
+#EXTGRP:Мужские
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=oruzhie
+#EXTINF:tvg-id="hlsproxy-1011" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/508.png",ДайвингTV HD
+#EXTGRP:Мужские
+http://live-planetaonline.cdnvideo.ru:80/http/smil:channel_130.smil/chunklist_b2628000.m3u8
+#EXTINF:tvg-id="hlsproxy-226" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/509.png",НТМ HD
+#EXTGRP:Мужские
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Canal+Motor
+#EXTGRP:Мужские
+https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-1960" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/564.png",Рыбалка HD
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch195pub/index.m3u8
+#EXTINF:tvg-id="hlsproxy-359" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/561.png",Рыболов HD
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch196pub/index.m3u8
+#EXTINF:tvg-id="hlsproxy-1960" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/563.png",Рыбалка с Сибиряком
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch023pub/index.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Братья Рыбаки
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch140pub/index.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Вокруг рыбалки
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch164pub/index.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Около рыбалки. Андропов
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch099pub/index.m3u8
+#EXTINF:tvg-id="hlsproxy-1960" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/565.png",Рыбалка на реке
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch321pub/index.m3u8
+#EXTINF:tvg-id="hlsproxy-1960" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/562.png",Рыбалка с Олегом
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch172pub/index.m3u8
+#EXTINF:tvg-id="hlsproxy-358" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/506.png",Охота и Рыбалка
+#EXTGRP:Мужские
+https://sc.id-tv.kz:443/Ribalka_Ohota_36_37.m3u8
+#EXTINF:tvg-id="hlsproxy-511" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/340.png",Охотник и Рыболов HD
+#EXTGRP:Мужские
+http://50.7.92.90/Ohotnik_i_Ryibolov_HD/mono.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",REEL LIFE (РЫБАЛКА)
+#EXTGRP:Мужские
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1039
+#EXTINF:tvg-id="hlsproxy-7116" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Fishing TV
+#EXTGRP:Мужские
+http://edge-01-pub.persik.by:82/live/Ch134pub/index.m3u8
+#EXTINF:tvg-id="hlsproxy-78" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/503.png",FASHION TV MIDNITE FTV
+#EXTGRP:Мужские
+http://194.39.101.249:7777/88/video.m3u8
+#EXTINF:tvg-id="hlsproxy-78" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/504.png",FASHION TV MIDNITE SECRETS
+#EXTGRP:Мужские
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:tvg-id="hlsproxy-631" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",MIAMI TV LATINO
+#EXTGRP:Мужские
+http://194.39.101.249:7777/2019/video.m3u8
+#EXTINF:tvg-id="hlsproxy-641" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",MIAMI TV MÉXICO
+#EXTGRP:Мужские
+http://194.39.101.249:7777/112/video.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",A3BIKINI
+#EXTGRP:Мужские
+http://194.39.101.249:7777/2016/video.m3u8
+#EXTINF:tvg-id="hlsproxy-7152" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",JASMIN
+#EXTGRP:Мужские
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355236
+#EXTINF:tvg-id="hlsproxy-52355" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/341.png",Food network HD
+#EXTGRP:Женские
+http://50.7.92.90/Food_network_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-250" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/343.png",ЕДА Премиум
+#EXTGRP:Женские
+http://50.7.188.186/Eda/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-294" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/345.png",Кухня ТВ
+#EXTGRP:Женские
+http://50.7.92.90/Kuhnya_TV/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-294" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/507.png",КУХНЯ ТВ HD
+#EXTGRP:Женские
+https://sc.id-tv.kz/kuhnya_hd_34_35.m3u8
+#EXTINF:tvg-id="hlsproxy-452" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/346.png",Телекафе
+#EXTGRP:Женские
+http://50.7.188.186/Telekafe/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-9" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/342.png",Доктор
+#EXTGRP:Женские
+http://50.7.188.186/24Dok/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-256" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/344.png",ЖИВИ!
+#EXTGRP:Женские
+http://50.7.188.186/Zhivi/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-462" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/347.png",Усадьба
+#EXTGRP:Женские
+http://50.7.188.186/Usadba/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-304" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/373.png",Мама
+#EXTGRP:Женские
+http://50.7.188.186/mama_tv/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-78" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/502.png",FashionTV
+#EXTGRP:Женские
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:tvg-id="hlsproxy-221" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/397.png",Беларусь 5 HD
+#EXTGRP:Белорусь
+http://50.7.188.186/belarus_5/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-446" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/511.png",БЕЛРОС
+#EXTGRP:Белорусь
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:tvg-id="hlsproxy-9230" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/514.png",СТВ БЕЛАРУСЬ
+#EXTGRP:Белорусь
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:tvg-id="hlsproxy-51084" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/515.png",ВИТЕБСК ТВ
+#EXTGRP:Белорусь
+https://flu.vtv.by/tvt-non-by/index.m3u8
+#EXTINF:tvg-id="hlsproxy-206" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/265.png",iConcerts HD
+#EXTGRP:Музыкальные
+http://50.7.188.186/iConcertsHD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-7" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",1HD
+#EXTGRP:Музыкальные
+http://50.7.188.186/1HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-44" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/348.png",Bridge TV HD
+#EXTGRP:Музыкальные
+http://50.7.92.90/Bridge_TV_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-51168" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",ELECTROSOUND TV
+#EXTGRP:Музыкальные
+http://50.7.188.186/ELECTROSOUND_TV/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-109" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/349.png",MCM Top Russia
+#EXTGRP:Музыкальные
+http://50.7.92.90/MCM/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-121" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/350.png",Mezzo
+#EXTGRP:Музыкальные
+http://50.7.92.90/Mezzo_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-1270" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/351.png",MTV 80s
+#EXTGRP:Музыкальные
+http://50.7.92.90/MTV_Dance/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-1271" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/352.png",MTV 90s
+#EXTGRP:Музыкальные
+http://50.7.188.186/MTVRocks/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-115" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/353.png",MTV Hits
+#EXTGRP:Музыкальные
+http://50.7.188.186/MTV_hits/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-116" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/354.png",MTV Live HD
+#EXTGRP:Музыкальные
+http://50.7.92.90/MTV_Live_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-167" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/355.png",MTV Russia
+#EXTGRP:Музыкальные
+http://50.7.92.90/MTV_Russia/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-71" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/356.png",Европа Плюс ТВ
+#EXTGRP:Музыкальные
+http://50.7.188.186/Evropa_Plyus_TV/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-295" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/357.png",Ля-минор ТВ
+#EXTGRP:Музыкальные
+http://50.7.188.186/Lya-minor/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-30002" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/358.jpg",ТНТ MUSIC
+#EXTGRP:Музыкальные
+http://50.7.92.90/TNT_Music/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-471" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/359.png",Шансон ТВ
+#EXTGRP:Музыкальные
+http://50.7.188.186/ShansonTV/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-591" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/360.png",360 TuneBox
+#EXTGRP:Музыкальные
+http://50.7.188.186/360TuneBox/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-620" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/450.png",МОСОБР TV HD
+#EXTGRP:Музыкальные
+http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+#EXTINF:tvg-id="hlsproxy-483" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/455.png",TVMCHANNEL
+#EXTGRP:Музыкальные
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Sky2000 МультSU
+#EXTGRP:Детские
+http://50.7.188.186/Sky1000Mult_SU/mono.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Sky2000 МультRU
+#EXTGRP:Детские
+http://50.7.188.186/Sky1000Mult_RU/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-1006" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/361.png",Ani
+#EXTGRP:Детские
+http://50.7.188.186/ani/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-40" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/362.png",Baby TV
+#EXTGRP:Детские
+http://50.7.188.186/Baby_TV/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-52" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/363.png",Cartoon Network
+#EXTGRP:Детские
+http://50.7.92.90/Cartoon_Network/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-66" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/364.png",Disney
+#EXTGRP:Детские
+http://50.7.188.186/Disney_rus/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-89" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/365.png",Gulli
+#EXTGRP:Детские
+http://50.7.188.186/Gulli/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-102" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/366.png",Jim jam
+#EXTGRP:Детские
+http://50.7.188.186/JimJam/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-135" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/367.png",Nick Jr
+#EXTGRP:Детские
+http://50.7.188.186/NickJR/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-136" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/368.png",Nickelodeon
+#EXTGRP:Детские
+http://50.7.92.90/Nickelodeon/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-178" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/369.png",Tiji TV
+#EXTGRP:Детские
+http://50.7.188.186/TiJi/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-8521" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/370.png",В гостях у сказки
+#EXTGRP:Детские
+http://50.7.188.186/v_gostyax_u_skaski/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-239" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/371.png",Детский мир
+#EXTGRP:Детские
+http://50.7.92.90/Teleklub/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-277" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/372.png",Карусель
+#EXTGRP:Детские
+http://50.7.92.90/Karusel/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-314" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/374.png",Мульт
+#EXTGRP:Детские
+http://50.7.188.186/Mult/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-315" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/375.png",Мультиландия
+#EXTGRP:Детские
+http://50.7.188.186/Multimaniya/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-276" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/447.png",2X2 HD
+#EXTGRP:Детские
+http://livetv.mylifeisgood.ml/mfolive.m3u8?media=2x2
+#EXTINF:tvg-id="hlsproxy-72" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/376.png",Eurosport 1 HD
+#EXTGRP:Спортивные
+http://50.7.92.90/Eurosport_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-8270" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/377.png",Eurosport 2 HD
+#EXTGRP:Спортивные
+http://50.7.92.90/Evrosport_2/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-75" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/378.png",Extreme Sports
+#EXTGRP:Спортивные
+http://50.7.92.90/Extreme_Sports/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-50251" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Fastnfunbox
+#EXTGRP:Спортивные
+http://50.7.188.186/FastFunBoxHD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-50026" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/380.png",FightBox HD
+#EXTGRP:Спортивные
+http://50.7.188.186/FightBoxHD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-100047" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/381.png",Setanta Eurasia HD
+#EXTGRP:Спортивные
+http://50.7.92.90/SetantaEurasia/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-55422" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/382.png",Setanta Sports Ukraine HD
+#EXTGRP:Спортивные
+http://50.7.188.186/Setanta_SportsHD_UA/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-199" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/383.jpg",Viasat Sport
+#EXTGRP:Спортивные
+http://50.7.188.186/Viasat_Sport/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-287" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/384.png",Бокс ТВ
+#EXTGRP:Спортивные
+http://50.7.188.186/Boks_TV/mono.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Удар
+#EXTGRP:Спортивные
+http://50.7.92.90/UFC_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-274" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/385.png",КХЛ HD
+#EXTGRP:Спортивные
+http://50.7.188.186/KHL_TV_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-392" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/386.png",Матч! HD
+#EXTGRP:Спортивные
+http://50.7.188.186/Match_TV_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-420" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/387.png",Матч! Арена HD
+#EXTGRP:Спортивные
+http://50.7.188.186/Match_Arena_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-222" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/388.png",Матч! Боец
+#EXTGRP:Спортивные
+http://50.7.92.90/Match_Boets/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-94" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/389.png",Матч! Игра HD
+#EXTGRP:Спортивные
+http://50.7.92.90/Match_Igra_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-328" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/390.png",Матч! Премьер HD
+#EXTGRP:Спортивные
+http://50.7.92.90/Nash_futbol_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-337" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/391.png",Матч! Футбол 1 HD
+#EXTGRP:Спортивные
+http://50.7.92.90/Match_Futbol_1_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-339" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/392.png",Матч! Футбол 2 HD
+#EXTGRP:Спортивные
+http://50.7.92.90/Match_Futbol_2_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-512" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/393.png",Матч! Футбол 3 HD
+#EXTGRP:Спортивные
+http://50.7.92.90/Match_Futbol_3_HD/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-465" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/394.png",Футбол 1 HD
+#EXTGRP:Спортивные
+http://50.7.188.186/Futbol1HDUA/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-467" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/395.png",Футбол 2 HD
+#EXTGRP:Спортивные
+http://50.7.188.186/Futbol2HDUA/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-100060" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/396.png",Футбол 3 HD
+#EXTGRP:Спортивные
+http://50.7.188.186/Futbol3HDUA/mono.m3u8
+#EXTINF:tvg-id="hlsproxy-20171" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",CAM X30
+#EXTGRP:Камеры
+http://192.168.0.213:7777/333333/video.m3u8
+#EXTINF:tvg-id="hlsproxy-20171" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",CAM X5
+#EXTGRP:Камеры
+http://192.168.0.213:7777/3333/video.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",ГОСТИНКА
+#EXTGRP:Камеры
+http://192.168.0.213:7777/2/video.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",ШЕЛК HD
+#EXTGRP:Взрослые
+http://194.190.78.81:8080/shelk/index.m3u8
+#EXTINF:tvg-id="hlsproxy-396" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/516.png",РУССКАЯ НОЧЬ.
+#EXTGRP:Взрослые
+http://46.174.83.66/Russkaya_Noch/video.m3u8
+#EXTINF:tvg-id="hlsproxy-177" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",TEEN
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",RUSSIAN
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",ROUGH
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:tvg-id="hlsproxy-1330" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/517.png",REDLIGHT HD
+#EXTGRP:Взрослые
+http://109.200.130.123:7032/play/353
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Red Light
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355228
+#EXTINF:tvg-id="hlsproxy-1330" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/572.png",REDLIGHT
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355239
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",POV
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PORNSTAR HD
+#EXTGRP:Взрослые
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:tvg-id="hlsproxy-4136" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PINKOTV
+#EXTGRP:Взрослые
+http://93.152.174.144:4000/play/pinkotv/tracks-v1a1/index.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",OX HD
+#EXTGRP:Взрослые
+https://sc.id-tv.kz:443/FOX_HD_34_35.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",MILF HD
+#EXTGRP:Взрослые
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",LIVE CAMS
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",LESBIAN HD
+#EXTGRP:Взрослые
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:tvg-id="hlsproxy-51652" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",LATINA
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",INTERRACIAL HD
+#EXTGRP:Взрослые
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:tvg-id="hlsproxy-1211" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/518.png",HUSTLER TV
+#EXTGRP:Взрослые
+http://78.83.191.18:8000/play/a078
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Blue Hustler
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355226
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Hustler.
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355227
+#EXTINF:tvg-id="hlsproxy-1212" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/574.png",HUSTLER
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355231
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",HARDCORE
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:tvg-id="hlsproxy-2154" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/573.png",PRIVATE
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355230
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",FETISH HD
+#EXTGRP:Взрослые
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:tvg-id="hlsproxy-50053" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/519.png",EROX
+#EXTGRP:Взрослые
+http://94.229.250.73:8008/play/a002
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",CUCKOLD HD
+#EXTGRP:Взрослые
+http://live.redtraffic.xyz/cuckold.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",COMPILATION
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",BLOWJOB
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",BLONDE
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",BIGASS HD
+#EXTGRP:Взрослые
+http://live.redtraffic.xyz/bigass.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",BIG TITS
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",BIG DICK
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",BIG ASS
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",XXL.
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355222
+#EXTINF:tvg-id="hlsproxy-54682" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",ADULT
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355211
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",JAPANHDV
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355207
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",ERO-X
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355203
+#EXTINF:tvg-id="hlsproxy-1036" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",BABESTATION
+#EXTGRP:Взрослые
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",ANAL
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:tvg-id="hlsproxy-54985" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/520.png",VIVID RED HD
+#EXTGRP:Взрослые
+http://109.200.130.123:7032/play/a00g
+#EXTINF:tvg-id="hlsproxy-100361" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PinkErotic 1
+#EXTGRP:Взрослые
+http://54.36.123.36:8080/PinkErotic1/index.m3u8
+#EXTINF:tvg-id="hlsproxy-100362" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PinkErotic 2
+#EXTGRP:Взрослые
+http://54.36.123.36:8080/PinkErotic2/index.m3u8
+#EXTINF:tvg-id="hlsproxy-100363" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PinkErotic 3
+#EXTGRP:Взрослые
+http://54.36.123.36:8080/PinkErotic3/index.m3u8
+#EXTINF:tvg-id="hlsproxy-100364" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PinkErotic 4
+#EXTGRP:Взрослые
+http://54.36.123.36:8080/PinkErotic4/index.m3u8
+#EXTINF:tvg-id="hlsproxy-100365" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PinkErotic 5
+#EXTGRP:Взрослые
+http://54.36.123.36:8080/PinkErotic5/index.m3u8
+#EXTINF:tvg-id="hlsproxy-100366" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PinkErotic 6
+#EXTGRP:Взрослые
+http://54.36.123.36:8080/PinkErotic6/index.m3u8
+#EXTINF:tvg-id="hlsproxy-100367" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PinkErotic 7
+#EXTGRP:Взрослые
+http://54.36.123.36:8080/PinkErotic7/index.m3u8
+#EXTINF:tvg-id="hlsproxy-100368" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PinkErotic 8
+#EXTGRP:Взрослые
+http://54.36.123.36:8080/PinkErotic8/index.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",EROTIC 3
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355217
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",EROTIC 5
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355215
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",EROTIC 6
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355214
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",EROTIC 7
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355213
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",EROTIC 8
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355212
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Dorcel..
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355229
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",DORCEL.
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355205
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",DUSK
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355204
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Vivid Red.
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355224
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Vivid Touch
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355223
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",VIVIRED
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355240
+#EXTINF:tvg-id="hlsproxy-1300" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PENTHOUSE
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355237
+#EXTINF:tvg-id="hlsproxy-50053" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/638.png",EROX.
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201052
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PASSIEXXX
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355197
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PASSIONXXX
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355196
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PENTHOUSE QUICKIES
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355195
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PENTHOUSE GOLD.
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355194
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PRIVATE.
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355191
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PlayBoy TV
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355190
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",SCT
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355189
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",VIVID RED..
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355187
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",XXL..
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355185
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",EXTASY
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355184
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",XY plus.
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355183
+#EXTINF:tvg-id="hlsproxy-53216" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/575.png",DUSK!
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201041
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",PLUS
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355221
+#EXTINF:tvg-id="hlsproxy-201" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/582.png",XXL
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201039
+#EXTINF:tvg-id="hlsproxy-100471" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",XY MIX
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201044
+#EXTINF:tvg-id="hlsproxy-100470" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",XY MAX
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201045
+#EXTINF:tvg-id="hlsproxy-100472" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",XY PLUS
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201046
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",HOT TV
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201032
+#EXTINF:tvg-id="hlsproxy-6142" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",VENUS TV
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201031
+#EXTINF:tvg-id="hlsproxy-9200" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",SEXTREME TV
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201030
+#EXTINF:tvg-id="hlsproxy-9201" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",SEXY HOT
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201029
+#EXTINF:tvg-id="hlsproxy-53212" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/585.png",EVIL ANGEL
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201027
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",18+ ExtasY 4K
+#EXTGRP:Взрослые
+http://213.81.133.133:8080/extasy4k/index.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",18+ Threesone HD
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",18+ Pornstar HD
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",18+ Cuckold HD
+#EXTGRP:Взрослые
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",18+ Russian HD.
+#EXTGRP:Взрослые
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:tvg-id="hlsproxy-100536" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",MEIDEN VAN HOLLAND HARD
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201028
+#EXTINF:tvg-id="hlsproxy-20754" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",REALITY KINGS TV
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201036
+#EXTINF:tvg-id="hlsproxy-2148" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/583.png",PASSION
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201037
+#EXTINF:tvg-id="hlsproxy-54372" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/581.png",VIVID TV EUROPE
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201043
+#EXTINF:tvg-id="hlsproxy-50053" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/650.png",EROX..
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201051
+#EXTINF:tvg-id="hlsproxy-3090" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/579.png",DORCEL
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201055
+#EXTINF:tvg-id="hlsproxy-54985" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/580.png",VIVID RED
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201053
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Extasy.
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355209
+#EXTINF:tvg-id="hlsproxy-2154" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/578.png",PRIVATE TV
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201056
+#EXTINF:tvg-id="hlsproxy-1298" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/577.png",PENTHOUSE GOLD
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201050
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Bizzare Live
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355182
+#EXTINF:tvg-id="hlsproxy-1211" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/639.png",HUSTLER TV.
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201040
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",HUSTLER..
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355199
+#EXTINF:tvg-id="hlsproxy-3031" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/576.png",BRAZZERS TV EUROPE
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201034
+#EXTINF:tvg-id="hlsproxy-6011" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/584.png",BRAZZERS TV
+#EXTGRP:Взрослые
+http://myf-tv.com:8080/o6rMqaN9zcVUaqs/gUb33uAh9gkd620/201035
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",BRAZZERS TV EUROPE.
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355206
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Bunga Bunga
+#EXTGRP:Взрослые
+http://queen-tv.co:8000/capezzano/SYdJBIG9jB/355181
