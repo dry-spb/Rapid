@@ -1,0 +1,149 @@
+#EXTM3U
+#EXTINF:-1 ,2x2
+http://flu.ttk.mx:9090/2x2/index.m3u8?token=orh6o
+#EXTINF:-1 ,360° HD
+http://flu.ttk.mx:9090/360_HD/index.m3u8?token=orh6o
+#EXTINF:-1 ,5 канал
+http://flu.ttk.mx:9090/5kanal/index.m3u8?token=orh6o
+#EXTINF:-1 ,Ani
+http://flu.ttk.mx:9090/Ani/index.m3u8?token=orh6o
+#EXTINF:-1 ,Авто 24
+http://flu.ttk.mx:9090/Avto24/index.m3u8?token=orh6o
+#EXTINF:-1 ,Бобер
+http://flu.ttk.mx:9090/Bober/index.m3u8?token=orh6o
+#EXTINF:-1 ,Матч! Боец
+http://flu.ttk.mx:9090/Boets/index.m3u8?token=orh6o
+#EXTINF:-1 ,Cinema
+http://flu.ttk.mx:9090/Cinema/index.m3u8?token=orh6o
+#EXTINF:-1 ,Da Vinci
+http://flu.ttk.mx:9090/DaVinci/index.m3u8?token=orh6o
+#EXTINF:-1 ,Уникум
+http://flu.ttk.mx:9090/Detskiy/index.m3u8?token=orh6o
+#EXTINF:-1 ,Disney
+http://flu.ttk.mx:9090/Disney/index.m3u8?token=orh6o
+#EXTINF:-1 ,Дом кино
+http://flu.ttk.mx:9090/Dom_kino/index.m3u8?token=orh6o
+#EXTINF:-1 ,Домашние животные
+http://flu.ttk.mx:9090/domashnie_zhivotnye/index.m3u8?token=orh6o
+#EXTINF:-1 ,Москва доверие
+http://flu.ttk.mx:9090/Doverie/index.m3u8?token=orh6o
+#EXTINF:-1 ,Драйв
+http://flu.ttk.mx:9090/Drive/index.m3u8?token=orh6o
+#EXTINF:-1 ,Еврокино
+http://flu.ttk.mx:9090/Evrokino/index.m3u8?token=orh6o
+#EXTINF:-1 ,Телеканал Футбол
+http://flu.ttk.mx:9090/Futbol/index.m3u8?token=orh6o
+#EXTINF:-1 ,Galaxy
+http://flu.ttk.mx:9090/Galaxy/index.m3u8?token=orh6o
+#EXTINF:-1 ,Иллюзион+
+http://flu.ttk.mx:9090/Illuzion+/index.m3u8?token=orh6o
+#EXTINF:-1 ,Карусель
+http://flu.ttk.mx:9090/Karusel/index.m3u8?token=orh6o
+#EXTINF:-1 ,Кинохит
+http://flu.ttk.mx:9090/kinohit/index.m3u8?token=orh6o
+#EXTINF:-1 ,Кинопоказ
+http://flu.ttk.mx:9090/kinopokaz/index.m3u8?token=orh6o
+#EXTINF:-1 ,Кинопремьера HD
+http://flu.ttk.mx:9090/Kinopremiera/index.m3u8?token=orh6o
+#EXTINF:-1 ,Киносвидание
+http://flu.ttk.mx:9090/Kinosvidanie/index.m3u8?token=orh6o
+#EXTINF:-1 ,Комедия
+http://flu.ttk.mx:9090/Komediya/index.m3u8?token=orh6o
+#EXTINF:-1 ,Мама
+http://flu.ttk.mx:9090/Mama/index.m3u8?token=orh6o
+#EXTINF:-1 ,Матч! HD
+http://flu.ttk.mx:9090/Match_HD/index.m3u8?token=orh6o
+#EXTINF:-1 ,Матч! ТВ
+http://flu.ttk.mx:9090/MatchTV/index.m3u8?token=orh6o
+#EXTINF:-1 ,Мосфильм. Золотая коллекция
+http://flu.ttk.mx:9090/Mosfilm/index.m3u8?token=orh6o
+#EXTINF:-1 ,Мульт
+http://flu.ttk.mx:9090/Mult/index.m3u8?token=orh6o
+#EXTINF:-1 ,Музыка первого
+http://flu.ttk.mx:9090/Muzyka_pervogo/index.m3u8?token=orh6o
+#EXTINF:-1 ,Наука
+http://flu.ttk.mx:9090/Nauka/index.m3u8?token=orh6o
+#EXTINF:-1 ,НТВ
+http://flu.ttk.mx:9090/NTV/index.m3u8?token=orh6o
+#EXTINF:-1 ,НТВ HD
+http://flu.ttk.mx:9090/NTV_HD/index.m3u8?token=orh6o
+#EXTINF:-1 ,О!
+http://flu.ttk.mx:9090/O!/index.m3u8?token=orh6o
+#EXTINF:-1 ,O2TV
+http://flu.ttk.mx:9090/O2TV/index.m3u8?token=orh6o
+#EXTINF:-1 ,Охота и рыбалка
+http://flu.ttk.mx:9090/Ohota_i_rybalka/index.m3u8?token=orh6o
+#EXTINF:-1 ,ОТР
+http://flu.ttk.mx:9090/OTR/index.m3u8?token=orh6o
+#EXTINF:-1 ,Победа
+http://flu.ttk.mx:9090/Pobeda/index.m3u8?token=orh6o
+#EXTINF:-1 ,Поехали!
+http://flu.ttk.mx:9090/Poehali/index.m3u8?token=orh6o
+#EXTINF:-1 ,Психология 21
+http://flu.ttk.mx:9090/Psihologiya21/index.m3u8?token=orh6o
+#EXTINF:-1 ,Пятница
+http://flu.ttk.mx:9090/Pyatnica/index.m3u8?token=orh6o
+#EXTINF:-1 ,Ратник HD
+http://flu.ttk.mx:9090/Ratnik/index.m3u8?token=orh6o
+#EXTINF:-1 ,РЕН ТВ
+http://flu.ttk.mx:9090/REN_TV/index.m3u8?token=orh6o
+#EXTINF:-1 ,Ретро
+http://flu.ttk.mx:9090/Retro/index.m3u8?token=orh6o
+#EXTINF:-1 ,Россия 24
+http://flu.ttk.mx:9090/Rossiya24/index.m3u8?token=orh6o
+#EXTINF:-1 ,Россия 1
+http://flu.ttk.mx:9090/Russia-1/index.m3u8?token=orh6o
+#EXTINF:-1 ,Шансон ТВ
+http://flu.ttk.mx:9090/Shanson/index.m3u8?token=orh6o
+#EXTINF:-1 ,Матч! Страна
+http://flu.ttk.mx:9090/Strana/index.m3u8?token=orh6o
+#EXTINF:-1 ,СТС
+http://flu.ttk.mx:9090/STS/index.m3u8?token=orh6o
+#EXTINF:-1 ,СТС Love
+http://flu.ttk.mx:9090/STS_Love/index.m3u8?token=orh6o
+#EXTINF:-1 ,Супер
+http://flu.ttk.mx:9090/Super/index.m3u8?token=orh6o
+#EXTINF:-1 ,Театр
+http://flu.ttk.mx:9090/Teatr/index.m3u8?token=orh6o
+#EXTINF:-1 ,Телекафе
+http://flu.ttk.mx:9090/Telekafe/index.m3u8?token=orh6o
+#EXTINF:-1 ,Мульт HD
+http://flu.ttk.mx:9090/Tlum_HD/index.m3u8?token=orh6o
+#EXTINF:-1 ,Тномер
+http://flu.ttk.mx:9090/Tnomer/index.m3u8?token=orh6o
+#EXTINF:-1 ,ТНТ
+http://flu.ttk.mx:9090/TNT/index.m3u8?token=orh6o
+#EXTINF:-1 ,ТНТ HD
+http://flu.ttk.mx:9090/TNT_HD/index.m3u8?token=orh6o
+#EXTINF:-1 ,ТНТ4
+http://flu.ttk.mx:9090/TNT4/index.m3u8?token=orh6o
+#EXTINF:-1 ,Точка отрыва
+http://flu.ttk.mx:9090/tochka_otryva/index.m3u8?token=orh6o
+#EXTINF:-1 ,ТВ3
+http://flu.ttk.mx:9090/TV_3/index.m3u8?token=orh6o
+#EXTINF:-1 ,TV1000
+http://flu.ttk.mx:9090/TV1000/index.m3u8?token=orh6o
+#EXTINF:-1 ,TV1000 Action
+http://flu.ttk.mx:9090/TV1000_Action/index.m3u8?token=orh6o
+#EXTINF:-1 ,TV XXI
+http://flu.ttk.mx:9090/TV21/index.m3u8?token=orh6o
+#EXTINF:-1 ,ТВЦ
+http://flu.ttk.mx:9090/TVC/index.m3u8?token=orh6o
+#EXTINF:-1 ,Ю
+http://flu.ttk.mx:9090/U/index.m3u8?token=orh6o
+#EXTINF:-1 ,Усадьба
+http://flu.ttk.mx:9090/Usadba/index.m3u8?token=orh6o
+#EXTINF:-1 ,Viasat History
+http://flu.ttk.mx:9090/Viasat_History/index.m3u8?token=orh6o
+#EXTINF:-1 ,Viasat Sport
+http://flu.ttk.mx:9090/Viasat_Sport/index.m3u8?token=orh6o
+#EXTINF:-1 ,Время
+http://flu.ttk.mx:9090/Vremya/index.m3u8?token=orh6o
+#EXTINF:-1 ,Загородная жизнь
+http://flu.ttk.mx:9090/zagorodnaya_zhizn/index.m3u8?token=orh6o
+#EXTINF:-1 ,Живая природа HD
+http://flu.ttk.mx:9090/Zhivaya_Priroda_HD/index.m3u8?token=orh6o
+#EXTINF:-1 ,Зоопарк
+http://flu.ttk.mx:9090/Zoopark/index.m3u8?token=orh6o
+#EXTINF:-1 ,Звезда
+http://flu.ttk.mx:9090/Zvezda/index.m3u8?token=orh6o

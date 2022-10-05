@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 ,2x2
+https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://www.vsetv.com/pic/channel_logos/1302.gif",Суббота HD
+https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
+#EXTINF:-1 ,ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:-1 ,ТВ3 HD
+https://bl.uma.media/live/407373/HLS/407373_7/1/1/playlist.m3u8
+#EXTINF:-1 ,Пятница HD
+https://bl.uma.media/live/410336/HLS/410336_7/1/1/playlist.m3u8
+#EXTINF:-1 ,ТНТ HD
+https://bl.uma.media/live/410338/HLS/410338_7/1/1/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/1013.png",VIP Premiere HD
+https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/1012.png",VIP Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/1011.png",VIP Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1  tvg-logo="http://epg.it999.ru/img/2838.png",VIP Serial HD
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,TV 1000 Action HD
+https://bl.uma.media/live/485541/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,TV 1000 HD
+https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,TV 1000 Русское кино HD
+https://bl.uma.media/live/485543/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,Viasat History HD
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,Viasat Nature HD
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,Viasat Explore HD
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,ТНТ Music HD
+https://bl.uma.media/live/619345/HLS/619345_3/1/1/playlist.m3u8

@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 ,360 Новости
+http://hls.peers.tv/streaming/360_novosti/126/vh1w/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,49 КАНАЛ
+http://hls.peers.tv/streaming/49kanal/16/g2500/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,7 tv
+http://hls.peers.tv/streaming/7_tv/16/copy/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Atameken Business Channel
+http://hls.peers.tv/streaming/atameken/126/copy/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Диалоги о рыбалке
+http://hls.peers.tv/streaming/dialogi_o_rybalke/16/vh1w/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,1HD
+http://hls.peers.tv/streaming/firstmuz/16/h1080/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Пятница
+http://hls.peers.tv/streaming/friday/16/g2500/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Футбольный
+http://hls.peers.tv/streaming/futbolnyy/16/copy/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Кузбасс 1
+http://hls.peers.tv/streaming/gtrk_kuzbass/16/copy_a/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Хоккейный
+http://hls.peers.tv/streaming/hokkeynyy/16/copy/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Надежда
+http://hls.peers.tv/streaming/hopetv/126/copy/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,КРИК-ТВ
+http://hls.peers.tv/streaming/krik_tv/16/vh1w/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,ЛДПР ТВ
+http://hls.peers.tv/streaming/ldpr_tv/16/tvrecw/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Москва 24
+http://hls.peers.tv/streaming/moskva_24/126/tvrecw/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Мультимания
+http://hls.peers.tv/streaming/multimania/126/vh1w/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Russian MusicBox
+http://hls.peers.tv/streaming/musboxru/16/vh1w/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Новое телевидение
+http://hls.peers.tv/streaming/novoe_televidenie/318/copy/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,ОТС HD
+http://hls.peers.tv/streaming/ots/16/variable.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,ОТР
+http://hls.peers.tv/streaming/otvrus/16/vh1w/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Красная линия
+http://hls.peers.tv/streaming/red_line/126/copy/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Russia Today Doc
+http://hls.peers.tv/streaming/russia_today_doc/126/w540/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Russia Today
+http://hls.peers.tv/streaming/russiatoday/16/copy/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Shopping Live
+http://hls.peers.tv/streaming/shopping_live/16/tvrecw/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Смайлик ТВ
+http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Сочи 24
+http://hls.peers.tv/streaming/sochi24/16/tvrecw/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,SOCHI LIVE
+http://hls.peers.tv/streaming/sochilive/16/tvrecw/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,SONGTV Armenia
+http://hls.peers.tv/streaming/songtv_armenia/126/copy/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,SONGTV Russia
+http://hls.peers.tv/streaming/songtv_russia/126/copy/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Матч ТВ
+http://hls.peers.tv/streaming/sport/16/vh1w/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Светлое ТВ
+http://hls.peers.tv/streaming/svetloe_tv/16/tvrec/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Восток ТВ
+http://hls.peers.tv/streaming/tmb_ru/16/vh1/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,ТНТ4
+http://hls.peers.tv/streaming/tnt4/16/vh1w/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Peers.TV/6.27.0 Android/7.1.2 tablet/samsung samsung.samsung/universal8890.greatlte.arm
+http://hls.peers.tv/streaming/tvci/126/vh1w/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,ВМЕСТЕ-РФ
+http://hls.peers.tv/streaming/vmeste_rf/126/tvrecw/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,8 канал
+http://hls.peers.tv/streaming/ya1pm/16/copy_a/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97
+#EXTINF:-1 ,Звезда
+http://hls.peers.tv/streaming/zvezda/16/gvh1w/playlist.m3u8?token=f63a5b54a83b4901974ea44c70f1078c&client=97

@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 ,Fentazy
+http://v2.catcast.tv/content/38144/index.m3u8
+#EXTINF:-1  tvg-logo="https://a21network.ru/wp-content/uploads/2022/02/a21_live.jpg",A21 Network
+https://autopilot.catcast.tv/content/37909/index.m3u8
+#EXTINF:-1 ,Детское кино International
+https://autopilot.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1 ,Мульт
+https://autopilot.catcast.tv/content/38850/index.m3u8
+#EXTINF:-1  tvg-logo="https://img.catcast.tv/uploads/07022021/banners/39005-60201aeea4e59.jpg",КИНОКЛУБ
+https://autopilot.catcast.tv/content/39005/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/xCBBbkm/SGN-05-14-2022-1652513200593.png",Armenius TV
+https://autopilot.catcast.tv/content/40504/index.m3u8
+#EXTINF:-1 ,Eurodance 90 Live
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1 ,High TV Network Russia
+https://v2.catcast.tv/content/270/index.m3u8
+#EXTINF:-1  tvg-logo="https://img.catcast.tv/uploads/11092020/banners/37925-5f5ba6091be23.png",Видеокассета
+https://v2.catcast.tv/content/37925/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/QKjQf2h/SGN-12-12-2021-1639334452666.png",Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/44xB7LS/SGN-03-27-2022-1648390005995.png",IPTVPLAY ФАНТАСТИКА
+https://v2.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/3RZMf64/SGN-03-14-2022-1647205197494.png",IPTVPLAY ПАМЯТЬ
+https://v2.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2Wm9Y4C/SGN-03-27-2022-1648390945033.png",IPTVPLAY МультСказки
+https://v2.catcast.tv/content/38850/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/pK8jMRJ/SGN-03-27-2022-1648390522144.png",IPTVPLAY УЖАСТИК
+https://v2.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1 ,Кино 18+ International
+https://v2.catcast.tv/content/40381/index.m3u8

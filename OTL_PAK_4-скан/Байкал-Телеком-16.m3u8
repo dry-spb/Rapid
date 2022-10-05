@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 ,2x2 +4
+http://194.143.148.28:8080/2x2/mpegts
+#EXTINF:-1 ,ЧЕ +4
+http://194.143.148.28:8080/CHE/mpegts
+#EXTINF:-1 ,СТС Love
+http://194.143.148.28:8080/CTCLove/mpegts
+#EXTINF:-1 ,Известия HD
+http://194.143.148.28:8080/Izvestiya/mpegts
+#EXTINF:-1 ,Матч! Арена
+http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1 ,Матч ТВ HD
+http://194.143.148.28:8080/MatchHD/mpegts
+#EXTINF:-1 ,Студия Радио MCM - Иркутск HD
+http://194.143.148.28:8080/MCM/mpegts
+#EXTINF:-1 ,НТВ Хит
+http://194.143.148.28:8080/NTVHit/mpegts
+#EXTINF:-1 ,RT Doc
+http://194.143.148.28:8080/RTD_HD/mpegts
+#EXTINF:-1 ,RU.TV
+http://194.143.148.28:8080/RUTV/mpegts
+#EXTINF:-1 ,Суббота
+http://194.143.148.28:8080/Subbota/mpegts
+#EXTINF:-1 ,TDK
+http://194.143.148.28:8080/TDK/mpegts
+#EXTINF:-1 ,ТНТ4 +4
+http://194.143.148.28:8080/TNT4/mpegts
+#EXTINF:-1 ,TV 1000 Русское кино
+http://194.143.148.28:8080/TV1000RuKino/mpegts
+#EXTINF:-1  tvg-logo="https://assets.iptv2022.com/static/channel/10435/logo_128_1652790001.png",ТИВИСИ (Иркутск)
+http://194.143.148.28:8080/TVC/mpegts
+#EXTINF:-1 ,Viasat Sport HD
+http://194.143.148.28:8080/Viasat_Sport/mpegts
