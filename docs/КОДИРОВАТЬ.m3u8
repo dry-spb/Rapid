@@ -1,7 +1,5 @@
 #EXTM3U
-#EXTINF:0,500. World Fashion Channel KODER
-#EXTINF:-1 group-title="1",World Fashion Channel KODER
+#EXTINF:-1 group-title="1",World Fashion Channel
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/9287/index.m3u8
-#EXTINF:0,501. TLC HD  TRANCK
-#EXTINF:-1 group-title="1",TLC HD  TRANCK
+#EXTINF:-1 group-title="1",TLC HD
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/9024/index.m3u8
