@@ -33,6 +33,8 @@ http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/18039/index.m3u8
 #EXTGRP:Информационные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/2008/index.m3u8
 #EXTINF:1 group-title="1",Мир 24 HD
+#EXTINF:-1 group-title="Информационные" tvg-logo="https://epg.openboxfan.com/picon/лентв24.png",ЛЕН ТВ 24
+https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTGRP:Информационные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/2107/index.m3u8
 #EXTINF:tvg-rec="7",Санкт-Петербург
