@@ -26,7 +26,7 @@ http://192.168.0.112:6878/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bf
 #EXTINF:-1,TLC HD
 #EXTGRP:Познавательные
 http://192.168.0.112:6878/ace/getstream?id=69d6ccc2b88cc2259952b0af863d292c611277d1
-#EXTINF:-1,TLC HD-2
+#EXTINF:-1,TLC HD
 #EXTGRP:Познавательные
 http://192.168.0.112:6878/ace/getstream?id=69d6ccc2b88cc2259952b0af863d292c611277d1
 #EXTINF:-1,TLC HD
