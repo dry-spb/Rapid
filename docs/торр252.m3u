@@ -1,766 +1,766 @@
 #EXTM3U url-tvg="http://194.39.101.249:38050/epg.xml.gz"
 #EXTINF:-1,Дождь
 #EXTGRP:Информационные
-http://192.168.0.112:6878/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4&.mp4
+/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4&.mp4
 #EXTINF:-1,Пятница HD
 #EXTGRP:Эфирные
-http://192.168.0.112:6878/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce&.mp4
+/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce&.mp4
 #EXTINF:-1,Домашний HD
 #EXTGRP:Эфирные
-http://192.168.0.112:6878/ace/getstream?id=66e2f44bd0a7687a61f5cc4f03bcfc20a505057c&.mp4
+/ace/getstream?id=66e2f44bd0a7687a61f5cc4f03bcfc20a505057c&.mp4
 #EXTINF:-1,Rtl 4K
 #EXTGRP:Эфирные
-http://192.168.0.112:6878/ace/getstream?id=45ed51e89ea0bd4d2ced6640a5ef4b3524a07744&.mp4
+/ace/getstream?id=45ed51e89ea0bd4d2ced6640a5ef4b3524a07744&.mp4
 #EXTINF:-1,Discovery Science HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
+/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227&.mp4
 #EXTINF:-1,Discovery HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4
+/ace/getstream?id=09f099db0453cf7517e133533aadfd5136eca771&.mp4
 #EXTINF:-1,DTX HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=b2c8dfc5ec5fdfb098ae4285335ee465f0b63885&.mp4
+/ace/getstream?id=b2c8dfc5ec5fdfb098ae4285335ee465f0b63885&.mp4
 #EXTINF:-1,H2 HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee&.mp4
+/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee&.mp4
 #EXTINF:-1,TLC hd
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=2cb12664f34498c6ea6b23d646faf9fd934c6db4&.mp4
+/ace/getstream?id=2cb12664f34498c6ea6b23d646faf9fd934c6db4&.mp4
 #EXTINF:-1,TLC HD-1
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=69d6ccc2b88cc2259952b0af863d292c611277d1&.mp4
+/ace/getstream?id=69d6ccc2b88cc2259952b0af863d292c611277d1&.mp4
 #EXTINF:-1,TLC HD-2
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=69d6ccc2b88cc2259952b0af863d292c611277d1&.mp4
+/ace/getstream?id=69d6ccc2b88cc2259952b0af863d292c611277d1&.mp4
 #EXTINF:-1,TLC HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=2cb12664f34498c6ea6b23d646faf9fd934c6db4&.mp4
+/ace/getstream?id=2cb12664f34498c6ea6b23d646faf9fd934c6db4&.mp4
 #EXTINF:-1,History HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63&.mp4
+/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63&.mp4
 #EXTINF:-1,Nat Geo Wild HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a&.mp4
+/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a&.mp4
 #EXTINF:-1,Viasat Explore HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=192ca66e1e39bec710e286780c49bcc432258636&.mp4
+/ace/getstream?id=192ca66e1e39bec710e286780c49bcc432258636&.mp4
 #EXTINF:-1,Viasat History HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab&.mp4
+/ace/getstream?id=05a4d3a925f74cd093dfe2313617a97d1b74c6ab&.mp4
 #EXTINF:-1,Viasat Nature HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda&.mp4
+/ace/getstream?id=2128074a1ebba9d320b148d25001b356f1057dda&.mp4
 #EXTINF:-1,Viasat Nature/History HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
+/ace/getstream?id=0d59f0292f9e5569f4dff50ac4c3c89913b32a7a&.mp4
 #EXTINF:-1,Наука 2.0
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=07b0f15c3571584ecee786e2b05bec75a6b4485b&.mp4
+/ace/getstream?id=07b0f15c3571584ecee786e2b05bec75a6b4485b&.mp4
 #EXTINF:-1,Совершенно Секретно
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=e01cca4c9eed9644507650b6e0bdfcd8ce28acb5&.mp4
+/ace/getstream?id=e01cca4c9eed9644507650b6e0bdfcd8ce28acb5&.mp4
 #EXTINF:-1,START World HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
+/ace/getstream?infohash=568159b1059c7bbe3eaf40f123541fef86ef83cb
 #EXTINF:-1,SKY Bundesliga UHD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
+/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390&.mp4
 #EXTINF:-1,Travel Channel HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2&.mp4
+/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2&.mp4
 #EXTINF:-1,Travel+Adventure HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9&.mp4
+/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9&.mp4
 #EXTINF:-1,В мире животных HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c&.mp4
+/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c&.mp4
 #EXTINF:-1,UFC HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
+/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64&.mp4
 #EXTINF:-1,UHD1 4K
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
+/ace/getstream?id=70a2ac1aaff849c5e93dffd709cfb8637384c8b2&.mp4
 #EXTINF:-1,HD Life
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=74a1634a8fe44e5058c865d4de63cde90b14f107&.mp4
+/ace/getstream?id=74a1634a8fe44e5058c865d4de63cde90b14f107&.mp4
 #EXTINF:-1,Da Vinci
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&.mp4
+/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14&.mp4
 #EXTINF:-1,Живая планета
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549&.mp4
+/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549&.mp4
 #EXTINF:-1,Мир Вокруг HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613&.mp4
+/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613&.mp4
 #EXTINF:-1,Нано ТВ
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=f57378901dec9cb1d110f3893f355becb6cae39d&.mp4
+/ace/getstream?id=f57378901dec9cb1d110f3893f355becb6cae39d&.mp4
 #EXTINF:-1,Наша сибирь 4K
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&.mp4
+/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6&.mp4
 #EXTINF:-1,Ностальгия
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=4308d30a3e8a7bc83e1f081f565371120c3fb6b3&.mp4
+/ace/getstream?id=4308d30a3e8a7bc83e1f081f565371120c3fb6b3&.mp4
 #EXTINF:-1,Первый космический HD
 #EXTGRP:Познавательные
-http://192.168.0.112:6878/ace/getstream?id=65707378011c08c27dca1f0162d545f369756c5f&.mp4
+/ace/getstream?id=65707378011c08c27dca1f0162d545f369756c5f&.mp4
 #EXTINF:-1,ProSiebenSat.1 4k
 #EXTGRP:Развлекательные
-http://192.168.0.112:6878/ace/getstream?id=ccb9a364ff4947157deb5e455d2ae5d49266d07a&.mp4
+/ace/getstream?id=ccb9a364ff4947157deb5e455d2ae5d49266d07a&.mp4
 #EXTINF:-1,Кто есть кто
 #EXTGRP:Развлекательные
-http://192.168.0.112:6878/ace/getstream?id=16201468d380dafc1921287db09289dc83d688c0&.mp4
+/ace/getstream?id=16201468d380dafc1921287db09289dc83d688c0&.mp4
 #EXTINF:-1,О!
 #EXTGRP:Развлекательные
-http://192.168.0.112:6878/ace/getstream?id=f629f91eaeee18118080c0211516469495af04f2&.mp4
+/ace/getstream?id=f629f91eaeee18118080c0211516469495af04f2&.mp4
 #EXTINF:-1,СТС HD
 #EXTGRP:Развлекательные
-http://192.168.0.112:6878/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7&.mp4
+/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7&.mp4
 #EXTINF:-1,СТС Kids HD
 #EXTGRP:Развлекательные
-http://192.168.0.112:6878/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
+/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb&.mp4
 #EXTINF:-1,СТС Love
 #EXTGRP:Развлекательные
-http://192.168.0.112:6878/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&.mp4
+/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d&.mp4
 #EXTINF:-1,Суббота! HD
 #EXTGRP:Развлекательные
-http://192.168.0.112:6878/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&.mp4
+/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69&.mp4
 #EXTINF:-1,Тl HD
 #EXTGRP:Развлекательные
-http://192.168.0.112:6878/ace/getstream?id=2b188a53b3495bca2bb99dcfdbe2eb6d19729d0b&.mp4
+/ace/getstream?id=2b188a53b3495bca2bb99dcfdbe2eb6d19729d0b&.mp4
 #EXTINF:-1,ТВ XXI
 #EXTGRP:Развлекательные
-http://192.168.0.112:6878/ace/getstream?id=6af72b6047bed580ad57c036ce635dd93233abb6&.mp4
+/ace/getstream?id=6af72b6047bed580ad57c036ce635dd93233abb6&.mp4
 #EXTINF:-1,ТНТ HD
 #EXTGRP:Развлекательные
-http://192.168.0.112:6878/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b&.mp4
+/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b&.mp4
 #EXTINF:-1,ТНТ4 HD
 #EXTGRP:Развлекательные
-http://192.168.0.112:6878/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
+/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845&.mp4
 #EXTINF:-1,Точка отрыва
 #EXTGRP:Развлекательные
-http://192.168.0.112:6878/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2&.mp4
+/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2&.mp4
 #EXTINF:-1,Дорама HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd&.mp4
+/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd&.mp4
 #EXTINF:-1,Блокбастер HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=6019512392cd7316a5362e275966779bf9011fee&.mp4
+/ace/getstream?id=6019512392cd7316a5362e275966779bf9011fee&.mp4
 #EXTINF:-1,VIP Serial HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076&.mp4
+/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076&.mp4
 #EXTINF:-1,VIP Premiere HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5&.mp4
+/ace/getstream?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5&.mp4
 #EXTINF:-1,VIP Megahit HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c8&.mp4
+/ace/getstream?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c8&.mp4
 #EXTINF:-1,VIP Comedy HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=8c7b8be6682d84e033352724243719378c3e1540&.mp4
+/ace/getstream?id=8c7b8be6682d84e033352724243719378c3e1540&.mp4
 #EXTINF:-1,Ultra HD Cinema
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&.mp4
+/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8&.mp4
 #EXTINF:-1,Amedia 1 HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=5b1f4a0fb8abc134de4692179b55e4008f0e5e82&.mp4
+/ace/getstream?id=5b1f4a0fb8abc134de4692179b55e4008f0e5e82&.mp4
 #EXTINF:-1,Amedia 2 HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac&.mp4
+/ace/getstream?id=bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac&.mp4
 #EXTINF:-1,Amedia Hit HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8&.mp4
+/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8&.mp4
 #EXTINF:-1,Amedia premium HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2&.mp4
+/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2&.mp4
 #EXTINF:-1,BCU Action HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d&.mp4
+/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d&.mp4
 #EXTINF:-1,BCU Catastrophe HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=07d24566226c5851b9c3a3235e3451854d6baeac&.mp4
+/ace/getstream?id=07d24566226c5851b9c3a3235e3451854d6baeac&.mp4
 #EXTINF:-1,BCU Cinema HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=ed699504c5010cab9046530306960e998a92f5e6&.mp4
+/ace/getstream?id=ed699504c5010cab9046530306960e998a92f5e6&.mp4
 #EXTINF:-1,BCU Cinema+ HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=4d6232def7e751c47eb44a017021055e8362b54a&.mp4
+/ace/getstream?id=4d6232def7e751c47eb44a017021055e8362b54a&.mp4
 #EXTINF:-1,BCU Comedy HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=5c878afe25deb6a7f1cfe198df39d5a073af4134&.mp4
+/ace/getstream?id=5c878afe25deb6a7f1cfe198df39d5a073af4134&.mp4
 #EXTINF:-1,BCU Cosmo HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5&.mp4
+/ace/getstream?id=41e81ad4d12bf52b23e58c4c3fda62bc8ba1bbb5&.mp4
 #EXTINF:-1,BCU Criminal HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=ddb42884acd341255390cda62387b5a42d8c2180&.mp4
+/ace/getstream?id=ddb42884acd341255390cda62387b5a42d8c2180&.mp4
 #EXTINF:-1,BCU Fantastic HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac&.mp4
+/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac&.mp4
 #EXTINF:-1,BCU Filmystic HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04&.mp4
+/ace/getstream?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04&.mp4
 #EXTINF:-1,BCU History HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d&.mp4
+/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d&.mp4
 #EXTINF:-1,BCU Kinorating HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2&.mp4
+/ace/getstream?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2&.mp4
 #EXTINF:-1,BCU Marvel HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7&.mp4
+/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7&.mp4
 #EXTINF:-1,BCU Premiere HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=52b5bbf1d3a9640f8a186e848f021bfc3daf1154&.mp4
+/ace/getstream?id=52b5bbf1d3a9640f8a186e848f021bfc3daf1154&.mp4
 #EXTINF:-1,BCU Premiere Ultra 4K
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea&.mp4
+/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea&.mp4
 #EXTINF:-1,BCU Reality HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=22da1ac893c3daf4035261c84e828c8020648187&.mp4
+/ace/getstream?id=22da1ac893c3daf4035261c84e828c8020648187&.mp4
 #EXTINF:-1,BCU Romantic HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=62f68471bab075eb96e5db4559e7994427db111b&.mp4
+/ace/getstream?id=62f68471bab075eb96e5db4559e7994427db111b&.mp4
 #EXTINF:-1,BCU Ruserial HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=49552fcef0397a9f48f7520247ee414a085f61e2&.mp4
+/ace/getstream?id=49552fcef0397a9f48f7520247ee414a085f61e2&.mp4
 #EXTINF:-1,BCU Russian HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=5e38456d774827e7312b7eabdde388532a3dfec9&.mp4
+/ace/getstream?id=5e38456d774827e7312b7eabdde388532a3dfec9&.mp4
 #EXTINF:-1,BCU Stars HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=05fe94b726e99b1dd548013bd281980f9f27b617&.mp4
+/ace/getstream?id=05fe94b726e99b1dd548013bd281980f9f27b617&.mp4
 #EXTINF:-1,BCU Survival HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=7222fcd5c4efe1f4beee535acac83fc195bc51d3&.mp4
+/ace/getstream?id=7222fcd5c4efe1f4beee535acac83fc195bc51d3&.mp4
 #EXTINF:-1,BCU TruMotion HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791&.mp4
+/ace/getstream?id=1d316bb0fd6a7741ac8c9a8972b6710e71d84791&.mp4
 #EXTINF:-1,BCU Ultra 4K
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=6c82a952053419ef358907fc2fc52151626be0b7&.mp4
+/ace/getstream?id=6c82a952053419ef358907fc2fc52151626be0b7&.mp4
 #EXTINF:-1,BCU VHS HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=5752b846dab618e12a0a1541ad6573a81ae1265d&.mp4
+/ace/getstream?id=5752b846dab618e12a0a1541ad6573a81ae1265d&.mp4
 #EXTINF:-1,BCU Кинозал Premiere 1 HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=122b81e6c37b49a37c3b1984efaf5626371d5df5&.mp4
+/ace/getstream?id=122b81e6c37b49a37c3b1984efaf5626371d5df5&.mp4
 #EXTINF:-1,BCU Кинозал Premiere 2 HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07&.mp4
+/ace/getstream?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07&.mp4
 #EXTINF:-1,BCU Кинозал Premiere 3 HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=ffa797e65b8307a13b2805284e28295884c7e7e1&.mp4
+/ace/getstream?id=ffa797e65b8307a13b2805284e28295884c7e7e1&.mp4
 #EXTINF:-1,BCU Сваты HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8&.mp4
+/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8&.mp4
 #EXTINF:-1,BCU СССР HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=59623cb797c031a5aa4922eb219851547cb346b0&.mp4
+/ace/getstream?id=59623cb797c031a5aa4922eb219851547cb346b0&.mp4
 #EXTINF:-1,Bollywood HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&.mp4
+/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0&.mp4
 #EXTINF:-1,CineMan
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=00d0649880b17050d8a9ed559fc824f98fd578be&.mp4
+/ace/getstream?id=00d0649880b17050d8a9ed559fc824f98fd578be&.mp4
 #EXTINF:-1,CineMan Top
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=21f0299cce733ec3a481135553de468440b3630f&.mp4
+/ace/getstream?id=21f0299cce733ec3a481135553de468440b3630f&.mp4
 #EXTINF:-1,CineMan РуКино
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b&.mp4
+/ace/getstream?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b&.mp4
 #EXTINF:-1,Fox Life HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526&.mp4
+/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526&.mp4
 #EXTINF:-1,FOX HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e&.mp4
+/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e&.mp4
 #EXTINF:-1,FAN
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2&.mp4
+/ace/getstream?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2&.mp4
 #EXTINF:-1,.sci-fi
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6&.mp4
+/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6&.mp4
 #EXTINF:-1,.red HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=e5546c985741ec758b39030c59ade2f3a311a06e&.mp4
+/ace/getstream?id=e5546c985741ec758b39030c59ade2f3a311a06e&.mp4
 #EXTINF:-1,.black
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5&.mp4
+/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5&.mp4
 #EXTINF:-1,Hollywood HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501&.mp4
+/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501&.mp4
 #EXTINF:-1,Paramount Channel HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=a106bfefca51175ca4c7a73d7acfe78b7ece709e&.mp4
+/ace/getstream?id=a106bfefca51175ca4c7a73d7acfe78b7ece709e&.mp4
 #EXTINF:-1,TV1000 Action HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e&.mp4
+/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e&.mp4
 #EXTINF:-1,TV1000 HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=ae0d6d703ef80198263a1a868740cf059eac4e9e&.mp4
+/ace/getstream?id=ae0d6d703ef80198263a1a868740cf059eac4e9e&.mp4
 #EXTINF:-1,TV1000 World Kino
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d&.mp4
+/ace/getstream?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d&.mp4
 #EXTINF:-1,TV1000 Русское кино HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a&.mp4
+/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a&.mp4
 #EXTINF:-1,Дом кино
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=4403739564a9b19055786e9844ea48147b3f930b&.mp4
+/ace/getstream?id=4403739564a9b19055786e9844ea48147b3f930b&.mp4
 #EXTINF:-1,Дом кино премиум HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=c2877f4320f2029a59f2121525280c539fb1b9e9&.mp4
+/ace/getstream?id=c2877f4320f2029a59f2121525280c539fb1b9e9&.mp4
 #EXTINF:-1,Душевное HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=82cc7621069b4095f002b43a669b40c2b5342afc&.mp4
+/ace/getstream?id=82cc7621069b4095f002b43a669b40c2b5342afc&.mp4
 #EXTINF:-1,Еврокино
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=cda16e6d488958942dcd9cd96284c0910dc29cce&.mp4
+/ace/getstream?id=cda16e6d488958942dcd9cd96284c0910dc29cce&.mp4
 #EXTINF:-1,Иллюзион+ HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=cc4b12985ef1c75d786cc5fafa5d0deb960312fd&.mp4
+/ace/getstream?id=cc4b12985ef1c75d786cc5fafa5d0deb960312fd&.mp4
 #EXTINF:-1,ИНДИЙСКОЕ КИНО
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=28ca0f5e5e058a2eda74f7c1595022f2914af123&.mp4
+/ace/getstream?id=28ca0f5e5e058a2eda74f7c1595022f2914af123&.mp4
 #EXTINF:-1,Камеди HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=69f02544ef5a6029b4ac7b34a7af5616437c64e0&.mp4
+/ace/getstream?id=69f02544ef5a6029b4ac7b34a7af5616437c64e0&.mp4
 #EXTINF:-1,Капитан Фантастика HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=5bfc90fb33d6046da53943364b3d68d0e19e4464&.mp4
+/ace/getstream?id=5bfc90fb33d6046da53943364b3d68d0e19e4464&.mp4
 #EXTINF:-1,КИНО UHD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&.mp4
+/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379&.mp4
 #EXTINF:-1,КИНО ТВ HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=aeb66589dcdbf45061b76eb52ed29ea8297e8e21&.mp4
+/ace/getstream?id=aeb66589dcdbf45061b76eb52ed29ea8297e8e21&.mp4
 #EXTINF:-1,Киноджем 1 HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=6f59144864d644ee3f53fddef7db2c2f69255c2e&.mp4
+/ace/getstream?id=6f59144864d644ee3f53fddef7db2c2f69255c2e&.mp4
 #EXTINF:-1,Кинокомедия HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2&.mp4
+/ace/getstream?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2&.mp4
 #EXTINF:-1,Киномикс HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=3dba401ca5f2508ddfa955333e233d40d7f3572e&.mp4
+/ace/getstream?id=3dba401ca5f2508ddfa955333e233d40d7f3572e&.mp4
 #EXTINF:-1,Кинопремьера HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6&.mp4
+/ace/getstream?id=94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6&.mp4
 #EXTINF:-1,КИНОСВИДАНИЕ HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=f5302ed56cf6af61378b2527524398558d9cddde&.mp4
+/ace/getstream?id=f5302ed56cf6af61378b2527524398558d9cddde&.mp4
 #EXTINF:-1,Киносемья HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952&.mp4
+/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952&.mp4
 #EXTINF:-1,КИНОСЕРИЯ HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=f4fbf1c1f58b77f1343675b0aeb7b1c22feebbbd&.mp4
+/ace/getstream?id=f4fbf1c1f58b77f1343675b0aeb7b1c22feebbbd&.mp4
 #EXTINF:-1,Киноужас HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=fd386c089ec9cc7d1d75ef5d59cf2199211515e7&.mp4
+/ace/getstream?id=fd386c089ec9cc7d1d75ef5d59cf2199211515e7&.mp4
 #EXTINF:-1,Кинохит HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=f1fe45c8d5f58301c74dde7acaf4db13e497b586&.mp4
+/ace/getstream?id=f1fe45c8d5f58301c74dde7acaf4db13e497b586&.mp4
 #EXTINF:-1,Комедийное HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=322a734d2e4f99121e09df9f4831a7edf3d55f2c&.mp4
+/ace/getstream?id=322a734d2e4f99121e09df9f4831a7edf3d55f2c&.mp4
 #EXTINF:-1,Любимое кино
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=ed833df0a763fa26f180acac44634eb4c3918d86&.mp4
+/ace/getstream?id=ed833df0a763fa26f180acac44634eb4c3918d86&.mp4
 #EXTINF:-1,Мосфильм. Золотая коллекция HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=50c13be1307994322057222dbbeefd22622e333d&.mp4
+/ace/getstream?id=50c13be1307994322057222dbbeefd22622e333d&.mp4
 #EXTINF:-1,Мужское кино HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=26491abeef0cc9d0646bb8de880fe73d5ca285af&.mp4
+/ace/getstream?id=26491abeef0cc9d0646bb8de880fe73d5ca285af&.mp4
 #EXTINF:-1,Мужской
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=6f333af96362664dd566c585601d7c522c9b09e1&.mp4
+/ace/getstream?id=6f333af96362664dd566c585601d7c522c9b09e1&.mp4
 #EXTINF:-1,Наш Кинопоказ HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=ea3446c59eb4f6083c98a73e367b262e7e89c6ed&.mp4
+/ace/getstream?id=ea3446c59eb4f6083c98a73e367b262e7e89c6ed&.mp4
 #EXTINF:-1,Наше крутое HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=4f40b12ad32618adf3262143db8cc80ae686a5f0&.mp4
+/ace/getstream?id=4f40b12ad32618adf3262143db8cc80ae686a5f0&.mp4
 #EXTINF:-1,Наше любимое HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=c19410106243ea2a8f8a6fa7a2d69d9ed735d3c1&.mp4
+/ace/getstream?id=c19410106243ea2a8f8a6fa7a2d69d9ed735d3c1&.mp4
 #EXTINF:-1,Наше Мужское HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=646e1bd5cccfef3d0926eee34eb3fd7e01430507&.mp4
+/ace/getstream?id=646e1bd5cccfef3d0926eee34eb3fd7e01430507&.mp4
 #EXTINF:-1,Наше новое кино HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e&.mp4
+/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e&.mp4
 #EXTINF:-1,НСТ
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=038d0b88c99d988b0b91af57ef142f563a90d200&.mp4
+/ace/getstream?id=038d0b88c99d988b0b91af57ef142f563a90d200&.mp4
 #EXTINF:-1,НТВ Сериал
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&.mp4
+/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993&.mp4
 #EXTINF:-1,НТВ Стиль
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&.mp4
+/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6&.mp4
 #EXTINF:-1,НТВ ХИТ
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&.mp4
+/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280&.mp4
 #EXTINF:-1,Остросюжетное HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=6f294641e0d31c8c09e11a79bde0e2b2a28fb4f5&.mp4
+/ace/getstream?id=6f294641e0d31c8c09e11a79bde0e2b2a28fb4f5&.mp4
 #EXTINF:-1,Премиальное HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=4bf6e4511111ef5f8946c75ff85d3591a809f131&.mp4
+/ace/getstream?id=4bf6e4511111ef5f8946c75ff85d3591a809f131&.mp4
 #EXTINF:-1,Приключения HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283&.mp4
+/ace/getstream?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283&.mp4
 #EXTINF:-1,Про Любовь HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=300552f346d9fe2dfd405f48fbafe084a95da563&.mp4
+/ace/getstream?id=300552f346d9fe2dfd405f48fbafe084a95da563&.mp4
 #EXTINF:-1,Родное кино
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=b46c879a624e1d0aa8eeb18300cda7413657e80a&.mp4
+/ace/getstream?id=b46c879a624e1d0aa8eeb18300cda7413657e80a&.mp4
 #EXTINF:-1,Романтичное HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=19bf6faf7257fb5db419008750d80ab4b693981e&.mp4
+/ace/getstream?id=19bf6faf7257fb5db419008750d80ab4b693981e&.mp4
 #EXTINF:-1,Русская комедия
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c&.mp4
+/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c&.mp4
 #EXTINF:-1,Русский Бестселлер
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=3b35986d4455f25cc8a28d666bb2ca8b638986de&.mp4
+/ace/getstream?id=3b35986d4455f25cc8a28d666bb2ca8b638986de&.mp4
 #EXTINF:-1,Русский Детектив
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36&.mp4
+/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36&.mp4
 #EXTINF:-1,Русский иллюзион
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1&.mp4
+/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1&.mp4
 #EXTINF:-1,Русский Экстрим HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413&.mp4
+/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413&.mp4
 #EXTINF:-1,СЕРИАЛ UHD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=3a71745381e1a6821a881c96a230b6cd365d4da5&.mp4
+/ace/getstream?id=3a71745381e1a6821a881c96a230b6cd365d4da5&.mp4
 #EXTINF:-1,Страшное HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15&.mp4
+/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15&.mp4
 #EXTINF:-1,ТВ3 HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b&.mp4
+/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b&.mp4
 #EXTINF:-1,Феникс Плюс Кино
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6&.mp4
+/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6&.mp4
 #EXTINF:-1,Хит HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d&.mp4
+/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d&.mp4
 #EXTINF:-1,Шокирующее HD
 #EXTGRP:Кино и сериалы
-http://192.168.0.112:6878/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700&.mp4
+/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700&.mp4
 #EXTINF:-1,Авто 24
 #EXTGRP:Мужские
-http://192.168.0.112:6878/ace/getstream?id=7e515477cf191b1e4e33c7151c7cf84925f16780&.mp4
+/ace/getstream?id=7e515477cf191b1e4e33c7151c7cf84925f16780&.mp4
 #EXTINF:-1,Авто Плюс
 #EXTGRP:Мужские
-http://192.168.0.112:6878/ace/getstream?id=c3ff9e5243014a19c3cee52159d68fd750eeecb9&.mp4
+/ace/getstream?id=c3ff9e5243014a19c3cee52159d68fd750eeecb9&.mp4
 #EXTINF:-1,Арсенал HD
 #EXTGRP:Мужские
-http://192.168.0.112:6878/ace/getstream?id=7cf9a5935adc526cab260a6a561af7d6fe34f640&.mp4
+/ace/getstream?id=7cf9a5935adc526cab260a6a561af7d6fe34f640&.mp4
 #EXTINF:-1,Глазами туриста HD
 #EXTGRP:Мужские
-http://192.168.0.112:6878/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83&.mp4
+/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83&.mp4
 #EXTINF:-1,Охотник и Рыболов HD
 #EXTGRP:Мужские
-http://192.168.0.112:6878/ace/getstream?id=0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef&.mp4
+/ace/getstream?id=0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef&.mp4
 #EXTINF:-1,Диалоги о рыбалке HD
 #EXTGRP:Мужские
-http://192.168.0.112:6878/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0&.mp4
+/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0&.mp4
 #EXTINF:-1,Дикая охота HD
 #EXTGRP:Мужские
-http://192.168.0.112:6878/ace/getstream?id=cd421b221ef7bae31a599542cd9c061fc66b30aa&.mp4
+/ace/getstream?id=cd421b221ef7bae31a599542cd9c061fc66b30aa&.mp4
 #EXTINF:-1,Дикая рыбалка HD
 #EXTGRP:Мужские
-http://192.168.0.112:6878/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0&.mp4
+/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0&.mp4
 #EXTINF:-1,Дикий
 #EXTGRP:Мужские
-http://192.168.0.112:6878/ace/getstream?id=c60f8614f11e0f11338e25567a92f5fb84eb4832&.mp4
+/ace/getstream?id=c60f8614f11e0f11338e25567a92f5fb84eb4832&.mp4
 #EXTINF:-1,Драйв
 #EXTGRP:Мужские
-http://192.168.0.112:6878/ace/getstream?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0&.mp4
+/ace/getstream?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0&.mp4
 #EXTINF:-1,Оружие
 #EXTGRP:Мужские
-http://192.168.0.112:6878/ace/getstream?id=ac92a83d7e7903ee7b843e4a490d247ff357d1e9&.mp4
+/ace/getstream?id=ac92a83d7e7903ee7b843e4a490d247ff357d1e9&.mp4
 #EXTINF:-1,Поехали!
 #EXTGRP:Мужские
-http://192.168.0.112:6878/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb&.mp4
+/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb&.mp4
 #EXTINF:-1,СуперГерои
 #EXTGRP:Мужские
-http://192.168.0.112:6878/ace/getstream?id=42f4491e03e5730330457e7c49c55362bf2cbc7e&.mp4
+/ace/getstream?id=42f4491e03e5730330457e7c49c55362bf2cbc7e&.mp4
 #EXTINF:-1,Fast&Funbox HD
 #EXTGRP:Женские
-http://192.168.0.112:6878/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18&.mp4
+/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18&.mp4
 #EXTINF:-1,Fashion TV HD
 #EXTGRP:Женские
-http://192.168.0.112:6878/ace/getstream?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6&.mp4
+/ace/getstream?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6&.mp4
 #EXTINF:-1,Доктор
 #EXTGRP:Женские
-http://192.168.0.112:6878/ace/getstream?id=327cc1410c2e7af8fca0925f7a003ffdba6cdb2a&.mp4
+/ace/getstream?id=327cc1410c2e7af8fca0925f7a003ffdba6cdb2a&.mp4
 #EXTINF:-1,Еда Премиум HD
 #EXTGRP:Женские
-http://192.168.0.112:6878/ace/getstream?id=42f32ae94fa97417ddd6f2b6f141bca76f56a299&.mp4
+/ace/getstream?id=42f32ae94fa97417ddd6f2b6f141bca76f56a299&.mp4
 #EXTINF:-1,Кухня ТВ HD
 #EXTGRP:Женские
-http://192.168.0.112:6878/ace/getstream?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237&.mp4
+/ace/getstream?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237&.mp4
 #EXTINF:-1,Загородная жизнь
 #EXTGRP:Женские
-http://192.168.0.112:6878/ace/getstream?id=fccd5e7ff7469f38dea15ac0d396034c81bd0e4d&.mp4
+/ace/getstream?id=fccd5e7ff7469f38dea15ac0d396034c81bd0e4d&.mp4
 #EXTINF:-1,Здоровое ТВ
 #EXTGRP:Женские
-http://192.168.0.112:6878/ace/getstream?id=33d0a8be4195259a9d2e341bcd62123cd7a903fd&.mp4
+/ace/getstream?id=33d0a8be4195259a9d2e341bcd62123cd7a903fd&.mp4
 #EXTINF:-1,Усадьба
 #EXTGRP:Женские
-http://192.168.0.112:6878/ace/getstream?id=8753c67ddaedb391cca8e6a043ec85999f6b3199&.mp4
+/ace/getstream?id=8753c67ddaedb391cca8e6a043ec85999f6b3199&.mp4
 #EXTINF:-1,Шансон ТВ
 #EXTGRP:Музыкальные
-http://192.168.0.112:6878/ace/getstream?id=71506b08243e6b12e0e6e69c8582622a38009637&.mp4
+/ace/getstream?id=71506b08243e6b12e0e6e69c8582622a38009637&.mp4
 #EXTINF:-1,ТНТ Music
 #EXTGRP:Музыкальные
-http://192.168.0.112:6878/ace/getstream?id=347126177d806d4578b249807200e71db6470b63&.mp4
+/ace/getstream?id=347126177d806d4578b249807200e71db6470b63&.mp4
 #EXTINF:-1,Ля-минор
 #EXTGRP:Музыкальные
-http://192.168.0.112:6878/ace/getstream?id=e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22&.mp4
+/ace/getstream?id=e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22&.mp4
 #EXTINF:-1,Жара
 #EXTGRP:Музыкальные
-http://192.168.0.112:6878/ace/getstream?id=0f777acf2def9b2c0ae254041796fbae5ba60501&.mp4
+/ace/getstream?id=0f777acf2def9b2c0ae254041796fbae5ba60501&.mp4
 #EXTINF:-1,VIVA HD
 #EXTGRP:Музыкальные
-http://192.168.0.112:6878/ace/getstream?id=aaf3060a96b04f621643e031eb61137722981595&.mp4
+/ace/getstream?id=aaf3060a96b04f621643e031eb61137722981595&.mp4
 #EXTINF:-1,Russian MusicBox HD
 #EXTGRP:Музыкальные
-http://192.168.0.112:6878/ace/getstream?id=a5149234466b95643eec346ffbd24bc71c64e3d6&.mp4
+/ace/getstream?id=a5149234466b95643eec346ffbd24bc71c64e3d6&.mp4
 #EXTINF:-1,RU.TV
 #EXTGRP:Музыкальные
-http://192.168.0.112:6878/ace/getstream?id=2302f4b9327232b91a434658c24a506c88bc55f0&.mp4
+/ace/getstream?id=2302f4b9327232b91a434658c24a506c88bc55f0&.mp4
 #EXTINF:-1,MTV Live HD
 #EXTGRP:Музыкальные
-http://192.168.0.112:6878/ace/getstream?id=d8dde4a3b7964a19f144c5ac4c516933831ce782&.mp4
+/ace/getstream?id=d8dde4a3b7964a19f144c5ac4c516933831ce782&.mp4
 #EXTINF:-1,MTV 90s
 #EXTGRP:Музыкальные
-http://192.168.0.112:6878/ace/getstream?id=6de86153b53f8abcc16f56b479f26e79f7bf77bf&.mp4
+/ace/getstream?id=6de86153b53f8abcc16f56b479f26e79f7bf77bf&.mp4
 #EXTINF:-1,iConcerts
 #EXTGRP:Музыкальные
-http://192.168.0.112:6878/ace/getstream?id=f0757d4131090cf4b0652e9a427c350c651e597a&.mp4
+/ace/getstream?id=f0757d4131090cf4b0652e9a427c350c651e597a&.mp4
 #EXTINF:-1,Europa Plus TV
 #EXTGRP:Музыкальные
-http://192.168.0.112:6878/ace/getstream?id=755483260c00e095f825286bc8b3562966814022&.mp4
+/ace/getstream?id=755483260c00e095f825286bc8b3562966814022&.mp4
 #EXTINF:-1,1HD
 #EXTGRP:Музыкальные
-http://192.168.0.112:6878/ace/getstream?id=29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a&.mp4
+/ace/getstream?id=29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a&.mp4
 #EXTINF:-1,Bridge HD
 #EXTGRP:Музыкальные
-http://192.168.0.112:6878/ace/getstream?id=32c2ea9b766da382ee892dae57871b3dd1e8641b&.mp4
+/ace/getstream?id=32c2ea9b766da382ee892dae57871b3dd1e8641b&.mp4
 #EXTINF:-1,DELUXE MUSIC HD
 #EXTGRP:Музыкальные
-http://192.168.0.112:6878/ace/getstream?id=da8c0764bea30d7fe2321383292bb33ff04a5ede&.mp4
+/ace/getstream?id=da8c0764bea30d7fe2321383292bb33ff04a5ede&.mp4
 #EXTINF:-1,МузТВ
 #EXTGRP:Музыкальные
-http://192.168.0.112:6878/ace/getstream?id=38cf205218182050f0df6c7d8321e5e651286e91&.mp4
+/ace/getstream?id=38cf205218182050f0df6c7d8321e5e651286e91&.mp4
 #EXTINF:-1,Музыка Первого
 #EXTGRP:Музыкальные
-http://192.168.0.112:6878/ace/getstream?id=4f2d81ed73736cf3adc44c8a6a24cda47fc1eef0&.mp4
+/ace/getstream?id=4f2d81ed73736cf3adc44c8a6a24cda47fc1eef0&.mp4
 #EXTINF:-1,В гостях у сказки
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0&.mp4
+/ace/getstream?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0&.mp4
 #EXTINF:-1,Gulli Girl
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=be2e64fec17ec07a561dbd87cad2ae0fc4b7df5a&.mp
+/ace/getstream?id=be2e64fec17ec07a561dbd87cad2ae0fc4b7df5a&.mp
 #EXTINF:-1,Ani
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=9eb31bd34245c4bbe60f0fe6081f854b7d1dde52&.mp4
+/ace/getstream?id=9eb31bd34245c4bbe60f0fe6081f854b7d1dde52&.mp4
 #EXTINF:-1,2x2
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=ae0290d2b26b326c76a6842c1f62b643e29a6801&.mp4
+/ace/getstream?id=ae0290d2b26b326c76a6842c1f62b643e29a6801&.mp4
 #EXTINF:-1,BCU Kids 4K
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293&.mp4
+/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293&.mp4
 #EXTINF:-1,BCU Kids HD
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=535b288408b7c671bb1d5c292dd64beadf556ab9&.mp4
+/ace/getstream?id=535b288408b7c671bb1d5c292dd64beadf556ab9&.mp4
 #EXTINF:-1,BCU Kids+ HD
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=e2db1c6451aeff66756ae166cf507a0b2743b69a&.mp4
+/ace/getstream?id=e2db1c6451aeff66756ae166cf507a0b2743b69a&.mp4
 #EXTINF:-1,BCU Мультсериал
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964&.mp4
+/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964&.mp4
 #EXTINF:-1,Boomerang
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=7c1eb7f914bc0dcddfa79cc9e2693cf39aa32ed5&.mp4
+/ace/getstream?id=7c1eb7f914bc0dcddfa79cc9e2693cf39aa32ed5&.mp4
 #EXTINF:-1,Cartoon Network
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=6578fed493fdf327038e74d9d967888d3dbb9c2d&.mp4
+/ace/getstream?id=6578fed493fdf327038e74d9d967888d3dbb9c2d&.mp4
 #EXTINF:-1,Disney
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=a257179a41c0f69411ed7fe86260fe7cc5c823f3&.mp4
+/ace/getstream?id=a257179a41c0f69411ed7fe86260fe7cc5c823f3&.mp4
 #EXTINF:-1,TiJi
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=4da0f57fb96330c7f6ad5f4bce0ba93038b628c3&.mp4
+/ace/getstream?id=4da0f57fb96330c7f6ad5f4bce0ba93038b628c3&.mp4
 #EXTINF:-1,Карусель
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=c008e67929d47855b43f7a9af7305a6c32504132&.mp4
+/ace/getstream?id=c008e67929d47855b43f7a9af7305a6c32504132&.mp4
 #EXTINF:-1,Матч! Страна
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1&.mp4
+/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1&.mp4
 #EXTINF:-1,Мульт HD
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=83392085bd6971ff98e8884913a51c3313126f7f&.mp4
+/ace/getstream?id=83392085bd6971ff98e8884913a51c3313126f7f&.mp4
 #EXTINF:-1,Мультиландия
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=78f1672c711f67c5588ecc96580f7524c0fb87fb&.mp4
+/ace/getstream?id=78f1672c711f67c5588ecc96580f7524c0fb87fb&.mp4
 #EXTINF:-1,Мультимузыка
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&.mp4
+/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19&.mp4
 #EXTINF:-1,Рыжий
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac&.mp4
+/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac&.mp4
 #EXTINF:-1,Уникум
 #EXTGRP:Детские
-http://192.168.0.112:6878/ace/getstream?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee&.mp4
+/ace/getstream?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee&.mp4
 #EXTINF:-1,Моторспорт ТВ
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=0eb8444f75bfe89d5a92c1497ac34ff4c4441207&.mp4
+/ace/getstream?id=0eb8444f75bfe89d5a92c1497ac34ff4c4441207&.mp4
 #EXTINF:-1,Мир Баскетбола
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570&.mp4
+/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570&.mp4
 #EXTINF:-1,Матч! Футбол 3 HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&.mp4
+/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e&.mp4
 #EXTINF:-1,Матч! Футбол 2 HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04&.mp4
+/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04&.mp4
 #EXTINF:-1,Матч! Футбол 1 HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9&.mp4
+/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9&.mp4
 #EXTINF:-1,Матч! Премьер HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
+/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12&.mp4
 #EXTINF:-1,МАТЧ! Планета
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af&.mp4
+/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af&.mp4
 #EXTINF:-1,Матч! Игра HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&.mp4
+/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c&.mp4
 #EXTINF:-1,Матч! Боец
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa&.mp4
+/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa&.mp4
 #EXTINF:-1,Матч! Арена HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
+/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5&.mp4
 #EXTINF:-1,Матч ТВ HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2&.mp4
+/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2&.mp4
 #EXTINF:-1,Бокс ТВ
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d&.mp4
+/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d&.mp4
 #EXTINF:-1,Ziggo Sport Voetbal
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91&.mp4
+/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91&.mp4
 #EXTINF:-1,Ziggo Sport Select
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a&.mp4
+/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a&.mp4
 #EXTINF:-1,Ziggo Sport Racing
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45&.mp4
+/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45&.mp4
 #EXTINF:-1,Ziggo Sport Golf
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=035e34b791335962ca817f42fd14300382af3797&.mp4
+/ace/getstream?id=035e34b791335962ca817f42fd14300382af3797&.mp4
 #EXTINF:-1,VIASAT SPORT HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b&.mp4
+/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b&.mp4
 #EXTINF:-1,Russian Extreme Ultra
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&.mp4
+/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e&.mp4
 #EXTINF:-1,Setanta Live 2
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
+/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c&.mp4
 #EXTINF:-1,Setanta Live 1
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&.mp4
+/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707&.mp4
 #EXTINF:-1,Premier Sports 2
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537&.mp4
+/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537&.mp4
 #EXTINF:-1,Premier Sports 1
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565&.mp4
+/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565&.mp4
 #EXTINF:-1,KHL Prime HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&.mp4
+/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b&.mp4
 #EXTINF:-1,FOX Sports 2 HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7&.mp4
+/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7&.mp4
 #EXTINF:-1,FOX Sports 1 HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898&.mp4
+/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898&.mp4
 #EXTINF:-1,FightBox HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640&.mp4
+/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640&.mp4
 #EXTINF:-1,Eurosport 1 HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&.mp4
+/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62&.mp4
 #EXTINF:-1,Eleven Sports 4 HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09&.mp4
+/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09&.mp4
 #EXTINF:-1,Eleven Sports 3 HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212&.mp4
+/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212&.mp4
 #EXTINF:-1,Eleven Sports 2 HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9&.mp4
+/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9&.mp4
 #EXTINF:-1,Eleven Sports 1 HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&.mp4
+/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00&.mp4
 #EXTINF:-1,beIN SPORTS HABER
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3&.mp4
+/ace/getstream?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3&.mp4
 #EXTINF:-1,beIN SPORTS HD 1
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52&.mp4
+/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52&.mp4
 #EXTINF:-1,beIN SPORTS HD 2
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05&.mp4
+/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05&.mp4
 #EXTINF:-1,beIN SPORTS HD 4
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d&.mp4
+/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d&.mp4
 #EXTINF:-1,BT Sport 1
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b&.mp4
+/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b&.mp4
 #EXTINF:-1,BT Sport 2
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801&.mp4
+/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801&.mp4
 #EXTINF:-1,BT Sport 3
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033&.mp4
+/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033&.mp4
 #EXTINF:-1,Eurosport 2 HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&.mp4
+/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0&.mp4
 #EXTINF:-1,Extreme Sports
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082&.mp4
+/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082&.mp4
 #EXTINF:-1,Конный мир HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017&.mp4
+/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017&.mp4
 #EXTINF:-1,КХЛ ТВ
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&.mp4
+/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0&.mp4
 #EXTINF:-1,Спортивный
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3&.mp4
+/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3&.mp4
 #EXTINF:-1,Старт
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc&.mp4
+/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc&.mp4
 #EXTINF:-1,Футбол HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd&.mp4
+/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd&.mp4
 #EXTINF:-1,Футбольный HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f&.mp4
+/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f&.mp4
 #EXTINF:-1,Хоккейный HD
 #EXTGRP:Спортивные
-http://192.168.0.112:6878/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857&.mp4
+/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857&.mp4
