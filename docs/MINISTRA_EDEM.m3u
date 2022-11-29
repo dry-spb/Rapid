@@ -339,6 +339,9 @@ http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/1053/index.m3u8
 #EXTGRP:Познавательные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/15239/index.m3u8
 #EXTINF:tvg-id="hlsproxy-680" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/120.png",Перец International
+#EXTINF:0 tvg-rec="3",Квартал ТВ
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/932/index.m3u8
 #EXTGRP:Развлекательные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/15227/index.m3u8
 #EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Занавес
