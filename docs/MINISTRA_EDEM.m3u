@@ -7,13 +7,13 @@ http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/2030/index.m3u8
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/986/index.m3u8
 #EXTINF:tvg-id="hlsproxy-70" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/9.png",Euronews Россия
 #EXTGRP:Информационные
-http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/9215/index.m3u8
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9215/index.m3u8
 #EXTINF:tvg-id="hlsproxy-393" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/7.png",Россия-24
 #EXTGRP:Информационные
-https://rt-vlg-chr-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA24/variant.m3u8
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/507/index.m3u8
 #EXTINF:tvg-id="hlsproxy-20151" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/10.png",Известия
 #EXTGRP:Информационные
-http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/2008/index.m3u8
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/18039/index.m3u8
 #EXTINF:tvg-id="hlsproxy-310" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/8.png",Москва 24
 #EXTGRP:Информационные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/523/index.m3u8
@@ -29,12 +29,11 @@ http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/15429/index.m3u8
 #EXTINF:tvg-id="hlsproxy-51166" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/14.png",360 Новости
 #EXTGRP:Информационные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/18038/index.m3u8
-#EXTINF:tvg-id="hlsproxy-486" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",100 % NEWS
+#EXTINF:0 tvg-rec="3",Мир 24 HD
 #EXTGRP:Информационные
-http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/16041/index.m3u8
-#EXTINF:tvg-id="hlsproxy-126" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/15.png",NHK World TV
+#EXTINF:tvg-id="hlsproxy-219" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/186.png",Беларусь 24
 #EXTGRP:Информационные
-http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/729/index.m3u8
+http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/19079/index.m3u8
 #EXTINF:tvg-id="hlsproxy-377" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/17.png",Пятница!
 #EXTGRP:Эфирные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/5031/index.m3u8
@@ -53,12 +52,9 @@ http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/205/index.m3u8
 #EXTINF:tvg-id="hlsproxy-8619" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/24.png",Россия РТР
 #EXTGRP:Эфирные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/18042/index.m3u8
-#EXTINF:tvg-id="hlsproxy-8064" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/25.png",НТВ HD
+#EXTINF:tvg-id="hlsproxy-8064" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/25.png",НТВ
 #EXTGRP:Эфирные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/213/index.m3u8
-#EXTINF:tvg-id="hlsproxy-319" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/26.png",НТВ
-#EXTGRP:Эфирные
-http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/501/index.m3u8
 #EXTINF:tvg-id="hlsproxy-434" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/30.png",ТВЦ
 #EXTGRP:Эфирные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/520/index.m3u8
@@ -89,24 +85,12 @@ http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/505/index.m3u8
 #EXTINF:tvg-id="hlsproxy-288" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/37.png",Вместе-РФ
 #EXTGRP:Эфирные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/2073/index.m3u8
-#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Первый российский национальный канал
-#EXTGRP:Эфирные
-http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/16023/index.m3u8
-#EXTINF:tvg-id="hlsproxy-494" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/38.png",CNL
-#EXTGRP:Эфирные
-http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/955/index.m3u8
 #EXTINF:tvg-id="hlsproxy-340" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/39.png",E TV
 #EXTGRP:Эфирные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/5048/index.m3u8
-#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",MS CRIME HD
-#EXTGRP:Эфирные
-http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/15136/index.m3u8
 #EXTINF:tvg-id="hlsproxy-151" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/40.png",RTVi
 #EXTGRP:Эфирные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/2086/index.m3u8
-#EXTINF:tvg-id="hlsproxy-284" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/41.png",БСТ
-#EXTGRP:Эфирные
-http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/2108/index.m3u8
 #EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",Мособр TV
 #EXTGRP:Эфирные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/16043/index.m3u8
@@ -122,10 +106,7 @@ http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/745/index.m3u8
 #EXTINF:tvg-id="hlsproxy-100022" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/43.png",Discovery Channel
 #EXTGRP:Познавательные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/140/index.m3u8
-#EXTINF:tvg-id="hlsproxy-62" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/455.png",Discovery Science
-#EXTGRP:Познавательные
-http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/9265/index.m3u8
-#EXTINF:tvg-id="hlsproxy-62" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/45.png",Discovery Science HD
+#EXTINF:tvg-id="hlsproxy-62" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/45.png",Discovery Science
 #EXTGRP:Познавательные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/6001/index.m3u8
 #EXTINF:tvg-id="hlsproxy-99" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/47.png",Investigation Discovery
@@ -139,10 +120,7 @@ http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/2006/index.m3u8
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/9313/index.m3u8
 #EXTINF:tvg-id="hlsproxy-322" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/51.png",TLC HD
 #EXTGRP:Познавательные
-http://myott.top/stream/P4H2M76YRH/168.m3u8
-#EXTINF:tvg-id="hlsproxy-322" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/458.png",TLC
-#EXTGRP:Познавательные
-http://192.168.0.213:34400/stream/1b7ea6caf2515ca1f3cc952860cae906
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9024/index.m3u8
 #EXTINF:tvg-id="hlsproxy-100031" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/68.png",Наука
 #EXTGRP:Познавательные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/2155/index.m3u8
@@ -158,7 +136,7 @@ http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/17026/index.m3u8
 #EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",MM Experiment
 #EXTGRP:Познавательные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/19412/index.m3u8
-#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",MM Открытия
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",NATGEO people
 #EXTGRP:Познавательные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/19415/index.m3u8
 #EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",DOCU
@@ -287,15 +265,9 @@ http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/16047/index.m3u8
 #EXTINF:tvg-id="hlsproxy-156" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/85.png",Russia Today Doc
 #EXTGRP:Познавательные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/14157/index.m3u8
-#EXTINF:tvg-id="hlsproxy-150" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/86.png",RTG
-#EXTGRP:Познавательные
-http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/9021/index.m3u8
 #EXTINF:tvg-id="hlsproxy-150" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/463.png",RTG
 #EXTGRP:Познавательные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/210/index.m3u8
-#EXTINF:tvg-id="hlsproxy-157" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/87.png",RTG TV
-#EXTGRP:Познавательные
-http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/841/index.m3u8
 #EXTINF:tvg-id="hlsproxy-55137" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/89.png",Мир Вокруг
 #EXTGRP:Познавательные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/15219/index.m3u8
@@ -338,7 +310,9 @@ http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/1053/index.m3u8
 #EXTINF:tvg-id="hlsproxy-20634" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/104.png",NASA TV
 #EXTGRP:Познавательные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/15239/index.m3u8
-#EXTINF:tvg-id="hlsproxy-680" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/120.png",Перец International
+#EXTINF:tvg-id="" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/",MS CRIME HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/15136/index.m3u8
 #EXTINF:0 tvg-rec="3",Квартал ТВ
 #EXTGRP:Развлекательные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/932/index.m3u8
@@ -398,9 +372,6 @@ http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/7141/index.m3u8
 #EXTINF:tvg-id="hlsproxy-21" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/113.png",Девятая Волна
 #EXTGRP:Развлекательные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/868/index.m3u8
-#EXTINF:tvg-id="hlsproxy-3176" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/114.png",MyZen TV
-#EXTGRP:Развлекательные
-http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/5002/index.m3u8
 #EXTINF:tvg-id="hlsproxy-8189" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/115.png",Министерство идей
 #EXTGRP:Развлекательные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/16025/index.m3u8
@@ -431,10 +402,7 @@ http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/103/index.m3u8
 #EXTINF:tvg-id="hlsproxy-431" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/126.png",Суббота
 #EXTGRP:Развлекательные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/15118/index.m3u8
-#EXTINF:tvg-id="hlsproxy-336" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/130.png",ТНТ4
-#EXTGRP:Развлекательные
-http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/104/index.m3u8
-#EXTINF:tvg-id="hlsproxy-336" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/131.png",ТНТ4 HD
+#EXTINF:tvg-id="hlsproxy-336" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/131.png",ТНТ4
 #EXTGRP:Развлекательные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/6370/index.m3u8
 #EXTINF:tvg-id="hlsproxy-474" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/132.png",Ю ТВ
