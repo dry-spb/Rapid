@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:0 tvg-rec="0",Camera cupol
+#EXTGRP:Камера
+rtsp://192.168.0.135:554/user=admin&password=&channel=1&stream=0?.sdp
+#EXTINF:0 tvg-rec="0",Camera X30
+#EXTGRP:Камера
+rtsp://admin:2710303dryspbdryspb@192.168.0.133:5544/mpeg4
+#EXTINF:0 tvg-rec="0",Camera X5
+#EXTGRP:Камера
+rtsp://192.168.0.134:554/user=admin&password=&channel=1&stream=0?.sdp
 #EXTINF:tvg-id="hlsproxy-243" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/2.png",Дождь
 #EXTGRP:Информационные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/2030/index.m3u8
