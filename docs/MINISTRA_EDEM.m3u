@@ -38,8 +38,9 @@ http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/15429/index.m3u8
 #EXTINF:tvg-id="hlsproxy-51166" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/14.png",360 Новости
 #EXTGRP:Информационные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/18038/index.m3u8
-#EXTINF:0 tvg-rec="3",Мир 24 HD
+#EXTINF:0 tvg-rec="3",Мир 24
 #EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2107/index.m3u8
 #EXTINF:tvg-id="hlsproxy-219" tvg-logo="http://192.168.0.213/stalker_portal/misc/logos/original/186.png",Беларусь 24
 #EXTGRP:Информационные
 http://4f1d184d.ottrast.com/iptv/SPLSAEVXQLG455/19079/index.m3u8
