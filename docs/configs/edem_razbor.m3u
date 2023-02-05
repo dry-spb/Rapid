@@ -1,0 +1,1396 @@
+#EXTM3U
+#EXTINF:tvg-rec="3",Настоящее время
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/986/index.m3u8
+#EXTINF:tvg-rec="7",Дождь
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2030/index.m3u8
+#EXTINF:tvg-rec="3",Дождь HD
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/6308/index.m3u8
+#EXTINF:tvg-rec="0",Дождь HD
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/20083/index.m3u8
+#EXTINF:tvg-rec="3",Дождь orig
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9122/index.m3u8
+#EXTINF:g-rec="3",Дождь HD orig
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9072/index.m3u8
+#EXTINF:g-rec="7",Euronews Россия
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/828/index.m3u8
+#EXTINF:g-rec="3",Euronews Россия orig
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9215/index.m3u8
+#EXTINF:g-rec="7",Россия-24
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/507/index.m3u8
+#EXTINF:g-rec="7",Известия
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2008/index.m3u8
+#EXTINF:g-rec="3",Известия orig
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9216/index.m3u8
+#EXTINF:g-rec="0",Известия FHD
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/18039/index.m3u8
+#EXTINF:g-rec="7",Москва 24
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/523/index.m3u8
+#EXTINF:g-rec="3",Москва 24 orig
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9218/index.m3u8
+#EXTINF:g-rec="3",Мир 24 orig
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9219/index.m3u8
+#EXTINF:g-rec="7",Мир 24
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/712/index.m3u8
+#EXTINF:g-rec="3",Мир 24 HD
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2107/index.m3u8
+#EXTINF:g-rec="3",Мир 24 HD orig
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9214/index.m3u8
+#EXTINF:g-rec="0",360 НОВОСТИ HD
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/18038/index.m3u8
+#EXTINF:g-rec="0",360° HD
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/7254/index.m3u8
+#EXTINF:g-rec="3",Russia Today orig
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9220/index.m3u8
+#EXTINF:g-rec="0",РБК 50
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/10029/index.m3u8
+#EXTINF:g-rec="3",РБК FHD
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2404/index.m3u8
+#EXTINF:g-rec="0",РБК HD
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16075/index.m3u8
+#EXTINF:g-rec="7",РБК ТВ
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/106/index.m3u8
+#EXTINF:g-rec="3",РБК ТВ orig
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9213/index.m3u8
+#EXTINF:tvg-rec="0",78 Канал Санкт-Петербург
+#EXTGRP:Информационные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/6144/index.m3u8
+#EXTINF:tvg-rec="7",Первый канал
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/127/index.m3u8
+#EXTINF:tvg-rec="7",Первый канал HD
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/204/index.m3u8
+#EXTINF:tvg-rec="0",Первый канал HD orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/7253/index.m3u8
+#EXTINF:tvg-rec="0",Первый канал HD 50
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15131/index.m3u8
+#EXTINF:tvg-rec="7",Первый канал FHD
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2402/index.m3u8
+#EXTINF:tvg-rec="3",Первый канал orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9201/index.m3u8
+#EXTINF:tvg-rec="7",Россия 1
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/504/index.m3u8
+#EXTINF:tvg-rec="7",Россия 1 HD
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/205/index.m3u8
+#EXTINF:tvg-rec="3",Россия 1 FHD
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2409/index.m3u8
+#EXTINF:vg-rec="0",Россия РТР
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/18042/index.m3u8
+#EXTINF:tvg-rec="7",НТВ
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/501/index.m3u8
+#EXTINF:tvg-rec="7",НТВ HD
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/213/index.m3u8
+#EXTINF:tvg-rec="3",НТВ HD orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9028/index.m3u8
+#EXTINF:tvg-rec="0",НТВ Мир
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14035/index.m3u8
+#EXTINF:tvg-rec="7",Пятый канал
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/112/index.m3u8
+#EXTINF:tvg-rec="3",Пятый канал orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9096/index.m3u8
+#EXTINF:tvg-rec="7",Рен ТВ
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/128/index.m3u8
+#EXTINF:tvg-rec="7",Рен ТВ HD
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2024/index.m3u8
+#EXTINF:tvg-rec="3",Рен ТВ HD orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9002/index.m3u8
+#EXTINF:tvg-rec="3",Рен ТВ orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9205/index.m3u8
+#EXTINF:tvg-rec="7",ТВЦ
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/520/index.m3u8
+#EXTINF:tvg-rec="3",ТВЦ orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9095/index.m3u8
+#EXTINF:tvg-rec="7",Домашний
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/514/index.m3u8
+#EXTINF:tvg-rec="3",Домашний orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9104/index.m3u8
+#EXTINF:tvg-rec="0",Домашний HD
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15116/index.m3u8
+#EXTINF:tvg-rec="7",ОТР
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/705/index.m3u8
+#EXTINF:tvg-rec="3",ОТР orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9100/index.m3u8
+#EXTINF:tvg-rec="0",Мир HD
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15119/index.m3u8
+#EXTINF:tvg-rec="3",Мир orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9211/index.m3u8
+#EXTINF:tvg-rec="7",Мир
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/214/index.m3u8
+#EXTINF:tvg-rec="7",Мир
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/113/index.m3u8
+#EXTINF:tvg-rec="0",Мир HD
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/18037/index.m3u8
+#EXTINF:tvg-rec="7",360°
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/825/index.m3u8
+#EXTINF:tvg-rec="3",360° HD
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2065/index.m3u8
+#EXTINF:tvg-rec="3",360 HD orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9036/index.m3u8
+#EXTINF:tvg-rec="3",360° orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9209/index.m3u8
+#EXTINF:tvg-rec="3",365 дней ТВ
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2040/index.m3u8
+#EXTINF:tvg-rec="0",365 дней orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9303/index.m3u8
+#EXTINF:vg-rec="3",Центральное телевидение
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2064/index.m3u8
+#EXTINF:vg-rec="3",Центральное телевидение orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9222/index.m3u8
+#EXTINF:tvg-rec="7",Время
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/552/index.m3u8
+#EXTINF:tvg-rec="3",Время orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9298/index.m3u8
+#EXTINF:tvg-rec="0",Первый российский национальный канал HD
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16023/index.m3u8
+#EXTINF:tvg-rec="3",БСТ
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2108/index.m3u8
+#EXTINF:tvg-rec="3",RTVi orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9102/index.m3u8
+#EXTINF:tvg-rec="3",Красная линия
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2147/index.m3u8
+#EXTINF:tvg-rec="3",Красная линия orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9119/index.m3u8
+#EXTINF:tvg-rec="3",Вместе-РФ
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2073/index.m3u8
+#EXTINF:tvg-rec="3",Вместе-РФ orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9124/index.m3u8
+#EXTINF:tvg-rec="7",Россия-Культура
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/505/index.m3u8
+#EXTINF:tvg-rec="3",Про Бизнес
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5043/index.m3u8
+#EXTINF:tvg-rec="3",Life TV
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/971/index.m3u8
+#EXTINF:tvg-rec="3",Хузур ТВ
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2150/index.m3u8
+#EXTINF:tvg-rec="3",ТБН
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/974/index.m3u8
+#EXTINF:tvg-rec="3",Ратник
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2119/index.m3u8
+#EXTINF:tvg-rec="0",Независимые ТВ
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16017/index.m3u8
+#EXTINF:tvg-rec="0",Ника ТВ
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16002/index.m3u8
+#EXTINF:tvg-rec="0",Новый Мир
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16022/index.m3u8
+#EXTINF:tvg-rec="3",Открытый мир orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9117/index.m3u8
+#EXTINF:tvg-rec="3",ТБН orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9123/index.m3u8
+#EXTINF:tvg-rec="0",ТВ Экстра HD
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16042/index.m3u8
+#EXTINF:tvg-rec="3",Точка ТВ orig
+#EXTGRP:Эфирные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9110/index.m3u8
+#EXTINF:tvg-rec="7",Discovery Channel
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/140/index.m3u8
+#EXTINF:tvg-rec="7",Discovery Channel HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/227/index.m3u8
+#EXTINF:tvg-rec="3",Discovery Channel HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9011/index.m3u8
+#EXTINF:tvg-rec="7",Discovery Science
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/136/index.m3u8
+#EXTINF:tvg-rec="3",Discovery Science orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9265/index.m3u8
+#EXTINF:tvg-rec="3",Discovery Science HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/6001/index.m3u8
+#EXTINF:tvg-rec="3",Discovery Science HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9326/index.m3u8
+#EXTINF:tvg-rec="3",Investigation Discovery
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2085/index.m3u8
+#EXTINF:tvg-rec="3",Investigation Discovery HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2102/index.m3u8
+#EXTINF:tvg-rec="3",Investigation Discovery HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9054/index.m3u8
+#EXTINF:tvg-rec="3",Investigation Discovery orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9322/index.m3u8
+#EXTINF:tvg-rec="7",DTX HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2006/index.m3u8
+#EXTINF:tvg-rec="3",DTX HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5064/index.m3u8
+#EXTINF:tvg-rec="7",TLC HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/232/index.m3u8
+#EXTINF:tvg-rec="3",TLC HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9024/index.m3u8
+#EXTINF:tvg-rec="7",History
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/837/index.m3u8
+#EXTINF:tvg-rec="7",History HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/231/index.m3u8
+#EXTINF:tvg-rec="3",History HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9023/index.m3u8
+#EXTINF:tvg-rec="3",History orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9313/index.m3u8
+#EXTINF:tvg-rec="0",MM Experiment HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/19412/index.m3u8
+#EXTINF:tvg-rec="0",MM Открытия HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/19415/index.m3u8
+#EXTINF:tvg-rec="3",Наука HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2155/index.m3u8
+#EXTINF:tvg-rec="3",Наука HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9084/index.m3u8
+#EXTINF:tvg-rec="7",Моя Планета
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/117/index.m3u8
+#EXTINF:tvg-rec="3",Моя Планета HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2090/index.m3u8
+#EXTINF:tvg-rec="0",Моя Планета HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/19232/index.m3u8
+#EXTINF:tvg-rec="3",Моя Планета HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9050/index.m3u8
+#EXTINF:tvg-rec="7",История
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/111/index.m3u8
+#EXTINF:tvg-rec="3",История orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9315/index.m3u8
+#EXTINF:tvg-rec="3",H2
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/1052/index.m3u8
+#EXTINF:tvg-rec="7",H2 HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2033/index.m3u8
+#EXTINF:tvg-rec="3",Моя планета orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9300/index.m3u8
+#EXTINF:tvg-rec="7",Nat Geo Wild
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/133/index.m3u8
+#EXTINF:tvg-rec="7",Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/216/index.m3u8
+#EXTINF:tvg-rec="3",Nat Geo Wild orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9264/index.m3u8
+#EXTINF:tvg-rec="0",National Geographic
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14000/index.m3u8
+#EXTINF:tvg-rec="0",National Geographic HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14001/index.m3u8
+#EXTINF:tvg-rec="0",National Geographic HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14002/index.m3u8
+#EXTINF:tvg-rec="0",National Geographic Channel HD 50
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/10023/index.m3u8
+#EXTINF:tvg-rec="7",Viasat Explore
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/163/index.m3u8
+#EXTINF:tvg-rec="3",Viasat Explore orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9275/index.m3u8
+#EXTINF:tvg-rec="3",Viasat Explore HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/6381/index.m3u8
+#EXTINF:tvg-rec="3",Viasat Explore HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9075/index.m3u8
+#EXTINF:tvg-rec="7",Viasat History
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/162/index.m3u8
+#EXTINF:tvg-rec="3",Viasat History HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/6002/index.m3u8
+#EXTINF:tvg-rec="7",Viasat History HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/203/index.m3u8
+#EXTINF:tvg-rec="3",Viasat History HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9060/index.m3u8
+#EXTINF:tvg-rec="7",Viasat Nature
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/161/index.m3u8
+#EXTINF:tvg-rec="0",Viasat Nature HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15225/index.m3u8
+#EXTINF:tvg-rec="3",Viasat Nature orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9295/index.m3u8
+#EXTINF:tvg-rec="3",Viasat Nature/History HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9027/index.m3u8
+#EXTINF:tvg-rec="7",Большая Азия HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2009/index.m3u8
+#EXTINF:tvg-rec="3",Большая Азия HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9267/index.m3u8
+#EXTINF:tvg-rec="7",Animal Planet
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/137/index.m3u8
+#EXTINF:tvg-rec="7",Animal Planet HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/218/index.m3u8
+#EXTINF:tvg-rec="3",В мире животных HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2089/index.m3u8
+#EXTINF:tvg-rec="3",В мире животных HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9048/index.m3u8
+#EXTINF:tvg-rec="7",Домашние Животные
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/158/index.m3u8
+#EXTINF:tvg-rec="3",Домашние животные
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5046/index.m3u8
+#EXTINF:tvg-rec="3",Домашние животные orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9296/index.m3u8
+#EXTINF:tvg-rec="3",Зоо ТВ
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2100/index.m3u8
+#EXTINF:tvg-rec="3",Зоо ТВ orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9324/index.m3u8
+#EXTINF:tvg-rec="7",Зоопарк
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/731/index.m3u8
+#EXTINF:tvg-rec="3",Зоопарк orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9276/index.m3u8
+#EXTINF:tvg-rec="3",Пёс и Ко
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2123/index.m3u8
+#EXTINF:tvg-rec="7",Русский Север FHD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/846/index.m3u8
+#EXTINF:tvg-rec="3",Синергия ТВ
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2067/index.m3u8
+#EXTINF:tvg-rec="3",Тайна
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2059/index.m3u8
+#EXTINF:tvg-rec="3",Тайна orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9316/index.m3u8
+#EXTINF:tvg-rec="0",Твтур TV
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16008/index.m3u8
+#EXTINF:tvg-rec="7",Телеканал Да Винчи
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/537/index.m3u8
+#EXTINF:tvg-rec="3",Телепутешествия
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2051/index.m3u8
+#EXTINF:tvg-rec="3",Телепутешествия orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9307/index.m3u8
+#EXTINF:tvg-rec="3",ТНОМЕР
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2149/index.m3u8
+#EXTINF:tvg-rec="3",ТНОМЕР orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9293/index.m3u8
+#EXTINF:tvg-rec="0",Big Planet
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14027/index.m3u8
+#EXTINF:tvg-rec="3",Big Planet FHD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9013/index.m3u8
+#EXTINF:tvg-rec="7",CBS Reality
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/706/index.m3u8
+#EXTINF:tvg-rec="3",CBS Reality orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9289/index.m3u8
+#EXTINF:tvg-rec="3",Classical Harmony
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/1037/index.m3u8
+#EXTINF:tvg-rec="0",Da Vinci Learning
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14025/index.m3u8
+#EXTINF:tvg-rec="3",DocuBox HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/968/index.m3u8
+#EXTINF:tvg-rec="3",Flix Snip orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9311/index.m3u8
+#EXTINF:tvg-rec="0",Insight TV HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/19253/index.m3u8
+#EXTINF:tvg-rec="3",Insight UHD 4K
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5000/index.m3u8
+#EXTINF:tvg-rec="3",Kabbala TV
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/1053/index.m3u8
+#EXTINF:tvg-rec="0",LIBERTY BBC
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15108/index.m3u8
+#EXTINF:tvg-rec="0",LIBERTY НАУКА 4K
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/19305/index.m3u8
+#EXTINF:tvg-rec="0",Liberty Планета360 FHD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/17026/index.m3u8
+#EXTINF:tvg-rec="3",Love Nature 4K
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5001/index.m3u8
+#EXTINF:tvg-rec="0",Museum 4K
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14016/index.m3u8
+#EXTINF:tvg-rec="0",Museum HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/7246/index.m3u8
+#EXTINF:tvg-rec="0",NASA TV 4K
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15239/index.m3u8
+#EXTINF:tvg-rec="7",Ocean TV
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/703/index.m3u8
+#EXTINF:tvg-rec="3",Ocean TV orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9312/index.m3u8
+#EXTINF:tvg-rec="7",Outdoor Channel
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/119/index.m3u8
+#EXTINF:tvg-rec="0",Plan B HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/19249/index.m3u8
+#EXTINF:tvg-rec="0",PROKOP TV DOCU HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/19314/index.m3u8
+#EXTINF:tvg-rec="0",PROKOP TV HISTORY HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/18142/index.m3u8
+#EXTINF:tvg-rec="3",Sea TV
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5036/index.m3u8
+#EXTINF:tvg-rec="0",SKY HIGH DOC UHD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/17053/index.m3u8
+#EXTINF:tvg-rec="0",SKY HIGH NATURE 4K
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14247/index.m3u8
+#EXTINF:tvg-rec="0",SKY HIGH NATURE 4K HDR
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14248/index.m3u8
+#EXTINF:tvg-rec="0",SKY HIGH NATURE FHD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/19309/index.m3u8
+#EXTINF:tvg-rec="7",TERRA
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/230/index.m3u8
+#EXTINF:tvg-rec="3",TERRA HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2416/index.m3u8
+#EXTINF:tvg-rec="0",Tokyo MX HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/19162/index.m3u8
+#EXTINF:tvg-rec="7",Travel Channel
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/130/index.m3u8
+#EXTINF:tvg-rec="3",Travel Channel EN
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/1070/index.m3u8
+#EXTINF:tvg-rec="7",Travel Channel HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/233/index.m3u8
+#EXTINF:tvg-rec="3",Travel Channel HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9025/index.m3u8
+#EXTINF:tvg-rec="3",Travel Channel orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9314/index.m3u8
+#EXTINF:tvg-rec="0",Travel Guide TV
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16026/index.m3u8
+#EXTINF:tvg-rec="3",Travel HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/1043/index.m3u8
+#EXTINF:tvg-rec="3",Travel TV
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/1044/index.m3u8
+#EXTINF:tvg-rec="7",travel+adventure
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/850/index.m3u8
+#EXTINF:tvg-rec="3",Travel+Adventure HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9019/index.m3u8
+#EXTINF:tvg-rec="3",Travel+Adventure orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9301/index.m3u8
+#EXTINF:tvg-rec="0",TravelXP 4K
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14026/index.m3u8
+#EXTINF:tvg-rec="0",Глазами Туриста 4K
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15191/index.m3u8
+#EXTINF:tvg-rec="0",Глазами Туриста 4K [HEVEC]
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15147/index.m3u8
+#EXTINF:tvg-rec="3",Глазами туриста HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2104/index.m3u8
+#EXTINF:tvg-rec="0",Глазами Туриста HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15144/index.m3u8
+#EXTINF:tvg-rec="3",Глазами туриста HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9061/index.m3u8
+#EXTINF:tvg-rec="3",Живая Планета
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2101/index.m3u8
+#EXTINF:tvg-rec="3",Живая Планета orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9325/index.m3u8
+#EXTINF:tvg-rec="3",Живая природа HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2074/index.m3u8
+#EXTINF:tvg-rec="3",Живая природа HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9039/index.m3u8
+#EXTINF:tvg-rec="7",Приключения HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/920/index.m3u8
+#EXTINF:tvg-rec="3",Приключения HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9007/index.m3u8
+#EXTINF:tvg-rec="7",Поехали!
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/135/index.m3u8
+#EXTINF:tvg-rec="0",Поехали! HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14020/index.m3u8
+#EXTINF:tvg-rec="3",Поехали! orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9318/index.m3u8
+#EXTINF:tvg-rec="3",Калейдоскоп ТВ
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5037/index.m3u8
+#EXTINF:tvg-rec="3",Кто Куда
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2112/index.m3u8
+#EXTINF:tvg-rec="0",Кто Куда
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/6397/index.m3u8
+#EXTINF:tvg-rec="3",Кто Куда orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9329/index.m3u8
+#EXTINF:tvg-rec="0",Мир Вокруг HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15219/index.m3u8
+#EXTINF:tvg-rec="7",Дикий
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/847/index.m3u8
+#EXTINF:tvg-rec="3",Дикий orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9282/index.m3u8
+#EXTINF:tvg-rec="0",Univer TV HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15113/index.m3u8
+#EXTINF:tvg-rec="0",YOSSO TV C-History
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/18139/index.m3u8
+#EXTINF:tvg-rec="0",Z!Travel HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/17063/index.m3u8
+#EXTINF:tvg-rec="7",Вопросы и ответы
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2026/index.m3u8
+#EXTINF:tvg-rec="3",Вопросы и ответы orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9297/index.m3u8
+#EXTINF:tvg-rec="7",Galaxy
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2010/index.m3u8
+#EXTINF:tvg-rec="3",Galaxy HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5045/index.m3u8
+#EXTINF:tvg-rec="3",Galaxy orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9317/index.m3u8
+#EXTINF:tvg-rec="3",Russia Today Doc HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9031/index.m3u8
+#EXTINF:tvg-rec="7",RTG HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/210/index.m3u8
+#EXTINF:tvg-rec="3",RTG HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9021/index.m3u8
+#EXTINF:tvg-rec="7",RTG TV
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/841/index.m3u8
+#EXTINF:tvg-rec="3",RTG TV orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9280/index.m3u8
+#EXTINF:tvg-rec="0",Russia Today Doc
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14157/index.m3u8
+#EXTINF:tvg-rec="3",Home 4K
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/4002/index.m3u8
+#EXTINF:tvg-rec="0",Home 4K [HEVEC]
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15146/index.m3u8
+#EXTINF:tvg-rec="3",Наша Сибирь 4K
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/4003/index.m3u8
+#EXTINF:tvg-rec="3",Наша сибирь HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9330/index.m3u8
+#EXTINF:tvg-rec="3",Наша тема
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2118/index.m3u8
+#EXTINF:tvg-rec="7",Наша Тема
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/10056/index.m3u8
+#EXTINF:tvg-rec="3",Наша тема orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9286/index.m3u8
+#EXTINF:tvg-rec="7",Первый космический HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/908/index.m3u8
+#EXTINF:tvg-rec="3",Первый космический HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9049/index.m3u8
+#EXTINF:tvg-rec="3",HGTV HD RU
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/6391/index.m3u8
+#EXTINF:tvg-rec="7",HDL
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/226/index.m3u8
+#EXTINF:tvg-rec="0",HDL HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/19251/index.m3u8
+#EXTINF:tvg-rec="3",HDL orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9008/index.m3u8
+#EXTINF:tvg-rec="7",HD Media
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2037/index.m3u8
+#EXTINF:tvg-rec="3",HD media orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9026/index.m3u8
+#EXTINF:tvg-rec="7",Точка отрыва
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/159/index.m3u8
+#EXTINF:tvg-rec="3",Точка отрыва orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9272/index.m3u8
+#EXTINF:tvg-rec="0",Доку HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16047/index.m3u8
+#EXTINF:tvg-rec="7",Моя Стихия
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/742/index.m3u8
+#EXTINF:tvg-rec="0",Моя Стихия HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/7349/index.m3u8
+#EXTINF:tvg-rec="3",Моя Стихия orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9277/index.m3u8
+#EXTINF:tvg-rec="3",Нано ТВ
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2081/index.m3u8
+#EXTINF:tvg-rec="3",Нано ТВ HD
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2135/index.m3u8
+#EXTINF:tvg-rec="3",Нано ТВ HD orig
+#EXTGRP:Познавательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9271/index.m3u8
+#EXTINF:tvg-rec="0",Перец International
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15227/index.m3u8
+#EXTINF:tvg-rec="3",Пятница! HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5031/index.m3u8
+#EXTINF:tvg-rec="7",Пятница!
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/503/index.m3u8
+#EXTINF:tvg-rec="3",Че orig
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9101/index.m3u8
+#EXTINF:tvg-rec="0",MS CRIME HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15136/index.m3u8
+#EXTINF:tvg-rec="0",KLI_Humor_HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/20052/index.m3u8
+#EXTINF:tvg-rec="0",LIBERTY АвтоГир 4K
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15109/index.m3u8
+#EXTINF:tvg-rec="0",Liberty Занавес  HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/17028/index.m3u8
+#EXTINF:tvg-rec="0",Liberty Шоу FHD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/17030/index.m3u8
+#EXTINF:tvg-rec="0",SKY HIGH MAN HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14245/index.m3u8
+#EXTINF:tvg-rec="0",SKY HIGH STANDUP HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/19311/index.m3u8
+#EXTINF:tvg-rec="0",UZ 6 Кадров HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14231/index.m3u8
+#EXTINF:tvg-rec="0",UZ Однажды в России HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14223/index.m3u8
+#EXTINF:tvg-rec="0",VF Однажды в России
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/19286/index.m3u8
+#EXTINF:tvg-rec="0",UZ Уральские Пельмени HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/18169/index.m3u8
+#EXTINF:tvg-rec="0",VF Уральские пельмени
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/18198/index.m3u8
+#EXTINF:tvg-rec="0",VF Comedy Woman
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/18101/index.m3u8
+#EXTINF:tvg-rec="0",ОСП-студия HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16004/index.m3u8
+#EXTINF:tvg-rec="0",Осторожно Модерн HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16005/index.m3u8
+#EXTINF:tvg-rec="0",VF КВН
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14170/index.m3u8
+#EXTINF:tvg-rec="0",VF Концерты
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14159/index.m3u8
+#EXTINF:tvg-rec="0",VF Юмор 18+
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16137/index.m3u8
+#EXTINF:tvg-rec="3",Анекдот ТВ
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5034/index.m3u8
+#EXTINF:tvg-rec="0",Большой Эфир HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14012/index.m3u8
+#EXTINF:tvg-rec="0",Бьюти TV
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16010/index.m3u8
+#EXTINF:tvg-rec="7",Девятая Волна
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/868/index.m3u8
+#EXTINF:tvg-rec="3",Девятая Волна orig
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9332/index.m3u8
+#EXTINF:tvg-rec="7",ТНТ
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/502/index.m3u8
+#EXTINF:tvg-rec="7",ТНТ HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/237/index.m3u8
+#EXTINF:tvg-rec="3",ТНТ FHD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2417/index.m3u8
+#EXTINF:tvg-rec="7",ТНТ4
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/104/index.m3u8
+#EXTINF:tvg-rec="3",ТНТ4 orig
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9208/index.m3u8
+#EXTINF:tvg-rec="7",СТС
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/506/index.m3u8
+#EXTINF:tvg-rec="7",СТС Love
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/103/index.m3u8
+#EXTINF:tvg-rec="3",СТС Love orig
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9099/index.m3u8
+#EXTINF:tvg-rec="3",RTVi
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2086/index.m3u8
+#EXTINF:tvg-rec="7",Суббота
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/826/index.m3u8
+#EXTINF:tvg-rec="3",Суббота orig
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9103/index.m3u8
+#EXTINF:tvg-rec="0",Суббота HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15118/index.m3u8
+#EXTINF:tvg-rec="3",Сарафан orig
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9109/index.m3u8
+#EXTINF:tvg-rec="7",Ностальгия
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/102/index.m3u8
+#EXTINF:tvg-rec="3",Ностальгия orig
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9106/index.m3u8
+#EXTINF:tvg-rec="7",Ю ТВ
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/534/index.m3u8
+#EXTINF:tvg-rec="3",Ю ТВ orig
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9107/index.m3u8
+#EXTINF:tvg-rec="7",КВН ТВ
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/546/index.m3u8
+#EXTINF:tvg-rec="3",КВН ТВ orig
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9108/index.m3u8
+#EXTINF:tvg-rec="7",Сарафан
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/748/index.m3u8
+#EXTINF:tvg-rec="3",Gametoon HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5049/index.m3u8
+#EXTINF:tvg-rec="0",UTv FHD orig
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14167/index.m3u8
+#EXTINF:tvg-rec="3",Кто есть кто orig
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9116/index.m3u8
+#EXTINF:tvg-rec="0",Министерство идей HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16025/index.m3u8
+#EXTINF:tvg-rec="0",Мособр TV HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16043/index.m3u8
+#EXTINF:tvg-rec="0",OstWest
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14021/index.m3u8
+#EXTINF:tvg-rec="3",Gags Network HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/7142/index.m3u8
+#EXTINF:tvg-rec="0",Gagsnetwork
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14024/index.m3u8
+#EXTINF:tvg-rec="7",Globalstar TV
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2035/index.m3u8
+#EXTINF:tvg-rec="3",Globalstar TV orig
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9334/index.m3u8
+#EXTINF:tvg-rec="3",MyZen TV 4K
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5002/index.m3u8
+#EXTINF:tvg-rec="0",Илья ТВ Юмор HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/13000/index.m3u8
+#EXTINF:tvg-rec="0",Илья Юмор HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14208/index.m3u8
+#EXTINF:tvg-rec="7",НАЗАД В 90-e
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/11067/index.m3u8
+#EXTINF:tvg-rec="3",Раз ТВ
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2069/index.m3u8
+#EXTINF:tvg-rec="3",СТС HD
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/6303/index.m3u8
+#EXTINF:tvg-rec="3",СТС HD orig
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9000/index.m3u8
+#EXTINF:tvg-rec="0",СТС International
+#EXTGRP:Развлекательные
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15228/index.m3u8
+#EXTINF:tvg-rec="7",ТВ3
+#EXTGRP:Кино и сериалы
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/508/index.m3u8
+#EXTINF:tvg-rec="3",ТВ3 HD
+#EXTGRP:Кино и сериалы
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5033/index.m3u8
+#EXTINF:tvg-rec="0",НТВ Хит HD
+#EXTGRP:Кино и сериалы
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16062/index.m3u8
+#EXTINF:tvg-rec="0",ZEE TV HD
+#EXTGRP:Кино и сериалы
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/19250/index.m3u8
+#EXTINF:tvg-rec="3",Совершенно секретно orig
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9305/index.m3u8
+#EXTINF:tvg-rec="7",Совершенно секретно
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/121/index.m3u8
+#EXTINF:tvg-rec="3",Т24
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5047/index.m3u8
+#EXTINF:tvg-rec="3",Т24 orig
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9292/index.m3u8
+#EXTINF:tvg-rec="7",Звезда
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/544/index.m3u8
+#EXTINF:tvg-rec="3",Звезда orig
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9098/index.m3u8
+#EXTINF:tvg-rec="0",Звезда HD
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15115/index.m3u8
+#EXTINF:tvg-rec="7",Звезда Плюс
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/10059/index.m3u8
+#EXTINF:tvg-rec="3",Арсенал HD
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5044/index.m3u8
+#EXTINF:tvg-rec="3",Арсенал orig
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9336/index.m3u8
+#EXTINF:tvg-rec="0",VF Авто
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15511/index.m3u8
+#EXTINF:tvg-rec="0",VF Баня
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/18200/index.m3u8
+#EXTINF:tvg-rec="0",VF Охота
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15513/index.m3u8
+#EXTINF:tvg-rec="0",VF Путешествия
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15515/index.m3u8
+#EXTINF:tvg-rec="0",VF Рыбалка
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16138/index.m3u8
+#EXTINF:tvg-rec="0",VF Стройка
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16139/index.m3u8
+#EXTINF:tvg-rec="7",Авто 24
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/538/index.m3u8
+#EXTINF:tvg-rec="3",Авто 24 orig
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9309/index.m3u8
+#EXTINF:tvg-rec="7",Авто Плюс
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/151/index.m3u8
+#EXTINF:tvg-rec="3",Авто Плюс HD
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/6369/index.m3u8
+#EXTINF:tvg-rec="3",Авто Плюс orig
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9269/index.m3u8
+#EXTINF:tvg-rec="3",Связист ТВ
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2111/index.m3u8
+#EXTINF:tvg-rec="3",Связист ТВ orig
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9291/index.m3u8
+#EXTINF:tvg-rec="0",Дайвинг TV HD
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16012/index.m3u8
+#EXTINF:tvg-rec="3",Диалоги о рыбалке HD
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2394/index.m3u8
+#EXTINF:tvg-rec="7",Дикая охота HD
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2004/index.m3u8
+#EXTINF:tvg-rec="3",Дикая охота HD orig
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9081/index.m3u8
+#EXTINF:tvg-rec="7",Дикая рыбалка HD
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2005/index.m3u8
+#EXTINF:tvg-rec="3",Дикая рыбалка HD orig
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9082/index.m3u8
+#EXTINF:tvg-rec="0",Рыболов HD
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/19254/index.m3u8
+#EXTINF:tvg-rec="3",Оружие
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2087/index.m3u8
+#EXTINF:tvg-rec="3",Оружие orig
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9323/index.m3u8
+#EXTINF:tvg-rec="7",Охота и рыбалка
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2019/index.m3u8
+#EXTINF:tvg-rec="3",Охота и рыбалка orig
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9284/index.m3u8
+#EXTINF:tvg-rec="7",Охотник и рыболов HD
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/917/index.m3u8
+#EXTINF:tvg-rec="3",Охотник и Рыболов HD orig
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9043/index.m3u8
+#EXTINF:tvg-rec="7",Мужской
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2047/index.m3u8
+#EXTINF:tvg-rec="3",Мужской orig
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9306/index.m3u8
+#EXTINF:tvg-rec="3",Трофей HD
+#EXTGRP:Мужские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9076/index.m3u8
+#EXTINF:tvg-rec="3",Теледом HD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/954/index.m3u8
+#EXTINF:tvg-rec="7",Телекафе
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/865/index.m3u8
+#EXTINF:tvg-rec="3",Телекафе orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9278/index.m3u8
+#EXTINF:tvg-rec="3",Тонус ТВ
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2054/index.m3u8
+#EXTINF:tvg-rec="3",Тонус ТВ Orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9308/index.m3u8
+#EXTINF:tvg-rec="0",E
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14017/index.m3u8
+#EXTINF:tvg-rec="7",E
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/736/index.m3u8
+#EXTINF:tvg-rec="0",E HD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14018/index.m3u8
+#EXTINF:tvg-rec="0",E HD orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14019/index.m3u8
+#EXTINF:tvg-rec="3",Fashion One
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/1010/index.m3u8
+#EXTINF:tvg-rec="0",Fashion LifeStyle HD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14015/index.m3u8
+#EXTINF:tvg-rec="3",Fashion One FHD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2412/index.m3u8
+#EXTINF:tvg-rec="7",Fashion One HD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2044/index.m3u8
+#EXTINF:tvg-rec="0",Fashion One HD 50
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/10019/index.m3u8
+#EXTINF:tvg-rec="3",Fashion TV FHD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2411/index.m3u8
+#EXTINF:tvg-rec="7",Fashion TV HD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2045/index.m3u8
+#EXTINF:tvg-rec="0",Fashion TV HD 50
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/10018/index.m3u8
+#EXTINF:tvg-rec="3",Fashion TV orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9335/index.m3u8
+#EXTINF:tvg-rec="3",Fashion TV UHD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/4005/index.m3u8
+#EXTINF:tvg-rec="0",Fashion TV Россия HD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14014/index.m3u8
+#EXTINF:tvg-rec="3",World Fashion Channel
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/1068/index.m3u8
+#EXTINF:tvg-rec="3",World Fashion Channel orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9287/index.m3u8
+#EXTINF:tvg-rec="0",Dosug TV Test
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/20087/index.m3u8
+#EXTINF:tvg-rec="0",Dosug TV ER
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/20088/index.m3u8
+#EXTINF:tvg-rec="3",Food Network FHD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2419/index.m3u8
+#EXTINF:tvg-rec="0",Food Network HD 50
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/10026/index.m3u8
+#EXTINF:tvg-rec="7",FoodTime
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/918/index.m3u8
+#EXTINF:tvg-rec="3",FoodTime FHD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2418/index.m3u8
+#EXTINF:tvg-rec="0",FoodTime HD 50
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/10025/index.m3u8
+#EXTINF:tvg-rec="7",Первый Вегетарианский
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/833/index.m3u8
+#EXTINF:tvg-rec="3",Первый вегетарианский orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9320/index.m3u8
+#EXTINF:tvg-rec="0",Вкусное TV HD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16013/index.m3u8
+#EXTINF:tvg-rec="0",VF Домашний повар
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15514/index.m3u8
+#EXTINF:tvg-rec="3",Еда Премиум
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/862/index.m3u8
+#EXTINF:tvg-rec="3",Еда
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/6009/index.m3u8
+#EXTINF:tvg-rec="7",Кухня ТВ
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/152/index.m3u8
+#EXTINF:tvg-rec="3",Кухня ТВ orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9270/index.m3u8
+#EXTINF:tvg-rec="3",Театр
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2431/index.m3u8
+#EXTINF:tvg-rec="0",Славянский Мир
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/14013/index.m3u8
+#EXTINF:tvg-rec="3",Театр orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9337/index.m3u8
+#EXTINF:tvg-rec="0",Загородная жизнь HD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/7348/index.m3u8
+#EXTINF:tvg-rec="3",Зал суда HD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/7141/index.m3u8
+#EXTINF:tvg-rec="3",Просвещение orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9304/index.m3u8
+#EXTINF:tvg-rec="7",Продвижение
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/851/index.m3u8
+#EXTINF:tvg-rec="3",Продвижение orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9331/index.m3u8
+#EXTINF:tvg-rec="7",Доктор
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/512/index.m3u8
+#EXTINF:tvg-rec="3",Доктор orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9294/index.m3u8
+#EXTINF:tvg-rec="7",Бобёр
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/725/index.m3u8
+#EXTINF:tvg-rec="0",Релакс TV
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16011/index.m3u8
+#EXTINF:tvg-rec="3",Солнце
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/872/index.m3u8
+#EXTINF:tvg-rec="3",СПАС
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/983/index.m3u8
+#EXTINF:tvg-rec="7",Союз
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2016/index.m3u8
+#EXTINF:tvg-rec="3",Точка ТВ
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2053/index.m3u8
+#EXTINF:tvg-rec="7",Здоровое ТВ
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2022/index.m3u8
+#EXTINF:tvg-rec="3",Здоровое ТВ orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9113/index.m3u8
+#EXTINF:tvg-rec="7",Мама
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/704/index.m3u8
+#EXTINF:tvg-rec="3",Мама orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9288/index.m3u8
+#EXTINF:tvg-rec="7",Психология 21
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2025/index.m3u8
+#EXTINF:tvg-rec="3",Надежда
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2153/index.m3u8
+#EXTINF:tvg-rec="3",Надежда orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9273/index.m3u8
+#EXTINF:tvg-rec="7",Усадьба
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/532/index.m3u8
+#EXTINF:tvg-rec="3",Усадьба orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9279/index.m3u8
+#EXTINF:tvg-rec="7",Ювелирия
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2034/index.m3u8
+#EXTINF:tvg-rec="3",Ювелирия orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9302/index.m3u8
+#EXTINF:tvg-rec="3",Психология 21 orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9114/index.m3u8
+#EXTINF:tvg-rec="0",ЖИВИ! HD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/19252/index.m3u8
+#EXTINF:tvg-rec="7",Загородная Жизнь
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/852/index.m3u8
+#EXTINF:tvg-rec="3",Загородная жизнь orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9319/index.m3u8
+#EXTINF:tvg-rec="3",Загородный int HD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2124/index.m3u8
+#EXTINF:tvg-rec="3",Загородный int HD orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9268/index.m3u8
+#EXTINF:tvg-rec="7",Успех
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2041/index.m3u8
+#EXTINF:tvg-rec="3",Успех orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9115/index.m3u8
+#EXTINF:tvg-rec="3",Открытый мир
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2078/index.m3u8
+#EXTINF:tvg-rec="3",Три ангела
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2116/index.m3u8
+#EXTINF:tvg-rec="3",Три ангела orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9210/index.m3u8
+#EXTINF:tvg-rec="7",Кто есть кто
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2042/index.m3u8
+#EXTINF:tvg-rec="3",Загородный
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2099/index.m3u8
+#EXTINF:tvg-rec="3",E TV
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5048/index.m3u8
+#EXTINF:tvg-rec="0",Небеса ТВ7 HD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/16024/index.m3u8
+#EXTINF:tvg-rec="3",Luxury
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/2072/index.m3u8
+#EXTINF:tvg-rec="3",Luxury
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/5032/index.m3u8
+#EXTINF:tvg-rec="3",Luxury HD orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9038/index.m3u8
+#EXTINF:tvg-rec="0",English Club HD
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/15190/index.m3u8
+#EXTINF:tvg-rec="3",English Club orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9299/index.m3u8
+#EXTINF:tvg-rec="3",English Club TV
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/993/index.m3u8
+#EXTINF:tvg-rec="7",НТВ Право
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/743/index.m3u8
+#EXTINF:tvg-rec="3",НТВ Право orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9327/index.m3u8
+#EXTINF:tvg-rec="7",НТВ Стиль
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/745/index.m3u8
+#EXTINF:tvg-rec="3",НТВ Стиль orig
+#EXTGRP:Женские
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9328/index.m3u8
+#EXTINF:tvg-rec="3",Восьмой канал orig
+#EXTGRP:Камеры
+http://4f1d184d.ottrast.com/iptv/X6VDPNACUYBA27/9281/index.m3u8
